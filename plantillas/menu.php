@@ -84,7 +84,7 @@
                                     <a class="dropdown-item" href="hogar.php">Hogar</a>
                                     <a class="dropdown-item" href="clubdeniños.php">Club de Niños</a>
                                     <a class="dropdown-item" href="caif.php">CAIF</a>
-                                    <a class="dropdown-item" href="socat.php">La Storta</a>
+                                    <a class="dropdown-item" href="storta.php">La Storta</a>
                                 </div>
                             </li>
                             <!-- menu item -->

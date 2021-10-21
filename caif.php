@@ -33,7 +33,7 @@
          <!-- page with sidebar starts -->
          <div class="col-lg-9 page-with-sidebar">
             <div class="col-md-12">
-               <h2>CAIF</h2>
+               <h2>CAIF Los Periquitos</h2>
                <!-- Image -->
                <p class="h7"></p>
                <p>Funciona desde 2004, atendiendo población de las zonas de Pueblo Nuevo, Villa Ilusión, Herten y Corfrisa. En la actualidad se atiende a 85 niñ@s y sus familias con el objetivo de acompañar su desarrollo integral. Con el fin de asegurar este objetivo se despliegan dos programas:<br>

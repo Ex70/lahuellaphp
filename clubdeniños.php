@@ -33,7 +33,7 @@
          <!-- page with sidebar starts -->
          <div class="col-lg-9 page-with-sidebar">
             <div class="col-md-12">
-               <h2>Club De Niños</h2>
+               <h2>Club De Niños y Niñas Huellita</h2>
                <!-- Image -->
                <p class="h7"></p>
                <p>El Club de Niños y Niñas La Huellita es un proyecto en convenio con INAU que funciona con modalidad de tiempo parcial, de lunes a viernes, durante el horario de la mañana. Es un espacio educativo para niños y niñas en edad escolar que, como experiencia asociativa y formativa, promueve el aprendizaje cooperativo a través de diversos talleres.<br>
