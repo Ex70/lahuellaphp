@@ -14,7 +14,7 @@
         <!-- Breadcrumbs -->
         <nav aria-label="breadcrumb">
            <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+              <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
               <li class="breadcrumb-item"><a href="index.html">Colaborar</a></li><li class="breadcrumb-item active" aria-current="page">Alianzas</li>
            </ol>
         </nav>
@@ -127,7 +127,7 @@
            <div class="tab-pane" id="tab4" role="tabpanel" aria-labelledby="tab4-tab">
               <div class="row">
                  <div class="col-lg-6">
-                    <h3>Classes</h3>
+                    <h3>Clases</h3>
                     <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
                     <ul class="custom pl-0">
                        <li>Over 30 Qualified professionals</li>
@@ -135,7 +135,7 @@
                        <li>Educational activities in our daily plan</li>
                     </ul>
                     <!-- Button -->	 
-                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
+                    <a href="services-single.html" class="btn btn-secondary mt-4">Leer Más</a>
                  </div>
                  <!-- /col-lg -->
                  <div class="col-lg-6 res-margin">
