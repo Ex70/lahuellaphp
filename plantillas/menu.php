@@ -37,6 +37,7 @@
                                 <li class="list-inline-item"><a title="Facebook" target="_blank" href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
                                 <li class="list-inline-item"><a  title="Instagram" target="_blank" href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
                                 <li class="list-inline-item"><a title="YouTube" target="_blank" href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
+                                <li class="list-inline-item"><a  title="Instagram" target="_blank" href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
                             </ul>
                             <!-- /End Social Links -->
                         </div>
@@ -72,7 +73,7 @@
                                 <div class="dropdown-menu" aria-labelledby="services-dropdown">
                                     <a class="dropdown-item" href="comisiondirectiva.php">Comisión Directiva</a>
                                     <a class="dropdown-item" href="equipotrabajo.php">Equipo de Trabajo</a>
-                                    <a class="dropdown-item" href="personeriajuridica.php">Personería Jurídica</a>
+                                    <a class="dropdown-item" href="hogarlahuella.php">A.C. Hogar La Huella</a>
                                     <a class="dropdown-item" href="laspiedras.php">Las Piedras, Canelones</a>
                                 </div>
                             </li>
@@ -83,7 +84,6 @@
                                     <a class="dropdown-item" href="hogar.php">Hogar</a>
                                     <a class="dropdown-item" href="clubdeniños.php">Club de Niños</a>
                                     <a class="dropdown-item" href="caif.php">CAIF</a>
-                                    <a class="dropdown-item" href="socat.php">SOCAT</a>
                                     <a class="dropdown-item" href="socat.php">La Storta</a>
                                 </div>
                             </li>
@@ -93,7 +93,7 @@
                                 <div class="dropdown-menu" aria-labelledby="about-dropdown">
                                     <a class="dropdown-item" href="apoyoeconomico.php">Apoyo Económico</a>
                                     <a class="dropdown-item" href="apoyoenespecie.php">Apoyo en Especie</a>
-                                    <a class="dropdown-item" href="apoyoeconomico.php">Apoyo en Servicios</a>
+                                    <a class="dropdown-item" href="apoyoenservicios.php">Apoyo en Servicios</a>
                                     <a class="dropdown-item" href="voluntarios.php">Voluntarios</a>
                                     <a class="dropdown-item" href="alianzas.php">Alianzas</a>
                                     <a class="dropdown-item" href="apoyoeconomico.php">Salón de Eventos</a>
@@ -103,11 +103,10 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="gallery-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Galeria</a>
                                 <div class="dropdown-menu" aria-labelledby="gallery-dropdown">
-                                    <a class="dropdown-item" href="gallery.php">Actuales</a>
-                                    <a class="dropdown-item" href="gallery2.php">Historicas</a>
-                                    <a class="dropdown-item" href="gallery2.php">Institucionales</a>
-                                    <a class="dropdown-item" href="gallery2.php">Actividades</a>
-                                    <a class="dropdown-item" href="gallery2.php">Salón de Eventos</a>
+                                    <a class="dropdown-item" href="gallery.php">Instalaciones</a>
+                                    <a class="dropdown-item" href="gallery.php">Actividades</a>
+                                    <a class="dropdown-item" href="gallery.php">Salón de Eventos</a>
+                                    <a class="dropdown-item" href="gallery.php">Históricas</a>
                                 </div>
                             </li>
                             <!-- menu item -->
