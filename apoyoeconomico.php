@@ -14,7 +14,7 @@
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
+               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
                <li class="breadcrumb-item active" aria-current="page">Colaborar</li>
             </ol>
          </nav>
@@ -41,7 +41,7 @@
                </p>
                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et ma</p>
                <!-- Button -->    
-               <a href="contact.html" class="btn btn-quaternary mt-2">Contácte con nosotros</a>
+               <a href="contacto.php" class="btn btn-quaternary mt-2">Contácte con nosotros</a>
             </div>
             <!-- /col-lg -->
          </div>
