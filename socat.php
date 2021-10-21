@@ -41,7 +41,7 @@
                <!-- row -->
                <div class="row">
                   <div class="col-md-5">
-                     <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
+                     <div class="col-md-12 carousel-1item owl-carousel owl-theme ">
                         <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
@@ -69,7 +69,7 @@
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">
-                     <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
+                     <div class="col-md-12 carousel-1item owl-carousel owl-theme ">
                         <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
@@ -94,7 +94,7 @@
                   </a>
                   <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de niños</a>
                   <a href="caif.php" class="list-group-item list-group-item-action">CAIF</a>
-                  <a href="socat.php" class="list-group-item list-group-item-action">SOCAT</a>
+                  <a href="socat.php" class="list-group-item list-group-item-action active">SOCAT</a>
                </div>
                <!-- /list-group -->
             </div>
