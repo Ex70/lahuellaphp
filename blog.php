@@ -4,8 +4,6 @@
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
 ?>
-      <!-- page wrapper starts -->
-      <div id="page-wrapper"><!-- Jumbotron -->
 <div class="jumbotron jumbotron-fluid">
    <div class="container" >
       <!-- jumbo-heading -->
@@ -279,8 +277,6 @@
    </div>
    <!-- /.container -->
 </div>
-<!-- /page --></div>
-<!--/ page-wrapper -->
 
 <?php
    include 'plantillas/footer.php';
