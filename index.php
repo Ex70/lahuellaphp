@@ -341,7 +341,7 @@
             <div class="blog-box-caption">
                <!-- date -->
                <div class="date"><span class="day">12</span><span class="month">Mayo</span></div>
-               <a href="blog-single.html">
+               <a href="Lahuella45.php">
                   <h4>La Huella Cumple 45 Años</h4>
                </a>
                <!-- /link -->
@@ -350,7 +350,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-                  <a href="blog-single.html" class="btn btn-primary ">Leer más</a>
+                  <a href="Lahuella45.php" class="btn btn-primary ">Leer más</a>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
@@ -364,7 +364,7 @@
             <div class="blog-box-caption">
                <!-- date -->
                <div class="date"><span class="day">28</span><span class="month">Junio</span></div>
-               <a href="blog-single.html">
+               <a href="videoinstitucional.php">
                   <h4>Nuestro Video Institucional</h4>
                </a>
                <!-- /link -->
@@ -373,7 +373,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-                  <a href="blog-single.html" class="btn btn-primary ">Leer más</a>
+                  <a href="videoinstitucional.php" class="btn btn-primary ">Leer más</a>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
@@ -387,7 +387,7 @@
             <div class="blog-box-caption">
                <!-- date -->
                <div class="date"><span class="day">02</span><span class="month">Julio</span></div>
-               <a href="blog-single.html">
+               <a href="libro-historia.php">
                   <h4>El Libro Con Nuestra Historia</h4>
                </a>
                <!-- /link -->
@@ -396,7 +396,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-                  <a href="blog-single.html" class="btn btn-primary ">Leer más</a>
+                  <a href="libro-historia.php" class="btn btn-primary ">Leer más</a>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->

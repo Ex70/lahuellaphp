@@ -5,7 +5,7 @@
    include 'plantillas/menu.php';
 ?>
       <!-- page wrapper starts -->
-      <div id="page-wrapper"><!-- Jumbotron -->
+      <!-- Jumbotron -->
 <div class="jumbotron jumbotron-fluid">
    <div class="container" >
       <div class="jumbo-heading" data-aos="fade-down">

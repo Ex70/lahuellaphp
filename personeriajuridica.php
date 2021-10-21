@@ -6,7 +6,7 @@
 ?>
 
 <!-- page wrapper starts -->
-<div id="page-wrapper"><!-- Jumbotron -->
+<!-- Jumbotron -->
    <div class="jumbotron jumbotron-fluid">
       <div class="container" >
          <!-- jumbo-heading -->
