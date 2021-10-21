@@ -69,7 +69,7 @@
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">
-                     <div class="col-md-12 carousel-1item owl-carousel owl-theme ">
+                     <div class="col-md-12 carousel-1item owl-carousel owl-theme">
                         <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
