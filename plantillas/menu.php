@@ -133,7 +133,7 @@
     </nav>
     <!-- /nav -->
       <!-- page wrapper starts -->
-      <div id="page-wrapper" style="padding-top: 0px;"><!-- Jumbotron -->
+      <div id="page" class="head0"><!-- Jumbotron -->
 
       <?php if(!empty($slide)) { ?>
       <div class="container-fluid p-0">
