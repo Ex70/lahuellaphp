@@ -16,7 +16,7 @@ function checkDisplay(){
         }).animate({
           countNum: countTo
         }, {
-          duration: 2000,
+          duration: 500,
           easing: 'linear',
           step: function() {
             $this.text(Math.floor(this.countNum));

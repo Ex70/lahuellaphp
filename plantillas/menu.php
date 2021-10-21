@@ -68,7 +68,7 @@
                             </li>
                             <!-- menu item -->
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nosotros</a>
+                                <a class="nav-link dropdown-toggle" href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">A.C. Hogar la Huella</a>
                                 <div class="dropdown-menu" aria-labelledby="services-dropdown">
                                     <a class="dropdown-item" href="comisiondirectiva.php">Comisión Directiva</a>
                                     <a class="dropdown-item" href="equipotrabajo.php">Equipo de Trabajo</a>
@@ -78,12 +78,13 @@
                             </li>
                             <!-- menu item -->
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servicios</a>
+                                <a class="nav-link dropdown-toggle" href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programas</a>
                                 <div class="dropdown-menu" aria-labelledby="services-dropdown">
                                     <a class="dropdown-item" href="hogar.php">Hogar</a>
                                     <a class="dropdown-item" href="clubdeniños.php">Club de Niños</a>
                                     <a class="dropdown-item" href="caif.php">CAIF</a>
                                     <a class="dropdown-item" href="socat.php">SOCAT</a>
+                                    <a class="dropdown-item" href="socat.php">La Storta</a>
                                 </div>
                             </li>
                             <!-- menu item -->
@@ -92,20 +93,21 @@
                                 <div class="dropdown-menu" aria-labelledby="about-dropdown">
                                     <a class="dropdown-item" href="apoyoeconomico.php">Apoyo Económico</a>
                                     <a class="dropdown-item" href="apoyoenespecie.php">Apoyo en Especie</a>
+                                    <a class="dropdown-item" href="apoyoeconomico.php">Apoyo en Servicios</a>
                                     <a class="dropdown-item" href="voluntarios.php">Voluntarios</a>
                                     <a class="dropdown-item" href="alianzas.php">Alianzas</a>
+                                    <a class="dropdown-item" href="apoyoeconomico.php">Salón de Eventos</a>
                                 </div>
                             </li>
                             <!-- menu item -->
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="gallery-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Galeria</a>
                                 <div class="dropdown-menu" aria-labelledby="gallery-dropdown">
-                                    <a class="dropdown-item" href="gallery.php">La Casa</a>
-                                    <a class="dropdown-item" href="gallery2.php">Parque</a>
-                                    <a class="dropdown-item" href="gallery2.php">Niños</a>
-                                    <a class="dropdown-item" href="gallery2.php">Adolescentes</a>
-                                    <a class="dropdown-item" href="gallery2.php">Jóvenes</a>
-                                    <a class="dropdown-item" href="gallery2.php">Salón</a>
+                                    <a class="dropdown-item" href="gallery.php">Actuales</a>
+                                    <a class="dropdown-item" href="gallery2.php">Historicas</a>
+                                    <a class="dropdown-item" href="gallery2.php">Institucionales</a>
+                                    <a class="dropdown-item" href="gallery2.php">Actividades</a>
+                                    <a class="dropdown-item" href="gallery2.php">Salón de Eventos</a>
                                 </div>
                             </li>
                             <!-- menu item -->
@@ -114,6 +116,8 @@
                                 <div class="dropdown-menu" aria-labelledby="others-dropdown">
                                     <a class="dropdown-item" href="blog.php">Blog</a>
                                     <a class="dropdown-item" href="blog2.php">Boletín</a>
+                                    <a class="dropdown-item" href="blog2.php">Libro</a>
+                                    <a class="dropdown-item" href="blog2.php">Video Institucional</a>
                                 </div>
                             </li>
                             <!-- menu item -->

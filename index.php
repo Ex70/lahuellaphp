@@ -293,7 +293,7 @@
                <div class="counter-wrapper" id="cuadroicon2">
                   <i class="counter-icon flaticon-family"></i>
                   <!-- insert your final value on data-count= -->
-                  <div class="counter-value" data-count="200">0</div>
+                  <div class="counter-value" data-count="900">0</div>
                   <h3 class="title">Familias Apoyadas</h3>
                </div>
             </div>
@@ -306,7 +306,7 @@
                <div class="counter-wrapper bg-tertiary" id="cuadroicon">
                   <i class="counter-icon flaticon-children"></i>
                   <!-- insert your final value on data-count= -->
-                  <div class="counter-value" data-count="300">0</div>
+                  <div class="counter-value" data-count="450">0</div>
                   <h3 class="title">Voluntarios</h3>
                </div>
             </div>
@@ -342,7 +342,7 @@
                <!-- date -->
                <div class="date"><span class="day">12</span><span class="month">Mayo</span></div>
                <a href="blog-single.html">
-                  <h4>Kermesse</h4>
+                  <h4>La Huella Cumple 45 Años</h4>
                </a>
                <!-- /link -->
                <p>
@@ -350,14 +350,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-            <div class="blog-box-footer">
-               <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Lauren Smith</a></div>
-               <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>23</a></div>
-               <!-- Button -->	 
-               <div class="text-center col-md-12">
                   <a href="blog-single.html" class="btn btn-primary ">Leer más</a>
-               </div>
-            </div>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
@@ -372,7 +365,7 @@
                <!-- date -->
                <div class="date"><span class="day">28</span><span class="month">Junio</span></div>
                <a href="blog-single.html">
-                  <h4>Nuestras comidad saludable que le encantan a los niños pequeños</h4>
+                  <h4>Nuestro Video Institucional</h4>
                </a>
                <!-- /link -->
                <p>
@@ -380,14 +373,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-            <div class="blog-box-footer">
-               <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Jonas Doe</a></div>
-               <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>5</a></div>
-               <!-- Button -->	 
-               <div class="text-center col-md-12">
                   <a href="blog-single.html" class="btn btn-primary ">Leer más</a>
-               </div>
-            </div>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
@@ -402,7 +388,7 @@
                <!-- date -->
                <div class="date"><span class="day">02</span><span class="month">Julio</span></div>
                <a href="blog-single.html">
-                  <h4>20 Actividades que hacer con tus hijos</h4>
+                  <h4>El Libro Con Nuestra Historia</h4>
                </a>
                <!-- /link -->
                <p>
@@ -410,46 +396,11 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-            <div class="blog-box-footer">
-               <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Lauren Smith</a></div>
-               <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>10</a></div>
-               <!-- Button -->	 
-               <div class="text-center col-md-12">
                   <a href="blog-single.html" class="btn btn-primary ">Leer más</a>
-               </div>
-            </div>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
          <!-- blog-box -->
-         <div class="blog-box">
-            <!-- image -->
-            <a href="blog-single.html">
-               <div class="image"><img src="img/blog/blogstyle2-4.webp" alt=""/></div>
-            </a>
-            <!-- blog-box-caption -->
-            <div class="blog-box-caption">
-               <!-- date -->
-               <div class="date"><span class="day">18</span><span class="month">Junio</span></div>
-               <a href="blog-single.html">
-                  <h4>Actividades para estimular el cerebro de los niños</h4>
-               </a>
-               <!-- /link -->
-               <p>
-                  Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
-               </p>
-            </div>
-            <!-- blog-box-footer -->
-            <div class="blog-box-footer">
-               <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Jonas Doe</a></div>
-               <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>11</a></div>
-               <!-- Button -->	 
-               <div class="text-center col-md-12">
-                  <a href="blog-single.html" class="btn btn-primary ">Leer más</a>
-               </div>
-            </div>
-            <!-- /blog-box-footer -->
-         </div>
          <!-- /blog-box -->
       </div>
       <!-- /owl-carousel -->

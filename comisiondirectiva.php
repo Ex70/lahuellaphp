@@ -36,7 +36,7 @@
                            <div class="col-lg-12 team-style3 bg-secondary pattern2">
                               <!-- image -->
                               <a href="team-single.html">
-                              <img src="img/team/team1.jpg" class="img-fluid rounded" alt="" />
+                              <img src="img/JuanBerenguer.jpg" class="img-fluid rounded" alt="" />
                               </a>
                               <!-- caption -->
                               <div class="team-caption">
@@ -45,14 +45,16 @@
                                  </a>
                                  <h6>Presidente</h6>
                                  <p>
-                                    Incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosa    
+                                 Contador público, con posgrado en economía y gestión para la inclusión. Amplia experiencia en organizaciones de la sociedad civil con énfasis en infancia, inclusión social, empleo y desarrollo. Desarrollo profesional independiente.<br> 
+                                 Programas<br>
+                                 Acompañamiento a emprendimientos productivos de MIDES.
+
                                  </p>
                               </div>
                               <!-- social icons -->
                               <div class="icons bg-tertiary">
                                  <a href="#"><i class="fa fa-envelope"></i></a>
-                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                 <a href="#"><i class="fab fa-instagram"></i></a>
+                                 <a href="https://www.linkedin.com/in/juan-berenguer-48675454/" target="_self_blank"><i class="fab fa-linkedin"></i></a>
                               </div>
                            </div>
                            <!-- /team-style3 -->
@@ -60,7 +62,7 @@
                            <div class="col-lg-12 team-style3 bg-secondary pattern2">
                               <!-- image -->
                               <a href="team-single.html">
-                              <img src="img/team/team2.jpg" class="img-fluid rounded" alt="" />
+                              <img src="img/FelipeCordoves.jpg" class="img-fluid rounded" alt="" />
                               </a>
                               <!-- caption -->
                            <div class="team-caption">
@@ -75,8 +77,7 @@
                               <!-- social icons -->
                               <div class="icons bg-tertiary">
                                  <a href="#"><i class="fa fa-envelope"></i></a>
-                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                 <a href="#"><i class="fab fa-instagram"></i></a>
+                                 <a href="https://www.linkedin.com/in/felipe-cordov%C3%A9s-16231350/?locale=en_US" target="_self_blank"><i class="fab fa-linkedin"></i></a>
                               </div>
                            </div>
                            <!-- /team-style3 -->
@@ -99,8 +100,7 @@
                               <!-- social icons -->
                               <div class="icons bg-tertiary">
                                  <a href="#"><i class="fa fa-envelope"></i></a>
-                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                 <a href="#"><i class="fab fa-instagram"></i></a>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
                               </div>
                            </div>
                            <!-- /team-style3 -->
@@ -123,8 +123,7 @@
                               <!-- social icons -->
                               <div class="icons bg-tertiary">
                                  <a href="#"><i class="fa fa-envelope"></i></a>
-                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                 <a href="#"><i class="fab fa-instagram"></i></a>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
                               </div>
                            </div>
                            <!-- /team-style3 -->
@@ -147,8 +146,7 @@
                               <!-- social icons -->
                               <div class="icons bg-tertiary">
                                  <a href="#"><i class="fa fa-envelope"></i></a>
-                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                 <a href="#"><i class="fab fa-instagram"></i></a>
+                                 <a href="https://www.linkedin.com/in/rodolfo-fonseca-2a331b2a/?locale=es_ES"target="_self_blank"><i class="fab fa-linkedin"></i></a>
                               </div>
                            </div>
                            <!-- /team-style3 -->
@@ -184,9 +182,8 @@
                                  <!-- /mx-4 -->
                                  <!-- Team social icons -->
                                  <ul class="social-icons bg-tertiary text-center">
-                                    <li> <a href="#"><i class="fab fa-facebook"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 <a href="#"><i class="fa fa-envelope"></i></a>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
                                  </ul>
                               </div>
                               <!-- /Team member 1 -->
@@ -211,9 +208,8 @@
                                  <!-- /mx-4 -->
                                  <!-- Team social icons -->
                                  <ul class="social-icons bg-tertiary text-center">
-                                    <li> <a href="#"><i class="fab fa-facebook"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 <a href="#"><i class="fa fa-envelope"></i></a>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
                                  </ul>
                               </div>
                               <!-- /Team member 2 -->
@@ -238,9 +234,8 @@
                                  <!-- /mx-4 -->
                                  <!-- Team social icons -->
                                  <ul class="social-icons bg-tertiary text-center">
-                                    <li> <a href="#"><i class="fab fa-facebook"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 <a href="#"><i class="fa fa-envelope"></i></a>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
                                  </ul>
                               </div>
                               <!-- /Team member 3 -->
@@ -265,8 +260,7 @@
                                  <!-- /mx-4 -->
                                  <!-- Team social icons -->
                                  <ul class="social-icons bg-tertiary text-center">
-                                    <li> <a href="#"><i class="fab fa-facebook"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-twitter"></i></a></li>
+                                 <a href="#"><i class="fa fa-envelope"></i></a>
                                     <li> <a href="#"><i class="fab fa-linkedin"></i></a></li>
                                  </ul>
                               </div>
@@ -292,9 +286,8 @@
                                  <!-- /mx-4 -->
                                  <!-- Team social icons -->
                                  <ul class="social-icons bg-tertiary text-center">
-                                    <li> <a href="#"><i class="fab fa-facebook"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li> <a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 <a href="#"><i class="fa fa-envelope"></i></a>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
                                  </ul>
                               </div>
                               <!-- /Team member 5 -->
@@ -343,10 +336,10 @@
                   <div class="contact-icon-info">
                      <ul class="social-media text-center">
                         <!--social icons -->
-                        <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
+                        <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
+                        <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
                      </ul>
                   </div>
                   <!--/contact-icon-info -->

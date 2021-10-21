@@ -55,16 +55,17 @@
                         <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
                         <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
                         <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
                     </ul>
                     <!-- /End Social Links -->
                 </div>
                 <!--/ col-lg -->
                 <div class="col-lg-4 text-center">
-                    <h5>Horario de trabajo</h5>
+                    <h5>Horario de Trabajo</h5>
                     <ul class="list-unstyled mt-3">
                         <li class="mb-1">Lunes a viernes</li>
                         <li class="mb-1">Abierto de 9am a 6 pm</li>
-                        <li class="mb-1">vacaciones - Cerrado</li>
+                        <li class="mb-1">Vacaciones - Cerrado</li>
                         <li>Fines de Semana - Cerrado</li>
                     </ul>
                     <!--/ul -->
@@ -75,7 +76,7 @@
             <hr/>
             <div class="row">
                 <div class="credits col-sm-12">
-                    <p>Copyright 2021 / Designed by <a href="http://www.redimensiona.mx/">redimensiona.mx</a></p>
+                    <p>Copyright 2021 / Diseñado Por <a href="http://www.redimensiona.mx/">redimensiona.mx</a></p>
                 </div>
             </div>
             <!--/row-->

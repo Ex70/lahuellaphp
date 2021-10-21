@@ -33,7 +33,7 @@
          <!-- page with sidebar starts -->
          <div class="col-lg-9 page-with-sidebar">
             <div class="col-md-12">
-               <h2>Hogar</h2>
+               <h2>Hogar La Huella</h2>
                <!-- Image -->
                <p class="h7"></p>
                <p>El Hogar La Huella es un centro educativo que alberga a 22 niñas/os y adolescentes. Luego un educador los acompaña a su lugar de estudio; concurren a distintas instituciones de la zona (Escuelas, Liceos, UTU, CECAP, Aulas comunitarias, PAGRO).  <br>
@@ -87,12 +87,12 @@
             <div class="widget-area notepad">
                <h5 class="sidebar-header" id="servicioicon">Servicios</h5>
                <div class="list-group">
-                  <a href="" class="list-group-item list-group-item-action active">
-                  Hogar
+                  <a href="hogar.php" class="list-group-item list-group-item-action active">
+                  Hogar La Huella
                   </a>
-                  <a href="" class="list-group-item list-group-item-action">Club de niños</a>
-                  <a href="" class="list-group-item list-group-item-action">CAIF</a>
-                  <a href="" class="list-group-item list-group-item-action">SOCAT</a>
+                  <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de niños</a>
+                  <a href="caif.php" class="list-group-item list-group-item-action">CAIF</a>
+                  <a href="socat.php" class="list-group-item list-group-item-action">SOCAT</a>
                </div>
                <!-- /list-group -->
             </div>
