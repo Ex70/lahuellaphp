@@ -69,11 +69,11 @@
                             </li>
                             <!-- menu item -->
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">A.C. Hogar la Huella</a>
+                                <a class="nav-link dropdown-toggle" href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nosotros</a>
                                 <div class="dropdown-menu" aria-labelledby="services-dropdown">
+                                    <a class="dropdown-item" href="hogarlahuella.php">A.C. Hogar La Huella</a>
                                     <a class="dropdown-item" href="comisiondirectiva.php">Comisión Directiva</a>
                                     <a class="dropdown-item" href="equipotrabajo.php">Equipo de Trabajo</a>
-                                    <a class="dropdown-item" href="hogarlahuella.php">A.C. Hogar La Huella</a>
                                     <a class="dropdown-item" href="laspiedras.php">Las Piedras, Canelones</a>
                                 </div>
                             </li>
