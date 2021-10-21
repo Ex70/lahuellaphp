@@ -1,5 +1,5 @@
 <?php
-   $Titulo = "Hogar La Huella";
+   $Titulo = "SOCAT";
    $path = "";
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
@@ -10,13 +10,13 @@
    <div class="container" >
       <!-- jumbo-heading -->
       <div class="jumbo-heading" data-aos="fade-down">
-         <h1>Hogar</h1>
+         <h1>La Storta</h1>
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
                <li class="breadcrumb-item"><a href="services.php">Servicios</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Hogar</li>
+               <li class="breadcrumb-item active" aria-current="page">La Storta</li>
             </ol>
          </nav>
          <!-- /breadcrumb -->
@@ -33,12 +33,15 @@
          <!-- page with sidebar starts -->
          <div class="col-lg-9 page-with-sidebar">
             <div class="col-md-12">
-               <h2>Hogar La Huella</h2>
+               <h2>La Storta</h2>
                <!-- Image -->
                <p class="h7"></p>
-               <p>El Hogar La Huella es un centro educativo que alberga a 22 niñas/os y adolescentes. Luego un educador los acompaña a su lugar de estudio; concurren a distintas instituciones de la zona (Escuelas, Liceos, UTU, CECAP, Aulas comunitarias, PAGRO).  <br>
-               Mientras tanto, en la casa comienzan a levantarse los que estudian por la tarde, luego del desayuno realizan algunas tareas de la casa acompañados por un educador y con la finalidad de que cada uno vaya adquiriendo hábitos, siempre teniendo en cuenta su edad. Mas tarde se realizan los deberes, y a jugar… Durante la semana el almuerzo se realiza en dos turnos por los diferentes horarios.<br><br> 
-               El equipo de trabajo está compuesto por educadores, cocinera, auxiliar de servicio, trabajadora social, psicóloga, y coordinador operativo. Además de los que se comparten con todos los restantes proyectos de La Huella, coordinador general, administrativo, auxiliar de mantenimiento y sereno, huerta, catequesis, scout, clubes de niños. Nuestro gran objetivo como equipo es, contribuir a la construcción de personas autónomas, críticas y solidarias que puedan promoverse y desarrollarse plenamente en una sociedad de cambios vertiginosos. Todo ello en el marco de los derechos del niño/a y adolescentes y derechos humanos
+               <p>En setiembre comenzó en La Huella, en una de las casas, una experiencia de vida comunitaria.<br><br>
+                La propuesta tiene como origen dos grandes fuerzas. Por un lado, pretende tomar una experiencia comunitaria chilena “La Storta”, donde jóvenes viven una experiencia de comunidad, espiritualidad y apostolado intensa. Por otro lado no resulta casual que el lugar para dicha experiencia sea La Huella, que tiene origen en la experiencia comunitaria y vivencia del Evangelio. Todo esto constituye parte de un legado que nos llama de manera especial a comprometernos.<br>
+
+                Somos 6 jóvenes de 22 a 24 años oriundos de Montevideo, que compartimos nuestras actividades de estudio, trabajo y voluntariados en los colegios Seminario e Isasa (de donde somos ex alumnos).<br><br>
+
+                La experiencia invita a vivir fundamentalmente tres ejes. Por un lado el eje comunitario, donde el grupo compartió la casa, la convivencia, el acompañarse. Una experiencia donde vivimos muchas cosas desde lo más práctico como son las tareas domésticas, hasta lo más profundo de acompañarnos, compartir la fe y ser compañeros de camino.
                </p>
                <!-- row -->
                <div class="row">
@@ -52,22 +55,23 @@
                   </div>
                   <!-- /col-md -->
                   <div class="col-md-7">
-                     <h4>Actividades Divertidas</h4>
+                     <h4></h4>
                      <!-- Image -->
-                     <p>Un día a la semana hay un espacio de asamblea donde se plantean temas importantes que refieren a la convivencia y a las expectativas que tienen en la vida desde diferentes áreas. Luego ven alguna película, juegan un rato con la computadora, cenan todos juntos y a la cama. Muchos concurren a diferentes actividades dentro y fuera de La Huella, viendo los intereses y necesidades de cada uno y acotado por los recursos. Plástica, natación, fútbol, voleibol, basquetbol, hándbol, ballet, pintura, texturado.<br><br>
+                     <p> El eje espiritual tiene que ver con vivir una experiencia de fe en el día a día, donde ahondamos en nuestro seguimiento de Jesús, teniendo reuniones semanales con una pauta que seguía el formato de los Ejercicios Espirituales de San Ignacio, sumado a pausas diarias para rezar el día.<br><br>
                      </p>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p>Nuestro trabajo es educar, contener, orientar y acompañar a cada uno de estos niños/as y adolescentes interviniendo para que se cumplan sus derechos individuales tratando de brindarles herramientas que les sean útiles durante el desarrollo de su vida
+                     <p>Por último, el tercer eje tiene que ver con el apostolado, siendo vecinos del hogar, pasando mucho de nuestro tiempo con los chiquilines, disfrutando y creciendo juntos. Tuvimos la oportunidad de jugar, hacer deberes, estudiar, acompañar al médico, disfrutar de las fiestas finales y otros eventos, en definitiva fue compartir nuestras vidas cotidianas y acompañarnos desde ahí.
+
                      </p>
                      <a href="contact.html" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">
-                     <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
+                     <div class="col-md-7 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
                         <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
@@ -87,12 +91,12 @@
             <div class="widget-area notepad">
                <h5 class="sidebar-header" id="servicioicon">Servicios</h5>
                <div class="list-group">
-                  <a href="hogar.php" class="list-group-item list-group-item-action active">
+               <a href="hogar.php" class="list-group-item list-group-item-action active">
                   Hogar La Huella
                   </a>
                   <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de niños</a>
                   <a href="caif.php" class="list-group-item list-group-item-action">CAIF</a>
-                  <a href="socat.php" class="list-group-item list-group-item-action">Espacio Adololecente</a>
+                  <a href="socat.php" class="list-group-item list-group-item-action">Espacio Adolecente</a>
                </div>
                <!-- /list-group -->
             </div>
