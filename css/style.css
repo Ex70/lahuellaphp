@@ -26,21 +26,8 @@ Last change:26th April 2019
 
 /*=========================== General and Typography ============================ */
 
-/* @font-face{
-	font-family: 'ProximaShot';
-	src: url('fonts/ProximaSoft-Bold.ttf');
-} */
-
-@font-face {
-	font-family: 'ProximaShot';
-	src: url('fonts/ProximaSoft-Bold.ttf') format('truetype');
-	font-style: bold;
-	font-weight: 800;
-  }
-
 body {
-	font-family: 'ProximaShot';
-	font-weight: 900;
+	font-family: 'Source Sans pro', sans-serif;
 	color: #6A6A71;
 	font-size: 17px;
 	line-height: 1.7;
@@ -57,7 +44,7 @@ h1 {
 	font-size: 3.2em;
 	line-height: 1.1em;
 	color: #151515;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	font-weight: 900;
 	text-transform: uppercase;
 }
@@ -66,12 +53,12 @@ h2 {
 	color: #151515;
 	font-size: 2.8em;
 	font-weight: 800;
-	font-family: ProximaShot;
+	font-family: Nunito;
 	line-height: 1.0;
 }
 
 h3 {
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	font-size: 2.2em;
 	color: #151515;
 	font-weight: 600;
@@ -95,7 +82,7 @@ h5 {
 
 h6 {
 	color: #0E1B23;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	font-size: 1.3em;
 	font-weight: 500;
 	margin-bottom: 20px;
@@ -103,7 +90,7 @@ h6 {
 
 .h7 {
 	color: #949393;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	font-size: 0.95em;
 	font-weight: 900;
 	margin-bottom: 20px;
@@ -114,7 +101,7 @@ h6 {
 }
 
 .lead {
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	line-height: 1.3em;
 }
 
@@ -141,7 +128,7 @@ p.subtitle {
 	margin-bottom: 0px;
 	border-bottom: 1px dashed;
 	padding-bottom: 20px;
-	font-family: ProximaShot;
+	font-family: Nunito;
 	color: #949393;
 }
 
@@ -167,7 +154,7 @@ a:focus {
 /* Custom Link */
 
 .custom-link {
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	margin-top: 0px;
 	display: inline-block;
 	margin: 10px;
@@ -291,7 +278,7 @@ a:focus {
 }
 
 .navbar-nav a {
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	font-weight: 700;
 	font-size: 16.5px;
 	letter-spacing: 0.5px;
@@ -431,7 +418,7 @@ ol {
 	font-weight: 700;
 	color: #fff;
 	padding: 0px 20px;
-	font-family: ProximaShot;
+	font-family: Nunito;
 }
 
 
@@ -539,7 +526,7 @@ ul.social-list li.list-inline-item:not(:last-child) {
 	color: #222;
 	font-weight: 700;
 	font-size: 40px;
-	font-family: ProximaShot;
+	font-family: Nunito;
 }
 
 .header-p {
@@ -953,7 +940,7 @@ ul.slider-pagi {
 }
 
 .testimonial .description {
-	font-family: ProximaShot;
+	font-family: Nunito;
 }
 
 .testimonial .testimonial-review {
@@ -994,7 +981,7 @@ ul.slider-pagi {
 
 .counter .counter-value {
 	display: block;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	font-weight: 700;
 	font-size: 40px;
 	color: #fff;
@@ -1004,7 +991,7 @@ ul.slider-pagi {
 .counter .counter-value:before {
 	content: "+";
 	display: inline-block;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	font-weight: 700;
 	font-size: 30px;
 	color: #fff;
@@ -1682,7 +1669,7 @@ ul.slider-pagi {
 #not-found span {
 	font-size: 25px;
 	color: #0E1B23;
-	font-family: ProximaShot;
+	font-family: Nunito;
 	font-weight: 600;
 }
 
@@ -1693,7 +1680,7 @@ ul.slider-pagi {
 /* background on counter section */
 
 .counter-calltoaction {
-	background-image: url("../img/call-to-action/counterbg.webp");
+	background-image: url("../img/call-to-action/counterbg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
@@ -1712,7 +1699,7 @@ ul.slider-pagi {
 /* background on callout section */
 
 #callout {
-	background-image: url("../img/call-to-action/callout.webp");
+	background-image: url("../img/call-to-action/callout.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
@@ -1876,7 +1863,7 @@ border-radius: 20px 20px 0% 0%;
 }
 
 .overlay-background-image {
-	background-image: url("../img/example.webp");
+	background-image: url("../img/example.jpg");
 	background-position: center;
 	background-size: cover;
 }
@@ -1892,7 +1879,7 @@ border-radius: 20px 20px 0% 0%;
 	padding: 10px 30px;
 	outline: none;
 	letter-spacing: 1px;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	border-radius: 20px;
 	text-transform: uppercase;
 	margin-top: 15px;
@@ -2102,7 +2089,7 @@ ul.social-media i {
 
 blockquote {
 	padding: 50px 30px;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	margin-top: 50px;
 	border-radius: 20px;
 	border-top: 5px dashed #f5f5f5;
@@ -2500,7 +2487,7 @@ a .card-title:hover {
 	border-radius: 5px;
 	margin-bottom: px;
 	letter-spacing: 0.7px;
-	font-family: ProximaShot;
+	font-family: Nunito;
 	border: 0;
 }
 
@@ -2782,7 +2769,7 @@ ul.checkmark li:before {
 }
 
 .list-group-item {
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	transition: all 0.2s ease-in-out;
 	margin-bottom: 4px;
 	border: 0;
@@ -2815,7 +2802,7 @@ ul.checkmark li:before {
 /* Jumbotron */
 
 .jumbotron {
-	background: url("../img/jumbotron.webp");
+	background: url("../img/jumbotron.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: contain;
@@ -3042,7 +3029,7 @@ ul.checkmark li:before {
 	padding: 10px 40px;
 	margin: 5px 10px;
 	transition: all 0.2s ease-in-out;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	font-weight: 900;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -3116,7 +3103,7 @@ ul.checkmark li:before {
 
 .page-link {
 	transition: all 0.2s ease-in-out;
-	font-family: 'ProximaShot';
+	font-family: 'Nunito', sans-serif;
 	color: #fff;
 	font-weight: 700;
 	border: 1px solid #fff;
@@ -3530,7 +3517,7 @@ ul.checkmark li:before {
     .slide__text-heading {
         font-size: 1.5rem;
     }
-    .slider-pagi_elem,.slider-pagi_elem:before {
+    .slider-pagi__elem,.slider-pagi__elem:before {
 		width: 0.5rem;
 		height: 0.5rem;	
     }
