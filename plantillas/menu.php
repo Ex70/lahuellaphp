@@ -103,10 +103,10 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="gallery-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Galeria</a>
                                 <div class="dropdown-menu" aria-labelledby="gallery-dropdown">
-                                    <a class="dropdown-item" href="gallery.php">Instalaciones</a>
-                                    <a class="dropdown-item" href="gallery.php">Actividades</a>
-                                    <a class="dropdown-item" href="gallery.php">Salón de Eventos</a>
-                                    <a class="dropdown-item" href="gallery.php">Históricas</a>
+                                    <a class="dropdown-item" href="galleria.php">Instalaciones</a>
+                                    <a class="dropdown-item" href="galleria.php">Actividades</a>
+                                    <a class="dropdown-item" href="galleria.php">Salón de Eventos</a>
+                                    <a class="dropdown-item" href="galleria.php">Históricas</a>
                                 </div>
                             </li>
                             <!-- menu item -->

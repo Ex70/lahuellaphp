@@ -40,22 +40,16 @@
          <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">Todos</a>
       </li>
       <li class="nav-item">
-         <a class="nav-link active" href="#" data-toggle="tab" data-filter=".school">La Casa</a>
+         <a class="nav-link active" href="#" data-toggle="tab" data-filter=".school">Instalaciones</a>
       </li>
       <li class="nav-item">
-         <a class="nav-link active" href="#" data-toggle="tab" data-filter=".activities">El Parque</a>
+         <a class="nav-link active" href="#" data-toggle="tab" data-filter=".activities">Actividades</a>
       </li>
       <li class="nav-item">
-         <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">Niños</a>
+         <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">Salón de Eventos</a>
       </li>
       <li class="nav-item">
-         <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">Jovenes</a>
-      </li>
-      <li class="nav-item">
-         <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">Adolescentes</a>
-      </li>
-      <li class="nav-item">
-         <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">Salón</a>
+         <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">Históricas</a>
       </li>
    </ul>
    <!-- /ul -->
