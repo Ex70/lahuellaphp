@@ -9,7 +9,7 @@
 <div class="jumbotron jumbotron-fluid">
    <div class="container" >
       <div class="jumbo-heading" data-aos="fade-down">
-         <h1>Galeria</h1>
+         <h1>Instalaciones</h1>
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
