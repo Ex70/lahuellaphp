@@ -91,12 +91,12 @@
             <div class="widget-area notepad">
                <h5 class="sidebar-header" id="servicioicon">Servicios</h5>
                <div class="list-group">
-               <a href="hogar.php" class="list-group-item list-group-item-action active">
+               <a href="hogar.php" class="list-group-item list-group-item-action">
                   Hogar La Huella
                   </a>
                   <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de niños</a>
                   <a href="caif.php" class="list-group-item list-group-item-action">CAIF</a>
-                  <a href="storta.php" class="list-group-item list-group-item-action">La Storta</a>
+                  <a href="storta.php" class="list-group-item list-group-item-action active">La Storta</a>
                </div>
                <!-- /list-group -->
             </div>
