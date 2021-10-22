@@ -209,7 +209,7 @@
                <!-- service icon -->
                <div class="service-icon">
                   <a href="services-single.html">
-                  <img src="img/services/service4.webp" alt="" class="blob2 img-fluid">
+                  <img src="img/comunidadstorta.JPG" alt="" class="blob2 img-fluid">
                   </a>
                </div>
                <!-- service content -->
