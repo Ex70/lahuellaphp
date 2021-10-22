@@ -36,7 +36,7 @@
                            <div class="col-lg-12 team-style3 bg-secondary pattern2">
                               <!-- image -->
                               <a href="team-single.html">
-                              <img src="img/JuanBerenguer.jpg" class="img-fluid rounded" alt="" />
+                              <img src="img/Juan_Berenguer.JPG" class="img-fluid rounded" alt="" />
                               </a>
                               <!-- caption -->
                               <div class="team-caption">

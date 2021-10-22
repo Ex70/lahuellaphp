@@ -259,7 +259,7 @@
          <div class="col-xl-4 col-md-4">
             <div class="counter">
                <div class="counter-wrapper" id="colorRojo">
-                  <i class="counter-icon flaticon-teacher"></i>
+                  <i class="counter-icon flaticon-balloon-playing"></i>
                   <!-- insert your final value on data-count= -->
                   <div class="counter-value" data-count="100">0</div>
                   <h3 class="title">Niños Hogar</h3>
@@ -285,7 +285,7 @@
          <div class="col-xl-4 col-md-4">
             <div class="counter">
                <div class="counter-wrapper bg-tertiary" id="cuadroicon">
-                  <i class="counter-icon flaticon-children"></i>
+                  <i class="counter-icon flaticon-friendship"></i>
                   <!-- insert your final value on data-count= -->
                   <div class="counter-value" data-count="450">0</div>
                   <h3 class="title">Voluntarios</h3>

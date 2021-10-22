@@ -36,7 +36,9 @@
                El club de niños de la Huella trabaja desde el año 2001 actualmente trabajamos con 54 chiquiines y 29 familias. El caif surge hace 15 años en el 2004 y atendemos a un total de 84 niños de hasta 3 años.
                El SOCAT son siglas que significan Servicio de Orientacion y Consulta y Articulación Territorial en lo que se basa es en atender en distintos puntos del barrio. Es un convenio con MIDES donde nosotros tambien prestamos servicios y orientamos a todos los programas de MIDES
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/vW_7fucmcJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="row" style="display: flex; justify-content: center">
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/vW_7fucmcJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+               </div>
          <!-- /ul -->
          <!-- custom link -->
          
