@@ -92,20 +92,20 @@
 </div>
 
 <!-- Bootstrap core & Jquery -->
-<script defer src="<?php echo $path; ?>vendor/jquery/jquery.min.js"></script>
-<script defer src="<?php echo $path; ?>vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="<?php echo $path; ?>vendor/jquery/jquery.min.js"></script>
+<script src="<?php echo $path; ?>vendor/bootstrap/js/bootstrap.min.js"></script>
 
 <!-- Custom Js -->
-<script defer src="<?php echo $path; ?>js/custom.js"></script>
-<script defer src="<?php echo $path; ?>js/plugins.js"></script>
+<script src="<?php echo $path; ?>js/custom.js"></script>
+<script src="<?php echo $path; ?>js/plugins.js"></script>
 <!-- Prefix free -->
-<script defer src="<?php echo $path; ?>js/prefixfree.min.js"></script>
+<script src="<?php echo $path; ?>js/prefixfree.min.js"></script>
 <!-- Bootstrap Select Tool (For Module #4) -->
-<script defer src="<?php echo $path; ?>switcher/js/bootstrap-select.js"></script>
+<script src="<?php echo $path; ?>switcher/js/bootstrap-select.js"></script>
 <!-- All Scripts & Plugins -->
-<script defer src="<?php echo $path; ?>switcher/js/dmss.js"></script>
-<script defer src="<?php echo $path; ?>switcher/js/extrastyles.js"></script>
- <script defer src="<?php echo $path; ?>../../../cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js"></script>
+<script src="<?php echo $path; ?>switcher/js/dmss.js"></script>
+<script src="<?php echo $path; ?>switcher/js/extrastyles.js"></script>
+ <script src="<?php echo $path; ?>../../../cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js"></script>
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7ZJPV8"
@@ -114,15 +114,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <!-- number counter script -->
-<script defer src="<?php echo $path; ?>js/counter.js"></script>
+<script src="<?php echo $path; ?>js/counter.js"></script>
 <!-- maps -->
-<script defer src="<?php echo $path; ?>js/map.js"></script>
+<script src="<?php echo $path; ?>js/map.js"></script>
 <!-- GreenSock -->
-<script defer src="<?php echo $path; ?>vendor/layerslider/js/greensock.js"></script>
+<script src="<?php echo $path; ?>vendor/layerslider/js/greensock.js"></script>
 <!-- LayerSlider script files -->
-<script defer src="<?php echo $path; ?>vendor/layerslider/js/layerslider.transitions.js"></script>
-<script defer src="<?php echo $path; ?>vendor/layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
-<script defer src="<?php echo $path; ?>vendor/layerslider/js/layerslider.load.js"></script>
+<script src="<?php echo $path; ?>vendor/layerslider/js/layerslider.transitions.js"></script>
+<script src="<?php echo $path; ?>vendor/layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
+<script src="<?php echo $path; ?>vendor/layerslider/js/layerslider.load.js"></script>
 </body>
 
 </html>
