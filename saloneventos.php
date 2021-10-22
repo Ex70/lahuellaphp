@@ -37,147 +37,22 @@
 <div class="row vertical-tabs">
   <div class="col-lg-12">
      <!-- navigation -->
-     <div class="tabs-with-icon">
-        <nav>
-           <div class="nav nav-tabs" id="nav-tab" role="tablist">
-              
-              <a class="nav-item nav-link active show" id="tab2-tab" data-toggle="tab" href="#tab2"><i class="flaticon-kids-1"></i>Fe y Alegría</a>
-              <a class="nav-item nav-link" id="tab3-tab" data-toggle="tab" href="#tab3"><i class="flaticon-smiling-baby"></i>AUDEC</a>
-              <a class="nav-item nav-link" id="tab4-tab" data-toggle="tab" href="#tab4"><i class="flaticon-blackboard"></i>UAF</a>
-              
-           </div>
-        </nav>
-        <!-- tab-content -->
-        <div class="tab-content block-padding bg-light" id="nav-tabContent">
-           <div class="tab-pane" id="tab1" role="tabpanel" aria-labelledby="tab1-tab">
-              <!-- row -->
-              <div class="row">
-                 <div class="col-lg-6">
-                    <!-- image -->
-                    <img src="img/services/service1.jpg" alt="" class="rounded img-fluid">
-                    <!-- ornament starts-->
-                    <div class="ornament-rainbow aos-init aos-animate" data-aos="fade-right"></div>
-                 </div>
-                 <!-- col-lg -->
-                 <div class="col-lg-6">
-                    <h3>Daycare</h3>
-                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                    <ul class="custom pl-0">
-                       <li>Over 30 Qualified professionals</li>
-                       <li>We offer you our quality services since 2002</li>
-                       <li>Educational activities in our daily plan</li>
-                    </ul>
-                    <!-- Button -->	 
-                    <a href="services-single.html" class="btn btn-secondary mt-4">Read More</a>
-                 </div>
-                 <!-- /col-lg -->
-              </div>
-              <!-- row -->
-           </div>
-           <!-- ./Tab-pane -->
-           <div class="tab-pane active show" id="tab2" role="tabpanel" aria-labelledby="tab2-tab">
-              <div class="row">
-                 <div class="col-lg-6">
-                    <h3>Fe y Alegría </h3>
-                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                    <ul class="custom pl-0">
-                       <li>Over 30 Qualified professionals</li>
-                       <li>We offer you our quality services since 2002</li>
-                       <li>Educational activities in our daily plan</li>
-                    </ul>
-                    <!-- Button -->	 
-                    <a href="services-single.html" class="btn btn-secondary mt-4">Leer Más</a>
-                 </div>
-                 <!-- /col-lg -->
-                 <div class="col-lg-6 res-margin">
-                    <!-- image -->
-                    <img src="img/services/service2.jpg" alt="" class="rounded img-fluid">
-                    <!-- ornament starts-->
-                    <div class="ornament-stars aos-init aos-animate" data-aos="fade-right"></div>
-                 </div>
-                 <!-- col-lg -->
-              </div>
-              <!-- row -->
-           </div>
-           <!-- ./Tab-pane -->
-           <div class="tab-pane" id="tab3" role="tabpanel" aria-labelledby="tab3-tab">
-              <div class="row">
-                 <div class="col-lg-6">
-                    <!-- image -->
-                    <img src="img/services/service3.jpg" alt="" class="rounded img-fluid">
-                    <!-- ornament starts-->
-                    <div class="ornament-bubbles aos-init aos-animate" data-aos="fade-right"></div>
-                 </div>
-                 <!-- col-lg -->
-                 <div class="col-lg-6">
-                    <h3>Asociación Uruguay de EDUCACIÓN CATÓLICA</h3>
-                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                    <ul class="custom pl-0">
-                       <li>Over 30 Qualified professionals</li>
-                       <li>We offer you our quality services since 2002</li>
-                       <li>Educational activities in our daily plan</li>
-                    </ul>
-                    <!-- Button -->	 
-                    <a href="services-single.html" class="btn btn-secondary mt-4">Leer Más</a>
-                 </div>
-                 <!-- /col-lg -->
-              </div>
-              <!-- row -->
-           </div>
-           <!-- ./Tab-pane -->
-           <div class="tab-pane" id="tab4" role="tabpanel" aria-labelledby="tab4-tab">
-              <div class="row">
-                 <div class="col-lg-6">
-                    <h3>Clases</h3>
-                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                    <ul class="custom pl-0">
-                       <li>Over 30 Qualified professionals</li>
-                       <li>We offer you our quality services since 2002</li>
-                       <li>Educational activities in our daily plan</li>
-                    </ul>
-                    <!-- Button -->	 
-                    <a href="services-single.html" class="btn btn-secondary mt-4">Leer Más</a>
-                 </div>
-                 <!-- /col-lg -->
-                 <div class="col-lg-6 res-margin">
-                    <!-- image -->
-                    <img src="img/services/service4.jpg" alt="" class="rounded img-fluid">
-                    <!-- ornament starts-->
-                    <div class="ornament-stars aos-init aos-animate" data-aos="fade-right"></div>
-                 </div>
-                 <!-- col-lg -->
-              </div>
-              <!-- row -->
-           </div>
-           <!-- ./Tab-pane -->
-           <div class="tab-pane" id="tab5" role="tabpanel" aria-labelledby="tab5-tab">
-              <div class="row">
-                 <div class="col-lg-6">
-                    <!-- image -->
-                    <img src="img/services/service5.jpg" alt="" class="rounded img-fluid">
-                    <!-- ornament starts-->
-                    <div class="ornament-rainbow aos-init aos-animate" data-aos="fade-right"></div>
-                 </div>
-                 <!-- col-lg -->
-                 <div class="col-lg-6">
-                    <h3>Uruguay American Foundation</h3>
-                    <p>Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                    <ul class="custom pl-0">
-                       <li>Over 30 Qualified professionals</li>
-                       <li>We offer you our quality services since 2002</li>
-                       <li>Educational activities in our daily plan</li>
-                    </ul>
-                    <!-- Button -->	 
-                    <a href="services-single.html" class="btn btn-secondary mt-4">Leer Más</a>
-                 </div>
-                 <!-- /col-lg -->
-              </div>
-              <!-- row -->
-           </div>
-           <!-- ./Tab-pane -->
-        </div>
-        <!-- ./Tab-content -->
-     </div>
+     <div class="row">
+            <!-- /col-lg -->
+            <div class="col-lg-5 res-margin">
+               <img src="img/services/serviceimg2.jpg" alt="" class="moving-blob img-fluid">
+            </div>
+            <div class="col-lg-7 justify-content-center align-self-center">
+               <h3><span class="text-secondary">Salón de Eventos</span></h3>
+               <p>
+                  Quisque at odio nunc. Etiam ac nibh egestas, accumsan felis id, fermentum purus. Quisque vitae hendrerit elit. Maecenas ipsum mi, iaculis quis mattis cursus, auctor ac magna. Integer felis metus, aliquet in dignissim ut, varius et odio. Donec malesuada diam quis dignissim suscipit. Praesent purus turpis, tristique hendrerit
+               </p>
+               <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et ma</p>
+               <!-- Button -->    
+               <a href="contacto.php" class="btn btn-quaternary mt-2">Contácte con nosotros</a>
+            </div>
+            <!-- /col-lg -->
+         </div>
      <!-- vertical-tabs -->
   </div>
   <!-- /col-lg-6 -->
@@ -192,38 +67,38 @@
 <div class="owl-stage owl-carousel owl-theme top-centered-nav mt-5 magnific-popup">
             <div class="col-md-12 gallery-img hover-border">
                <!-- image -->
-               <a href="https://pbs.twimg.com/profile_images/944216900845924352/2qAZPAOf_400x400.jpg" title="your caption here">
-               <img src="https://pbs.twimg.com/profile_images/944216900845924352/2qAZPAOf_400x400.jpg" class="img-fluid rounded" alt="">
+               <a href="img/gallery/gallery1.jpg" title="your caption here">
+               <img src="img/gallery/gallery1.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="https://www.audec.edu.uy/Images/Logo.png?n=c" title="your caption here">
-               <img src="https://www.audec.edu.uy/Images/Logo.png?n=c" class="img-fluid rounded" alt="">
+               <a href="img/gallery/gallery2.jpg" title="your caption here">
+               <img src="img/gallery/gallery2.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="http://lahuella.org.uy/assets/UAFlogo.png" title="your caption here">
-               <img src="http://lahuella.org.uy/assets/UAFlogo.png" class="img-fluid rounded" alt="">
+               <a href="img/gallery/gallery3.jpg" title="your caption here">
+               <img src="img/gallery/gallery3.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="https://pbs.twimg.com/profile_images/944216900845924352/2qAZPAOf_400x400.jpg" title="your caption here">
-               <img src="https://pbs.twimg.com/profile_images/944216900845924352/2qAZPAOf_400x400.jpg" class="img-fluid rounded" alt="">
+               <a href="img/gallery/gallery4.jpg" title="your caption here">
+               <img src="img/gallery/gallery4.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="https://www.audec.edu.uy/Images/Logo.png?n=c" title="your caption here">
-               <img src="https://www.audec.edu.uy/Images/Logo.png?n=c" class="img-fluid rounded" alt="">
+               <a href="img/gallery/gallery5.jpg" title="your caption here">
+               <img src="img/gallery/gallery5.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="http://lahuella.org.uy/assets/UAFlogo.png" title="your caption here">
-               <img src="http://lahuella.org.uy/assets/UAFlogo.png" class="img-fluid rounded" alt="">
+               <a href="img/gallery/gallery6.jpg" title="your caption here">
+               <img src="img/gallery/gallery6.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
