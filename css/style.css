@@ -2802,7 +2802,25 @@ ul.checkmark li:before {
 /* Jumbotron */
 
 .jumbotron {
-	background: url("../img/jumbotron.jpg");
+	background: url("../img/jumbotron_1.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: contain;
+	margin-bottom: 0px;
+	background-position:center top;
+}
+
+.jumbotron2 {
+	background: url("../img/jumbotron_2.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: contain;
+	margin-bottom: 0px;
+	background-position:center top;
+}
+
+.jumbotron3 {
+	background: url("../img/jumbotron_3.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: contain;
@@ -2811,6 +2829,16 @@ ul.checkmark li:before {
 }
 
 .jumbotron .breadcrumb {
+	max-width: 400px;
+	border-radius: 0px;
+}
+
+.jumbotron2 .breadcrumb {
+	max-width: 400px;
+	border-radius: 0px;
+}
+
+.jumbotron3 .breadcrumb {
 	max-width: 400px;
 	border-radius: 0px;
 }
@@ -3171,6 +3199,12 @@ ul.checkmark li:before {
 	.jumbotron h1 {
 		font-size: 1.7em!important;
 	}
+	.jumbotron2 h1 {
+		font-size: 1.7em!important;
+	}
+	.jumbotron3 h1 {
+		font-size: 1.7em!important;
+	}
 	/* others */
 	.nav-pills .nav-link {
 		font-size: 15px;
@@ -3376,6 +3410,12 @@ ul.checkmark li:before {
 		display: none!important;
 	}
 	.jumbotron {
+		min-height: 150px!important;
+	}
+	.jumbotron2 {
+		min-height: 150px!important;
+	}
+	.jumbotron3 {
 		min-height: 150px!important;
 	}
 	.full-slider .header-wrapper .header-text {
@@ -3620,6 +3660,12 @@ ul.checkmark li:before {
 	.jumbotron {
 		height: 200px;
 	}
+	.jumbotron2 {
+		height: 200px;
+	}
+	.jumbotron3 {
+		height: 200px;
+	}
 	/* navigation */
 	.navbar-nav .nav-link {
 		line-height: 70px;
@@ -3649,6 +3695,16 @@ ul.checkmark li:before {
 	}
 	/* Jumbotron */
 	.jumbotron {
+		min-height: 250px;
+		background-size: cover!important;
+		background-attachment: scroll;
+	}
+	.jumbotron2 {
+		min-height: 250px;
+		background-size: cover!important;
+		background-attachment: scroll;
+	}
+	.jumbotron3 {
 		min-height: 250px;
 		background-size: cover!important;
 		background-attachment: scroll;
@@ -3704,6 +3760,12 @@ ul.checkmark li:before {
 
 @media (min-width: 1500px) {
 	.jumbotron {
+		height: 280px;
+	}
+	.jumbotron2 {
+		height: 280px;
+	}
+	.jumbotron3 {
 		height: 280px;
 	}
 	.jumbo-heading {
