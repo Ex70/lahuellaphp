@@ -35,7 +35,7 @@
                </div>
                <!-- /col-lg -->
                <div class="col-lg-7">
-                  <h3 class="res-margin mt-5 mb-1">Asociación Civil La Huella</h3>
+                  <h3 class="res-margin mt-5 mb-1">Asociación Civil Hogar La Huella</h3>
                   <h6></h6>
                   <p class="h7"></p>
                   <ul class="social-media">
@@ -53,7 +53,9 @@
             <!-- custom list -->
             
             <p>Hoy día La Huella tiene personería jurídica como asociación civil "Asociación Civil Hogar La Huella" regida por el derecho público uruguayo. Registrada como tal ante el Ministerio de Educación y Cultura del Uruguay. Su Asamblea Social agrupa a todos sus socios, según estatutos y esta elige una Comisión Directiva que dura dos años en funciones. El Presidente y Secretario representan a la misma.</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/xdwLPTYMAIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="row" style="display: flex; justify-content: center;">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/xdwLPTYMAIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
          <!-- /ul -->
          <!-- custom link -->
          
