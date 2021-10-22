@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <!-- page title -->
     <title>LA HUELLA | <?php echo $Titulo; ?></title>
-    <link href="<?php echo $path; ?>https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700%7CNunito:400,700,900" rel="stylesheet">
+    <!-- <link href="<?php echo $path; ?>https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700%7CNunito:400,700,900" rel="stylesheet"> -->
     <link href="<?php echo $path; ?>fonts/flaticon/flaticon.css" rel="stylesheet" type="text/css">
     <link href="<?php echo $path; ?>fonts/fontawesome/fontawesome-all.min.css" rel="stylesheet" type="text/css">
     <!-- Fav icons -->
