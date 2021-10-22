@@ -116,7 +116,7 @@
                                     <a class="dropdown-item" href="blog.php">Blog</a>
                                     <a class="dropdown-item" href="blog2.php">Boletín</a>
                                     <a class="dropdown-item" href="librohistoria.php">Libro</a>
-                                    <a class="dropdown-item" href="blog2.php">Video Institucional</a>
+                                    <a class="dropdown-item" href="videoinstitucional.php">Video Institucional</a>
                                 </div>
                             </li>
                             <!-- menu item -->
