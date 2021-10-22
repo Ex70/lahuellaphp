@@ -115,7 +115,7 @@
                                 <div class="dropdown-menu" aria-labelledby="others-dropdown">
                                     <a class="dropdown-item" href="blog.php">Blog</a>
                                     <a class="dropdown-item" href="blog2.php">Boletín</a>
-                                    <a class="dropdown-item" href="blog2.php">Libro</a>
+                                    <a class="dropdown-item" href="librohistoria.php">Libro</a>
                                     <a class="dropdown-item" href="blog2.php">Video Institucional</a>
                                 </div>
                             </li>
@@ -160,7 +160,7 @@
                      <h1 class="slide__text-heading">Bienvenido a La Huella</h1>
                      <div class="hidden-small">
                         <p class="lead">We offer high quality Daycare Services, contact us or visit us today for more information</p>
-                        <a href="services-single.html" class="btn btn-quaternary">nuestros servicios</a>
+                        <a href="services-single.html" class="btn btn-quaternary" id="colorAmarillo">nuestros servicios</a>
                      </div>
                   </div>
                </div>
@@ -177,7 +177,7 @@
                      <h1 class="slide__text-heading">La infancia: nuestra apuesta por un mundo mejor</h1>
                      <div class="hidden-small">
                         <p class="lead">Get inspired by seeing the children excited about learning, book a visit and experience our curriculum in action</p>
-                        <a href="contact.html" class="btn btn-quaternary">Colaborá con nosotros</a>
+                        <a href="contact.html" class="btn btn-quaternary" id="colorAmarillo">Colaborá con nosotros</a>
                      </div>
                   </div>
                </div>
@@ -194,7 +194,7 @@
                      <h1 class="slide__text-heading">Salón de Fiestas y Eventos</h1>
                      <div class="hidden-small">
                         <p class="lead">ABC Tots ignite children’s natural curiosity to be self-learners in engaging environments and activities.</p>
-                        <a href="contact.html" class="btn btn-quaternary">Informes</a>
+                        <a href="contact.html" class="btn btn-quaternary" id="colorAmarillo">Informes</a>
                      </div>
                   </div>
                </div>

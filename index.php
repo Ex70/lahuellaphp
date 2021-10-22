@@ -100,7 +100,7 @@
       <div class="col-lg-4" data-aos="zoom-out" data-aos-delay="600">
          <div class="card card-flip ">
             <!-- front of card  -->  
-            <div class="card bg-tertiary text-light">
+            <div class="card bg-tertiary text-light" id="colorAmarillo">
                <div class="p-5">
                   <h5 class="card-title text-light">CAIF Los Periquitos</h5>
                   <p class="card-text">
@@ -116,7 +116,7 @@
             <!-- /card -->
             <!-- back of card -->  			
             <div class="card bg-tertiary text-light card-back">
-               <div class="card-body d-flex justify-content-center align-items-center">
+               <div class="card-body d-flex justify-content-center align-items-center" id="colorAmarillo">
                   <div class="p-4">
                      <h5 class="card-title text-light">Conoce a nuestro personal</h5>
                      <p class="card-text">enas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. 
@@ -180,7 +180,7 @@
                      Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
                   </p>
                   <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary  btn-sm mt-2 ml-1">Leer más</a>
+                  <a href="services-single.html" class="btn btn-quaternary  btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
             <!-- service 2  -->
@@ -200,29 +200,10 @@
                      Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
                   </p>
                   <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1">Leer más</a>
+                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
             <!-- service 3  -->
-            <div class="serviceBox2">
-               <!-- service icon -->
-               <div class="service-icon">
-                  <a href="services-single.html">
-                  <img src="img/services/service3.webp" alt="" class="blob img-fluid">
-                  </a>			   
-               </div>
-               <!-- service content -->
-               <div class="service-content">
-                  <a href="services-single.html">
-                     <h4 class="service-head">SOCAT La Huella</h4>
-                  </a>
-                  <p>
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
-                  </p>
-                  <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1">Leer más</a>
-               </div>
-            </div>
             <!-- service 4  -->
             <div class="serviceBox2">
                <!-- service icon -->
@@ -240,7 +221,7 @@
                      Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
                   </p>
                   <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1">Leer más</a>
+                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
             <!-- service 5 -->
@@ -260,7 +241,7 @@
                      Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
                   </p>
                   <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1">Leer más</a>
+                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
          </div>
@@ -277,7 +258,7 @@
          <!-- Counter -->
          <div class="col-xl-4 col-md-4">
             <div class="counter">
-               <div class="counter-wrapper" id="cuadroicon3">
+               <div class="counter-wrapper" id="colorRojo">
                   <i class="counter-icon flaticon-teacher"></i>
                   <!-- insert your final value on data-count= -->
                   <div class="counter-value" data-count="100">0</div>
@@ -350,7 +331,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-                  <a href="Lahuella45.php" class="btn btn-primary ">Leer más</a>
+                  <a href="Lahuella45.php" class="btn btn-primary " id="colorAmarillo">Leer más</a>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
@@ -373,7 +354,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-                  <a href="videoInstitucional.php" class="btn btn-primary ">Leer más</a>
+                  <a href="videoInstitucional.php" class="btn btn-primary " id="colorAmarillo">Leer más</a>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
@@ -396,7 +377,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-                  <a href="libro-historia.php" class="btn btn-primary ">Leer más</a>
+                  <a href="libro-historia.php" class="btn btn-primary " id="colorAmarillo">Leer más</a>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
@@ -490,7 +471,7 @@
                      </div>
                   </div>
                   <!-- button -->
-                  <button type="submit" id="submit_btn" value="Submit" class="btn btn-primary btn-block mt-3">Enviar mensaje</button>
+                  <button type="submit" id="submit_btn" value="Submit" class="btn btn-primary btn-block mt-3 colorAmarillo" style="background-color: #E4A40F;">Enviar mensaje</button>
                </div>
                <!-- /form-group-->
                <!-- Contact results -->

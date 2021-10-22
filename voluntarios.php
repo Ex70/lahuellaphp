@@ -36,30 +36,30 @@
    </div>
    <!-- /container -->
     <!-- gallery -->
-   <div class="container magnific-popup mt-5">
+   <div class="container mt-5">
       <!-- row starts -->
       <div class="row">
          <!-- image -->
          <div class="col-lg-3">
-            <a href="img/gallery/botonStorta.jpg" title="You can add caption to pictures.">
-            <img src="img/gallery/botonStorta.jpg" class="blob img-fluid" alt="">
+            <a href="experienciastorta.php">
+               <img src="img/gallery/botonStorta.jpg" class="blob img-fluid" alt="">
+            </a>
+            </div>
+         <!-- image -->
+         <div class="col-lg-3">
+            <a href="Voluntariosjuan.php">
+            <img src= "img/gallery/botonjuan.jpg" class="blob2 img-fluid" alt="">
             </a>
          </div>
          <!-- image -->
          <div class="col-lg-3">
-            <a href="img/gallery/botonjuan.jpg" title="You can add caption to pictures.">
-            <img src="img/gallery/botonjuan.jpg" class="blob2 img-fluid" alt="">
-            </a>
-         </div>
-         <!-- image -->
-         <div class="col-lg-3">
-            <a href="img/gallery/botonHuerta.jpg" title="You can add caption to pictures.">
+            <a href="lahuerta.php">
             <img src="img/gallery/botonHuerta.jpg" class="blob img-fluid" alt="">
             </a>
          </div>
          <!-- image -->
          <div class="col-lg-3">
-            <a href="img/gallery/botonHorneros.jpg" title="You can add caption to pictures.">
+            <a href="movimientohorneros.php">
             <img src="img/gallery/botonHorneros.jpg" class="blob2 img-fluid" alt="">
             </a>
          </div>
