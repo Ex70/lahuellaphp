@@ -6,7 +6,7 @@
 ?>
    <!-- page wrapper starts -->
    <!-- Jumbotron -->
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron2 jumbotron-fluid">
          <div class="container" >
             <!-- jumbo-heading -->
             <div class="jumbo-heading" data-aos="fade-down">
