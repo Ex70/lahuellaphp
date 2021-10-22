@@ -43,9 +43,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 activities">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery1.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades01.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery1.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades01.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -54,9 +54,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 school">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery2.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades02.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery2.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades02.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -65,9 +65,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 school">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery3.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades03.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery3.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades03.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -76,9 +76,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 activities">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery4.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades04.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery4.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades04.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -87,9 +87,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 school">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery5.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades05.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery5.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades05.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -98,9 +98,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 school">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery6.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades06.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery6.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades06.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -109,9 +109,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 activities">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery7.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades07.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery7.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades07.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -120,9 +120,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 activities">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery8.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades08.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery8.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades08.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -131,9 +131,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 school">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery9.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades09.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery9.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades09.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -142,9 +142,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 school">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery10.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades10.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery10.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades10.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -153,9 +153,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 school">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery11.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades11.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery11.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades11.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -164,9 +164,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 school">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/gallery12.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/actividades/actividades12.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/gallery12.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/actividades/actividades12.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
