@@ -96,7 +96,7 @@
                                     <a class="dropdown-item" href="apoyoenservicios.php">Apoyo en Servicios</a>
                                     <a class="dropdown-item" href="voluntarios.php">Voluntarios</a>
                                     <a class="dropdown-item" href="alianzas.php">Alianzas</a>
-                                    <a class="dropdown-item" href="apoyoeconomico.php">Salón de Eventos</a>
+                                    <a class="dropdown-item" href="saloneventos.php">Salón de Eventos</a>
                                 </div>
                             </li>
                             <!-- menu item -->
