@@ -92,7 +92,7 @@
                   </a>
                   <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de niños</a>
                   <a href="caif.php" class="list-group-item list-group-item-action">CAIF</a>
-                  <a href="socat.php" class="list-group-item list-group-item-action">Espacio Adololecente</a>
+                  <a href="storta.php" class="list-group-item list-group-item-action">La Storta</a>
                </div>
                <!-- /list-group -->
             </div>

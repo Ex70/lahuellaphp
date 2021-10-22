@@ -16,7 +16,7 @@
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.php">Inici</a></li>
                <li class="breadcrumb-item"><a href="services.php">Servicios</a></li>
-               <li class="breadcrumb-item active" aria-current="page">SOCAT</li>
+               <li class="breadcrumb-item active" aria-current="page">Espacio Adolescente</li>
             </ol>
          </nav>
          <!-- /breadcrumb -->
@@ -33,7 +33,7 @@
          <!-- page with sidebar starts -->
          <div class="col-lg-9 page-with-sidebar">
             <div class="col-md-12">
-               <h2>SOCAT</h2>
+               <h2>Espacio Adolescente</h2>
                <!-- Image -->
                <p class="h7"></p>
                <p>Es un Servicio Orientación Consulta (SOC), que depende del MIDES y trabaja en el territorio en red y a partir de las consultas que tienen los vecinos acerca del acceso a diferentes políticas públicas o programas.
@@ -94,7 +94,7 @@
                   </a>
                   <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de niños</a>
                   <a href="caif.php" class="list-group-item list-group-item-action">CAIF</a>
-                  <a href="socat.php" class="list-group-item list-group-item-action active">SOCAT</a>
+                  <a href="socat.php" class="list-group-item list-group-item-action active">Espacio Adolescente</a>
                </div>
                <!-- /list-group -->
             </div>
