@@ -26,10 +26,17 @@ Last change:26th April 2019
 
 /*=========================== General and Typography ============================ */
 
-@font-face{
+/* @font-face{
 	font-family: 'ProximaShot';
 	src: url('fonts/ProximaSoft-Bold.ttf');
-}
+} */
+
+@font-face {
+	font-family: 'ProximaShot';
+	src: url('fonts/ProximaSoft-Bold.ttf') format('truetype');
+	font-style: bold;
+	font-weight: 800;
+  }
 
 body {
 	font-family: 'ProximaShot';
