@@ -53,7 +53,7 @@
             <!-- custom list -->
             
             <p>Hoy día La Huella tiene personería jurídica como asociación civil "Asociación Civil Hogar La Huella" regida por el derecho público uruguayo. Registrada como tal ante el Ministerio de Educación y Cultura del Uruguay. Su Asamblea Social agrupa a todos sus socios, según estatutos y esta elige una Comisión Directiva que dura dos años en funciones. El Presidente y Secretario representan a la misma.</p>
-         
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/xdwLPTYMAIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
          <!-- /ul -->
          <!-- custom link -->
          
