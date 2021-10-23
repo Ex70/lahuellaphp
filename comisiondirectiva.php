@@ -266,7 +266,7 @@
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
                                     <a href="team-single.html">
-                                    <img src="img/team5.jpg" class="rounded-circle img-fluid"
+                                    <img src="img/ignacio_sequeira.jpg" class="rounded-circle img-fluid"
                                        alt="">
                                     </a>
                                  </div>
