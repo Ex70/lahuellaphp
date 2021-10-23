@@ -339,7 +339,7 @@
          <div class="blog-box">
             <!-- image -->
             <a href="blog-single.html">
-               <div class="image"><img src="img/blog/blogstyle2-2.webp" alt=""/></div>
+               <div class="image"><img src="img/blog/video-institucional.jpg" alt=""/></div>
             </a>
             <!-- blog-box-caption -->
             <div class="blog-box-caption">
