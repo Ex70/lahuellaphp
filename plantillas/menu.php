@@ -114,7 +114,7 @@
                                 <a class="nav-link dropdown-toggle" href="#" id="others-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Novedades</a>
                                 <div class="dropdown-menu" aria-labelledby="others-dropdown">
                                     <a class="dropdown-item" href="blog.php">Blog</a>
-                                    <a class="dropdown-item" href="blog2.php">Boletín</a>
+                                    <a class="dropdown-item" href="boletin.php">Boletín</a>
                                     <a class="dropdown-item" href="librohistoria.php">Libro</a>
                                     <a class="dropdown-item" href="videoinstitucional.php">Video Institucional</a>
                                 </div>

@@ -6,7 +6,7 @@
 ?>
    <!-- page wrapper starts -->
    <!-- Jumbotron -->
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron2 jumbotron-fluid">
          <div class="container" >
             <!-- jumbo-heading -->
             <div class="jumbo-heading" data-aos="fade-down">
@@ -36,7 +36,7 @@
                            <div class="col-lg-12 team-style3 bg-secondary pattern2">
                               <!-- image -->
                               <a href="team-single.html">
-                              <img src="img/JuanBerenguer.jpg" class="img-fluid rounded" alt="" />
+                              <img src="img/Juan_Berenguer.JPG" class="img-fluid rounded" alt="" />
                               </a>
                               <!-- caption -->
                               <div class="team-caption">
@@ -45,10 +45,7 @@
                                  </a>
                                  <h6>Presidente</h6>
                                  <p>
-                                 Contador público, con posgrado en economía y gestión para la inclusión. Amplia experiencia en organizaciones de la sociedad civil con énfasis en infancia, inclusión social, empleo y desarrollo. Desarrollo profesional independiente.<br> 
-                                 Programas<br>
-                                 Acompañamiento a emprendimientos productivos de MIDES.
-
+                                 Contador público, con posgrado en economía y gestión para la inclusión. Amplia experiencia en organizaciones de la sociedad civil con énfasis en infancia, inclusión social, empleo y desarrollo. Desarrollo profesional independiente.
                                  </p>
                               </div>
                               <!-- social icons -->
@@ -62,7 +59,7 @@
                            <div class="col-lg-12 team-style3 bg-secondary pattern2">
                               <!-- image -->
                               <a href="team-single.html">
-                              <img src="img/FelipeCordoves.jpg" class="img-fluid rounded" alt="" />
+                              <img src="img/Felipe_Cordoves.jpg" class="img-fluid rounded" alt="" />
                               </a>
                               <!-- caption -->
                            <div class="team-caption">
@@ -85,7 +82,7 @@
                            <div class="col-lg-12 team-style3 bg-secondary pattern2">
                               <!-- image -->
                               <a href="team-single.html">
-                              <img src="img/team/team3.jpg" class="img-fluid rounded" alt="" />
+                              <img src="img/Florencia_Ramos.jpeg" class="img-fluid rounded" alt="" />
                               </a>
                               <!-- caption -->
                            <div class="team-caption">
@@ -108,7 +105,7 @@
                            <div class="col-lg-12 team-style3 bg-secondary pattern2">
                               <!-- image -->
                               <a href="team-single.html">
-                              <img src="img/team/team4.jpg" class="img-fluid rounded" alt="" />
+                              <img src="img/Elena_Acosta.jpeg" class="img-fluid rounded" alt="" />
                               </a>
                               <!-- caption -->
                            <div class="team-caption">
@@ -131,7 +128,7 @@
                            <div class="col-lg-12 team-style3 bg-secondary pattern2">
                               <!-- image -->
                               <a href="team-single.html">
-                              <img src="img/team/team5.jpg" class="img-fluid rounded" alt="" />
+                              <img src="img/Rodolfo.jpg" class="img-fluid rounded" alt="" />
                               </a>
                               <!-- caption -->
                            <div class="team-caption">
@@ -166,14 +163,14 @@
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
                                     <a href="team-single.html">
-                                    <img src="img/team/team1.jpg" class="rounded-circle img-fluid"
+                                    <img src="img/Oscar_Sarroca.jpeg" class="rounded-circle img-fluid"
                                        alt="">
                                     </a>
                                  </div>
                                  <div class="mx-4">
                                     <!-- Team info -->
                                     <a href="team-single.html">
-                                       <h5 class="mb-2">Alejandro García</h5>
+                                       <h5 class="mb-2">Oscar Sorroca</h5>
                                     </a>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
                                        tenetur.
@@ -183,16 +180,17 @@
                                  <!-- Team social icons -->
                                  <ul class="social-icons bg-tertiary text-center">
                                  <a href="#"><i class="fa fa-envelope"></i></a>
-                                 <a href="#"><i class="fab fa-linkedin"></i></a>
+                                    <li> <a href="#"><i class="fab fa-linkedin"></i></a></li>
                                  </ul>
                               </div>
+                              
                               <!-- /Team member 1 -->
                               <!-- Team member 2 -->
                               <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
                                     <a href="team-single.html">
-                                    <img src="img/team/team2.jpg" class="rounded-circle img-fluid"
+                                    <img src="img/PatriciaHidalgo.jpeg" class="rounded-circle img-fluid"
                                        alt="">
                                     </a>
                                  </div>
@@ -218,7 +216,7 @@
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
                                     <a href="team-single.html">
-                                    <img src="img/team/team3.jpg" class="rounded-circle img-fluid"
+                                    <img src="img/team3.jpg" class="rounded-circle img-fluid"
                                        alt="">
                                     </a>
                                  </div>
@@ -238,20 +236,18 @@
                                  <a href="#"><i class="fab fa-linkedin"></i></a>
                                  </ul>
                               </div>
-                              <!-- /Team member 3 -->
-                              <!-- Team member 4 -->
                               <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
                                     <a href="team-single.html">
-                                    <img src="img/team/team4.jpg" class="rounded-circle img-fluid"
+                                    <img src="img/team5.jpg" class="rounded-circle img-fluid"
                                        alt="">
                                     </a>
                                  </div>
                                  <div class="mx-4">
                                     <!-- Team info -->
                                     <a href="team-single.html">
-                                       <h5 class="mb-2">Oscar Sorroca</h5>
+                                       <h5 class="mb-2">Alejandro García</h5>
                                     </a>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
                                        tenetur.
@@ -261,16 +257,16 @@
                                  <!-- Team social icons -->
                                  <ul class="social-icons bg-tertiary text-center">
                                  <a href="#"><i class="fa fa-envelope"></i></a>
-                                    <li> <a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
                                  </ul>
                               </div>
-                              <!-- /Team member 4 -->
+                              <!-- /Team member 3 -->
                               <!-- Team member 5 -->
                               <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
                                     <a href="team-single.html">
-                                    <img src="img/team/team5.jpg" class="rounded-circle img-fluid"
+                                    <img src="img/ignacio_sequeira.jpg" class="rounded-circle img-fluid"
                                        alt="">
                                     </a>
                                  </div>

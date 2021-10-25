@@ -209,7 +209,7 @@
                <!-- service icon -->
                <div class="service-icon">
                   <a href="services-single.html">
-                  <img src="img/services/service4.webp" alt="" class="blob2 img-fluid">
+                  <img src="img/comunidadstorta.JPG" alt="" class="blob2 img-fluid">
                   </a>
                </div>
                <!-- service content -->
@@ -259,7 +259,7 @@
          <div class="col-xl-4 col-md-4">
             <div class="counter">
                <div class="counter-wrapper" id="colorRojo">
-                  <i class="counter-icon flaticon-teacher"></i>
+                  <i class="counter-icon flaticon-balloon-playing"></i>
                   <!-- insert your final value on data-count= -->
                   <div class="counter-value" data-count="100">0</div>
                   <h3 class="title">Niños Hogar</h3>
@@ -285,7 +285,7 @@
          <div class="col-xl-4 col-md-4">
             <div class="counter">
                <div class="counter-wrapper bg-tertiary" id="cuadroicon">
-                  <i class="counter-icon flaticon-children"></i>
+                  <i class="counter-icon flaticon-friendship"></i>
                   <!-- insert your final value on data-count= -->
                   <div class="counter-value" data-count="450">0</div>
                   <h3 class="title">Voluntarios</h3>
@@ -339,7 +339,7 @@
          <div class="blog-box">
             <!-- image -->
             <a href="blog-single.html">
-               <div class="image"><img src="img/blog/blogstyle2-2.webp" alt=""/></div>
+               <div class="image"><img src="img/blog/blogstyle2-3-3.png" alt=""/></div>
             </a>
             <!-- blog-box-caption -->
             <div class="blog-box-caption">
@@ -362,7 +362,7 @@
          <div class="blog-box">
             <!-- image -->
             <a href="blog-single.html">
-               <div class="image"><img src="img/blog/blogstyle2-3.webp" alt=""/></div>
+               <div class="image"><img src="img/blog/blogstyle2-3.png" alt=""/></div>
             </a>
             <!-- blog-box-caption -->
             <div class="blog-box-caption">

@@ -6,7 +6,7 @@
 ?>
    <!-- page wrapper starts -->
    <!-- Jumbotron -->
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron2 jumbotron-fluid">
          <div class="container" >
             <!-- jumbo-heading -->
             <div class="jumbo-heading" data-aos="fade-down">
@@ -34,7 +34,27 @@
                         <div class="col-md-12 team-style1 notepad">
                            <div class="team_img">
                               <a href="team-single.html">
-                              <img src="img/team/team1.jpg" class="img-fluid" alt="">
+                              <img src="img/Alvaro_Vignola.jpeg" class="img-fluid" alt="">
+                              </a>
+                              <!-- social icons -->
+                              <ul class="social">
+                                 <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                                 <li><a href="https://www.linkedin.com/in/alvaro-vignola-a0a159123/"><i class="fab fa-linkedin"></i></a></li>
+                              </ul>
+                           </div>
+                           <!-- /team_img -->
+                           <div class="team-content">
+                              <a href="team-single.html">
+                                 <h5 class="title">Álvaro Vignola</h5>
+                              </a>
+                              <p>Id fermentum augue, ut pellen tesque leo nas. Maecenas at arcu risus Donec com modo.</p>
+                           </div>
+                           <!-- /team-content -->
+                        </div>
+                        <div class="col-md-12 team-style1 notepad">
+                           <div class="team_img">
+                              <a href="team-single.html">
+                              <img src="img/Ariel_Sotelo.jpg" class="img-fluid" alt="">
                               </a>
                               <!-- social icons -->
                               <ul class="social">
@@ -56,7 +76,7 @@
                         <div class="col-md-12 team-style1 notepad">
                            <div class="team_img">
                               <a href="team-single.html">
-                              <img src="img/team/team2.jpg" class="img-fluid" alt="">
+                              <img src="img/team2.jpg" class="img-fluid" alt="">
                               </a>
                               <!-- social icons -->
                               <ul class="social">
@@ -78,7 +98,7 @@
                         <div class="col-md-12 team-style1 notepad">
                            <div class="team_img">
                               <a href="team-single.html">
-                              <img src="img/team/team3.jpg" class="img-fluid" alt="">
+                              <img src="img/team3.jpg" class="img-fluid" alt="">
                               </a>
                               <!-- social icons -->
                               <ul class="social">

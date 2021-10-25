@@ -12,8 +12,8 @@
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="blog.html">Blog de inicio</a></li>
+               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+               <li class="breadcrumb-item"><a href="#">Novedades</a></li>
                <li class="breadcrumb-item active" aria-current="page">Libro Institucional</li>
             </ol>
          </nav>
@@ -34,7 +34,7 @@
             <!-- Post info-->
             <hr>
             <!-- Preview Image -->
-            <img src="img/blog/blog1.jpg" class="img-fluid" alt="">
+            <img src="img/gallery/institucion.jpg" class="img-fluid" alt="">
             <hr>
             <!-- Post Content -->
             <p class="lead"></p>
@@ -51,7 +51,14 @@
             Nos guía la voluntad de construir sobre la experiencia. 
             Esta historia está vinculada a determinadas personas que formularon la idea y se propusieron llevarla adelante y a las individualidades del grupo que fueron definiendo las características del proyecto.
             </p>
+            <div class="row" style="display: flex; justify-content: center;">
+               <h4></h4>
+               <!-- Image -->
+               <a href="https://drive.google.com/file/d/1AODOpSmsbnMSr7mUQViRc0o5HQpVSj6o/view?usp=sharing" target="_blank" class="btn btn-secondary mt-3" id="contacicon">Acceder a libro completo</a>
+               <!-- Button -->	 
+            </div>
          </div>
+         
          <!-- /page-with-sidebar -->
          <!-- Sidebar -->
            <!-- blog sidebar starts -->
