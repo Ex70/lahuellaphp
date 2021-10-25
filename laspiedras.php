@@ -75,17 +75,17 @@
                      <div class="card">
                         <div class="card-img">
                            <!-- image  -->   
-                           <a href="team.html">
-                           <img class="rounded card-img-top" src="img/about/aboutsidebar.jpg" alt="" >
+                           <a href="equipotrabajo.php">
+                           <img class="rounded card-img-top" src="img/about/400x300.jpg" alt="" >
                            </a>
                         </div>
                         <div class="card-body">
                            <!--  info --> 
                            <a href="team.html" class="text-center">
-                              <p><strong>Over 30 Certified professionals</strong></p>
+                              <p style="text-align: justify">Conoce al grupo de personas que pone en marcha el grupo hogar La Huella</p>
                            </a>
                            <!-- button -->   
-                           <a href="team.html" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>
+                           <a href="equipotrabajo.php" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>
                         </div>
                         <!--/card-body -->   
                      </div>
@@ -96,7 +96,7 @@
                <!--/widget-area -->
                <div class="widget-area notepad">
                   <h5 class="sidebar-header" id="cuadro3">Nuestra Misión</h5>
-                  <p>Aliquam erat volutpat In id fermentum augue Mae cenas at arcu risus. Donec com modo sodales ex.</p>
+                  <p style="text-align: justify">Crear un espacio para cobijar bajo nuestro techo y privilegiar al niño postergado o abandonado</p>
                </div>
                <!--/widget-area -->
                <div class="widget-area notepad">

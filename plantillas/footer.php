@@ -22,7 +22,7 @@
                             <div id="mc_embed_signup_scroll">
                                 <div class="mc-field-group">
                                     <div class="input-group">
-                                        <input class="form-control input-lg required email" type="email" value="" name="EMAIL" placeholder="Your email here" id="mce-EMAIL">
+                                        <input class="form-control input-lg required email" type="email" value="" name="EMAIL" placeholder="Su Correo Electrónico" id="mce-EMAIL">
                                         <span class="input-group-btn">
                                             <button class="btn btn-tertiary" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">Suscríbete</button>
                                         </span>

@@ -42,9 +42,9 @@
                <div class="row">
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme ">
-                        <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Los Periquitos.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia11.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia12.jpg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>
@@ -82,9 +82,9 @@
                   </div>
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme ">
-                        <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia15.jpeg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia14.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia13.jpeg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>

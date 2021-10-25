@@ -39,8 +39,6 @@
                               <!-- social icons -->
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                  <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
                               </ul>
                            </div>
@@ -63,8 +61,6 @@
                               <!-- social icons -->
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                  <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
                               </ul>
                            </div>
@@ -87,8 +83,6 @@
                               <!-- social icons -->
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                  <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
                               </ul>
                            </div>
@@ -96,6 +90,26 @@
                            <div class="team-content">
                               <a href="team-single.html">
                                  <h5 class="title">Luis Silvera</h5>
+                              </a>
+                              <p>Id fermentum augue, ut pellen tesque leo nas. Maecenas at arcu risus Donec com modo.</p>
+                           </div>
+                           <!-- /team-content -->
+                        </div>
+                        <div class="col-md-12 team-style1 notepad">
+                           <div class="team_img">
+                              <a href="team-single.html">
+                              <img src="img/team/team3.jpg" class="img-fluid" alt="">
+                              </a>
+                              <!-- social icons -->
+                              <ul class="social">
+                                 <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                                 <li><a href="https://www.linkedin.com/in/alvaro-vignola-a0a159123/" target="_self_blank"><i class="fab fa-linkedin"></i></a></li>
+                              </ul>
+                           </div>
+                           <!-- /team_img -->
+                           <div class="team-content">
+                              <a href="team-single.html">
+                                 <h5 class="title">Alvaro Vignola</h5>
                               </a>
                               <p>Id fermentum augue, ut pellen tesque leo nas. Maecenas at arcu risus Donec com modo.</p>
                            </div>
@@ -118,17 +132,17 @@
                      <div class="card">
                         <div class="card-img">
                            <!-- image  -->	
-                           <a href="team.html">
-                           <img class="rounded card-img-top" src="img/about/aboutsidebar.jpg" alt="" >
+                           <a href="equipotrabajo.php">
+                           <img class="rounded card-img-top" src="img/about/400x300.jpg" alt="" >
                            </a>
                         </div>
                         <div class="card-body">
                            <!--  info -->	
                            <a href="team.html" class="text-center">
-                              <p><strong>Over 30 Certified professionals</strong></p>
+                              <p style="text-align: justify"><p style="text-align: justify">Conoce al grupo de personas que pone en marcha el grupo hogar La Huella</p>
                            </a>
                            <!-- button -->	
-                           <a href="team.html" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>
+                           <a href="equipotrabajo.php" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>
                         </div>
                         <!--/card-body -->	
                      </div>
@@ -139,7 +153,7 @@
                <!--/widget-area -->
                <div class="widget-area notepad">
                   <h5 class="sidebar-header" id="cuadro3">Nuestra Misión</h5>
-                  <p>Aliquam erat volutpat In id fermentum augue Mae cenas at arcu risus. Donec com modo sodales ex.</p>
+                  <p style="text-align: justify">Crear un espacio para cobijar bajo nuestro techo y privilegiar al niño postergado o abandonado</p>
                </div>
                <!--/widget-area -->
                <div class="widget-area notepad">

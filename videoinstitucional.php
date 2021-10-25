@@ -1,5 +1,5 @@
 <?php
-   $Titulo = "Equipo de Trabajo";
+   $Titulo = "Video Institucional";
    $path = "";
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
@@ -11,7 +11,7 @@
       <div class="container" >
          <!-- jumbo-heading -->
          <div class="jumbo-heading" data-aos="fade-down">
-            <h1>Personería jurídica</h1>
+            <h1>Video Institucional</h1>
             <!-- Breadcrumbs -->
             <!-- /breadcrumb -->
          </div>
@@ -26,34 +26,17 @@
          <!-- page with sidebar starts -->
          <div class="col-lg-9 page-with-sidebar">
          <div class="col-lg-12">
-            <div class="row">
-               <!-- Image -->
-               <div class="col-lg-5 text-center">
-                  <img src="img/logo.png" class="img-fluid rounded" alt="">
-                  <!-- ornament starts-->
-                  <div class="ornament-stars" data-aos="zoom-out"></div>
-               </div>
-               <!-- /col-lg -->
-               <div class="col-lg-7">
-                  <h3 class="res-margin mt-5 mb-1">Asociación Civil La Huella</h3>
-                  <h6></h6>
-                  <p class="h7"></p>
-                  <ul class="social-media">
-                     <!--social icons -->
-                     <li><a href="#"><i class="fab fa-linkedin"></i></a></l>
-                     <li><a href="mailto:email@email.com"><i class="fa fa-envelope"></i></a></li>
-                  </ul>
-               </div>
-               <!-- /col-lg -->
-            </div>
             <!-- /row -->
-            <h4 class="mt-5">Acerca De Nosotros</h4>
-            <p>Un grupo de jóvenes en una chacra de Las Piedras pone en marcha un hogar para niños abandonados. Intentan autoabastecerse de lo que produce la tierra, comparten las tareas, los bienes, y la alegría de vivir, estudian, trabajan, atienden a los niños y niñas, e invitan a grupos de jóvenes, apostando a un cambio. Eran los años de la dictadura y había que “hacer algo”. Desafiaron las prohibiciones, cuestionaron la competencia y el consumismo, pero no querían quedarse en el mero rechazo, sino también construir un modelo alternativo, detonante de nuevas ideas, estímulo para la imaginación. Desde las raíces de su fe, hicieron un ensayo de futuro basado en la libertad y la solidaridad, la responsabilidad y la creatividad, el encuentro y el amor hacia los demás.</p>
-            <h5 class="mt-3">Personería Jurídica</h5>
+            <h4 class="mt-5"></h4>
+            <p>La Huella esta conformada por 4 proyectos sociales y Educativos.<br>
+            Los desafíos de la huella fue adecuarse de forma continua a la nuevas situaciones. la huella surge de una vertiente de la profesión fe cristiana con valores cristianos abiertos a todo aquel que no tenga creencias esa es la base de nuestra identidad. El proyecto casa forma parte de lo que llamámos CAFF es un centro de acogimiento y fortalecimiento familiar, otro proyecto es el PAE es el proyecto de autonomía y egreso es el primer paso de transición entre que salen de la casa al siguiente paso que es la autonomía. </h5>
             <!-- custom list -->
             
-            <p>Hoy día La Huella tiene personería jurídica como asociación civil "Asociación Civil Hogar La Huella" regida por el derecho público uruguayo. Registrada como tal ante el Ministerio de Educación y Cultura del Uruguay. Su Asamblea Social agrupa a todos sus socios, según estatutos y esta elige una Comisión Directiva que dura dos años en funciones. El Presidente y Secretario representan a la misma.</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/xdwLPTYMAIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+            <p>En el año 2000 empezarón a llegar muchas familias a la huella.
+               El club de niños de la Huella trabaja desde el año 2001 actualmente trabajamos con 54 chiquiines y 29 familias. El caif surge hace 15 años en el 2004 y atendemos a un total de 84 niños de hasta 3 años.
+               El SOCAT son siglas que significan Servicio de Orientacion y Consulta y Articulación Territorial en lo que se basa es en atender en distintos puntos del barrio. Es un convenio con MIDES donde nosotros tambien prestamos servicios y orientamos a todos los programas de MIDES
+            </p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/vW_7fucmcJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
          <!-- /ul -->
          <!-- custom link -->
          
@@ -78,7 +61,7 @@
                         <div class="card-body">
                            <!--  info --> 
                            <a href="team.html" class="text-center">
-                              <p><strong>Conoce al grupo de personas que pone en marcha el hogar de La Huella.</strong></p>
+                              <p><strong>Over 30 Certified professionals</strong></p>
                            </a>
                            <!-- button -->   
                            <a href="team.html" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>
