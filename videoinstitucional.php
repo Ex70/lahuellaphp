@@ -36,13 +36,7 @@
                El club de niños de la Huella trabaja desde el año 2001 actualmente trabajamos con 54 chiquiines y 29 familias. El caif surge hace 15 años en el 2004 y atendemos a un total de 84 niños de hasta 3 años.
                El SOCAT son siglas que significan Servicio de Orientacion y Consulta y Articulación Territorial en lo que se basa es en atender en distintos puntos del barrio. Es un convenio con MIDES donde nosotros tambien prestamos servicios y orientamos a todos los programas de MIDES
             </p>
-<<<<<<< HEAD
             <iframe width="560" height="315" src="https://www.youtube.com/embed/vW_7fucmcJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-=======
-            <div class="row" style="display: flex; justify-content: center">
-               <iframe width="560" height="315" src="https://www.youtube.com/embed/vW_7fucmcJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-               </div>
->>>>>>> 7db97006cefcbdbff581cad8fedf55dfece99da5
          <!-- /ul -->
          <!-- custom link -->
          
@@ -60,17 +54,17 @@
                      <div class="card">
                         <div class="card-img">
                            <!-- image  -->   
-                           <a href="team.html">
-                           <img class="rounded card-img-top" src="img/about/aboutsidebar.jpg" alt="" >
+                           <a href="equipotrabajo.php">
+                           <img class="rounded card-img-top" src="img/about/400x300.jpg" alt="" >
                            </a>
                         </div>
                         <div class="card-body">
                            <!--  info --> 
-                           <a href="team.html" class="text-center">
-                              <p><strong>Over 30 Certified professionals</strong></p>
+                           <a href="equipotrabajo.php" class="text-center">
+                              <p style="text-align: justify"><strong>Conoce al grupo de personas que pone en marcha el hogar La Huella</strong></p>
                            </a>
                            <!-- button -->   
-                           <a href="team.html" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>
+                           <a href="equipotrabajo.php" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>
                         </div>
                         <!--/card-body -->   
                      </div>
@@ -81,7 +75,7 @@
                <!--/widget-area -->
                <div class="widget-area notepad">
                   <h5 class="sidebar-header" id="cuadro3">Nuestra Misión</h5>
-                  <p>Aliquam erat volutpat In id fermentum augue Mae cenas at arcu risus. Donec com modo sodales ex.</p>
+                  <p style="text-align: justify">Crear un espacio para cobijar bajo nuestro techo y privilegiar al niño postergado o abandonado</p>
                </div>
                <!--/widget-area -->
                <div class="widget-area notepad">

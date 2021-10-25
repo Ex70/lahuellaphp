@@ -1,5 +1,5 @@
 <?php
-   $Titulo = "Libro";
+   $Titulo = "La Huella Cumple 45 Años";
    $path = "";
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
@@ -8,13 +8,13 @@
    <div class="container" >
       <!-- jumbo-heading -->
       <div class="jumbo-heading" data-aos="fade-down">
-         <h1>Libro Institucional</h1>
+         <h1>La Huella Cumple 45 Años</h1>
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="#">Novedades</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Libro Institucional</li>
+               <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
+               <li class="breadcrumb-item"><a href="blog.html">Post de Inicio</a></li>
+               <li class="breadcrumb-item active" aria-current="page">La Huella Cumple 45 Años</li>
             </ol>
          </nav>
          <!-- /breadcrumb -->
@@ -34,31 +34,20 @@
             <!-- Post info-->
             <hr>
             <!-- Preview Image -->
-            <img src="img/gallery/institucion.jpg" class="img-fluid" alt="">
+            <img src="img/blog/blog1.jpg" class="img-fluid" alt="">
             <hr>
             <!-- Post Content -->
             <p class="lead"></p>
-            <p>Nuestra historia, que transcurre en una chacra suburbana, con niños y niñas y gente viviendo en comunidad, ordeñando vacas y criando chanchos, parece de un mundo de ficción en un pasado remoto. </p>
-            <p>Pero se trata de una historia viva que continúa adelante con nuevas propuestas. Nació en 1975, en un mundo sin celulares ni internet. A dos años del golpe de Estado en Uruguay y consolidado el gobierno militar, no había libertad de reunión ni de expresión.</p>
-               <p>Nos importa recuperar esta experiencia por lo que representa en la actualidad en que está en discusión la calidad de la educación y faltan respuestas novedosas a las problemáticas de la convivencia y la atención de los niños en situación de riesgo. La Huella es, en este sentido, una fuente de inspiración, en tanto iniciativa de un grupo de jóvenes guiados por la fe, el amor, la voluntad de compartir, la vocación de servir a los más desamparados y un profundo deseo de justicia social. </p>
+            <p>La Huella es un lugar de enseñanza una organizacion en la que trabajar comunitariamente en una prestacion de servicios y entrega con gratuidad total hacia los vulnerados donde se nos manifiesta Jesús </p>
+            <p>Desde hace 45 seguimos dejando huella.</p>
             <h5></h5>
-            <ul class="custom p-0">
-            <p>La gran visibilidad pública que tuvo La Huella en determinada época motivó a muchísima gente a lo largo de casi cuatro décadas en sus propias búsquedas. Es difícil hacerse una idea de la dimensión de todo lo que movilizó como experiencia. Nos encontramos con jóvenes que crecieron en el hogar y lo recuerdan no como una institución sino como su casa. Quienes participaron de los equipos liceales evocan con orgullo y con cariño su vivencia</p>
-            <p>Hoy, que subyace el concepto de que es imposible vivir de otra manera, buscamos recordar que el estilo de vida dominante en la actualidad no es la única forma de existir ni en el mundo ni en el Uruguay. La historia de La Huella recupera una vida austera, enfrentando en grupo y con alegría el desafío de encontrar soluciones creativas cada día. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <b>Is es profecto tu.</b> Sed quot homines, tot sententiae; Ego vero volo in virtute vim esse quam maximam; Animi enim quoque dolores percipiet omnibus partibus maiores quam corporis. Itaque haec cum illis est dissensio, cum Peripateticis nulla sane.</p>
+            <p>					 <b>Ratio quidem vestra sic cogit.</b> Quia dolori non voluptas contraria est, sed doloris privatio. Duo Reges: constructio interrete. Placet igitur tibi, Cato, cum res sumpseris non concessas, ex illis efficere, quod velis? Refert tamen, quo modo. </p>
             <h5></h5>
             <p>
-            No proponemos a La Huella como modelo a imitar. La Huella es para nosotras un caso concreto, cercano y vital, de modos de convivencia en relación con los demás y con la naturaleza del que es posible aprender.<br> 
-            Nos guía la voluntad de construir sobre la experiencia. 
-            Esta historia está vinculada a determinadas personas que formularon la idea y se propusieron llevarla adelante y a las individualidades del grupo que fueron definiendo las características del proyecto.
+               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tamen aberramus a proposito, et, ne longius, prorsus, inquam, Piso, si ista mala sunt, placet. Quarum cum una sit, qua mores conformari putantur, differo eam partem, quae quasi stirps ets huius quaestionis. Sed utrum hortandus es nobis, Luci, inquit, an etiam tua sponte propensus es? Nisi enim id faceret, cur Plato Aegyptum peragravit, ut a sacerdotibus barbaris numeros et caelestia acciperet? Duo Reges: constructio interrete. Nam bonum ex quo appellatum sit, nescio, praepositum ex eo credo, quod praeponatur aliis. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intelleg            
             </p>
-            <div class="row" style="display: flex; justify-content: center;">
-               <h4></h4>
-               <!-- Image -->
-               <a href="https://drive.google.com/file/d/1AODOpSmsbnMSr7mUQViRc0o5HQpVSj6o/view?usp=sharing" target="_blank" class="btn btn-secondary mt-3" id="contacicon">Acceder a libro completo</a>
-               <!-- Button -->	 
-            </div>
          </div>
-         
          <!-- /page-with-sidebar -->
          <!-- Sidebar -->
            <!-- blog sidebar starts -->

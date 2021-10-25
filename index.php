@@ -26,7 +26,7 @@
             <!-- front of card  -->  
             <div class="card bg-secondary text-light ">
                <div class="p-5">
-                  <h5 class="card-title text-light">Hogar La Huella</h5>
+                  <h5 class="card-title text-light">Hogar<br>La Huella</h5>
                   <p class="card-text">
                      In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat lorem
                   </p>
@@ -102,7 +102,7 @@
             <!-- front of card  -->  
             <div class="card bg-tertiary text-light" id="colorAmarillo">
                <div class="p-5">
-                  <h5 class="card-title text-light">CAIF Los Periquitos</h5>
+                  <h5 class="card-title text-light">CAIF<br> Los Periquitos</h5>
                   <p class="card-text">
                      In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat lorem
                   </p>
@@ -194,7 +194,7 @@
                <!-- service content -->
                <div class="service-content">
                   <a href="services-single.html">
-                     <h4 class="service-head">Salon de Eventos</h4>
+                     <h4 class="service-head">Salon de<br>Eventos</h4>
                   </a>
                   <p>
                      Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
@@ -327,7 +327,7 @@
                </a>
                <!-- /link -->
                <p>
-                  Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
+               La Huella es un lugar de enseñanza una organizacion en la que trabajar comunitariamente en una prestacion de servicios y entrega con gratuidad total hacia los vulnerados donde se nos manifiesta Jesús...
                </p>
             </div>
             <!-- blog-box-footer -->
@@ -350,7 +350,7 @@
                </a>
                <!-- /link -->
                <p>
-                  Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
+               Los desafíos de la huella fue adecuarse de forma continua a la nuevas situaciones. la huella surge de una vertiente de la profesión fe cristiana con valores cristianos abiertos a todos.
                </p>
             </div>
             <!-- blog-box-footer -->
@@ -368,16 +368,16 @@
             <div class="blog-box-caption">
                <!-- date -->
                <div class="date"><span class="day">02</span><span class="month">Julio</span></div>
-               <a href="libro-historia.php">
+               <a href="librohistoria.php">
                   <h4>El Libro Con Nuestra Historia</h4>
                </a>
                <!-- /link -->
                <p>
-                  Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
+               Nuestra historia, que transcurre en una chacra suburbana, con niños y niñas y gente viviendo en comunidad, ordeñando vacas y criando chanchos, parece de un mundo de ficción en un pasado remoto.
                </p>
             </div>
             <!-- blog-box-footer -->
-                  <a href="libro-historia.php" class="btn btn-primary " id="colorAmarillo">Leer más</a>
+                  <a href="librohistoria.php" class="btn btn-primary " id="colorAmarillo">Leer más</a>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->
