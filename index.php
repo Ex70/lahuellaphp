@@ -345,7 +345,7 @@
             <div class="blog-box-caption">
                <!-- date -->
                <div class="date"><span class="day">28</span><span class="month">Junio</span></div>
-               <a href="videoInstitucional.php">
+               <a href="videoinstitucional.php">
                   <h4>Nuestro Video Institucional</h4>
                </a>
                <!-- /link -->
@@ -354,7 +354,7 @@
                </p>
             </div>
             <!-- blog-box-footer -->
-                  <a href="videoInstitucional.php" class="btn btn-primary " id="colorAmarillo">Leer más</a>
+                  <a href="videoinstitucional.php" class="btn btn-primary " id="colorAmarillo">Leer más</a>
             <!-- /blog-box-footer -->
          </div>
          <!-- /blog-box -->

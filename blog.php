@@ -208,7 +208,7 @@
                      <li class="page-item"><a class="page-link" href="#">Next</a></li>
                   </ul>
                </nav>
-               <!-- /nav --
+               <!-- /nav -->
             </div>
             <!-- /col-md -->
          </div>
