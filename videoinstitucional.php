@@ -27,7 +27,6 @@
          <div class="col-lg-9 page-with-sidebar">
          <div class="col-lg-12">
             <!-- /row -->
-            <h4 class="mt-5"></h4>
             <p>La Huella esta conformada por 4 proyectos sociales y Educativos.<br>
             Los desafíos de la huella fue adecuarse de forma continua a la nuevas situaciones. la huella surge de una vertiente de la profesión fe cristiana con valores cristianos abiertos a todo aquel que no tenga creencias esa es la base de nuestra identidad. El proyecto casa forma parte de lo que llamámos CAFF es un centro de acogimiento y fortalecimiento familiar, otro proyecto es el PAE es el proyecto de autonomía y egreso es el primer paso de transición entre que salen de la casa al siguiente paso que es la autonomía. </h5>
             <!-- custom list -->
@@ -36,7 +35,9 @@
                El club de niños de la Huella trabaja desde el año 2001 actualmente trabajamos con 54 chiquiines y 29 familias. El caif surge hace 15 años en el 2004 y atendemos a un total de 84 niños de hasta 3 años.
                El SOCAT son siglas que significan Servicio de Orientacion y Consulta y Articulación Territorial en lo que se basa es en atender en distintos puntos del barrio. Es un convenio con MIDES donde nosotros tambien prestamos servicios y orientamos a todos los programas de MIDES
             </p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/vW_7fucmcJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="row" style="display:flex;justify-content:center">
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/vW_7fucmcJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
          <!-- /ul -->
          <!-- custom link -->
          
