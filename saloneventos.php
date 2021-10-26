@@ -40,7 +40,7 @@
      <div class="row">
             <!-- /col-lg -->
             <div class="col-lg-5 res-margin">
-               <img src="img/services/serviceimg2.jpg" alt="" class="moving-blob img-fluid">
+               <img src="img/services/Fotografia22.jpeg" alt="" class="moving-blob img-fluid">
             </div>
             <div class="col-lg-7 justify-content-center align-self-center">
                <h3><span class="text-secondary">Salón de Eventos</span></h3>
@@ -67,38 +67,38 @@
 <div class="owl-stage owl-carousel owl-theme top-centered-nav mt-5 magnific-popup">
             <div class="col-md-12 gallery-img hover-border">
                <!-- image -->
-               <a href="img/gallery/gallery1.jpg" title="your caption here">
-               <img src="img/gallery/gallery1.jpg" class="img-fluid rounded" alt="">
+               <a href="img/gallery/Fotografia23.jpeg" title="your caption here">
+               <img src="img/gallery/Fotografia23.jpeg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="img/gallery/gallery2.jpg" title="your caption here">
-               <img src="img/gallery/gallery2.jpg" class="img-fluid rounded" alt="">
+               <a href="img/gallery/Fotografia24.jpg" title="your caption here">
+               <img src="img/gallery/Fotografia24.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="img/gallery/gallery3.jpg" title="your caption here">
-               <img src="img/gallery/gallery3.jpg" class="img-fluid rounded" alt="">
+               <a href="img/gallery/Fotografia25.jpg" title="your caption here">
+               <img src="img/gallery/Fotografia25.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="img/gallery/gallery4.jpg" title="your caption here">
-               <img src="img/gallery/gallery4.jpg" class="img-fluid rounded" alt="">
+               <a href="img/gallery/Fotografia26.jpg" title="your caption here">
+               <img src="img/gallery/Fotografia26.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="img/gallery/gallery5.jpg" title="your caption here">
-               <img src="img/gallery/gallery5.jpg" class="img-fluid rounded" alt="">
+               <a href="img/gallery/Fotografia27.jpg" title="your caption here">
+               <img src="img/gallery/Fotografia27.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border">
-               <a href="img/gallery/gallery6.jpg" title="your caption here">
-               <img src="img/gallery/gallery6.jpg" class="img-fluid rounded" alt="">
+               <a href="img/gallery/Fotografia28.jpg" title="your caption here">
+               <img src="img/gallery/Fotografia28.jpg" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->

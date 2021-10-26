@@ -159,8 +159,8 @@
                   <div class="slide__text">
                      <h1 class="slide__text-heading">Bienvenido a La Huella</h1>
                      <div class="hidden-small">
-                        <p class="lead">We offer high quality Daycare Services, contact us or visit us today for more information</p>
-                        <a href="services-single.html" class="btn btn-quaternary" id="colorAmarillo">nuestros servicios</a>
+                        <p class="lead">Un grupo de jóvenes en una chacra de Las Piedras pone en marcha un hogar para niños abandonados.</p>
+                        <a href="hogarlahuella.php" class="btn btn-quaternary" id="colorAmarillo">¿Quienes somos?</a>
                      </div>
                   </div>
                </div>
@@ -177,7 +177,7 @@
                      <h1 class="slide__text-heading">La infancia: nuestra apuesta por un mundo mejor</h1>
                      <div class="hidden-small">
                         <p class="lead">Get inspired by seeing the children excited about learning, book a visit and experience our curriculum in action</p>
-                        <a href="contact.html" class="btn btn-quaternary" id="colorAmarillo">Colaborá con nosotros</a>
+                        <a href="contacto.php" class="btn btn-quaternary" id="colorAmarillo">Colaborá con nosotros</a>
                      </div>
                   </div>
                </div>
@@ -193,8 +193,8 @@
                   <div class="slide__text">
                      <h1 class="slide__text-heading">Salón de Fiestas y Eventos</h1>
                      <div class="hidden-small">
-                        <p class="lead">ABC Tots ignite children’s natural curiosity to be self-learners in engaging environments and activities.</p>
-                        <a href="contact.html" class="btn btn-quaternary" id="colorAmarillo">Informes</a>
+                        <p class="lead"> </p>
+                        <a href="saloneventos.php" class="btn btn-quaternary" id="colorAmarillo">Informes</a>
                      </div>
                   </div>
                </div>

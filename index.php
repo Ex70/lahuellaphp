@@ -28,10 +28,10 @@
                <div class="p-5">
                   <h5 class="card-title text-light">Hogar<br>La Huella</h5>
                   <p class="card-text">
-                     In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat lorem
+                   Es un centro educativo que alberga a 22 niñas/os y adolescentes. Luego un educador los acompaña a su lugar de estudio; concurren a distintas instituciones de la zona (Escuelas, Liceos, UTU, CECAP, Aulas comunitarias, PAGRO).
                   </p>
                   <!-- button show on mobile only,where flip is disabled -->
-                  <a href="contact.html" class="btn d-lg-none">contacte con nosotros</a>
+                  <a href="hogar.php" class="btn d-lg-none">contacte con nosotros</a>
                </div>
                <!-- /p-5 -->
                <!-- image -->
@@ -42,12 +42,13 @@
             <div class="card bg-secondary text-light card-back">
                <div class="card-body d-flex justify-content-center align-items-center">
                   <div class="p-4">
-                     <h5 class="card-title text-light">Desde 1075</h5>
-                     <p class="card-text">enas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. 
-                        In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat
+                     <h5 class="card-title text-light">Desde 1975</h5>
+                     <p class="card-text">Nació en 1975, en un mundo sin celulares ni internet. A dos 
+                        años del golpe de Estado en Uruguay y consolidado el gobierno militar, 
+                        no había libertad de reunión ni de expresión.
                      </p>
                      <!-- button -->
-                     <a href="contact.html" class="btn">contacte con nosotros</a>
+                     <a href="hogar.php" class="btn">contacte con nosotros</a>
                   </div>
                   <!-- /p-4 -->
                </div>
@@ -66,10 +67,10 @@
                <div class="p-5">
                   <h5 class="card-title text-light">Club de Niños La Huellita</h5>
                   <p class="card-text">
-                     In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat lorem
+                   Es un proyecto en convenio con INAU que funciona con modalidad de tiempo parcial de<br> lunes a viernes<br> durante el horario de la mañana.<BR><BR><BR><BR>
                   </p>
                   <!-- button show on mobile only,where flip is disabled -->
-                  <a href="services.html" class="btn d-lg-none">Nuestros Servicios</a>
+                  <a href="clubdeniños.php" class="btn d-lg-none">Nuestros Servicios</a>
                </div>
                <!-- /p-5 -->
                <!-- image -->
@@ -81,11 +82,10 @@
                <div class="card-body d-flex justify-content-center align-items-center">
                   <div class="p-4">
                      <h5 class="card-title text-light">Didáctico y Divertido</h5>
-                     <p class="card-text">enas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. 
-                        In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat
+                     <p class="card-text">Es un espacio educativo para niños y niñas en edad escolar que, como experiencia asociativa y formativa, promueve el aprendizaje cooperativo a través de diversos talleres.
                      </p>
                      <!-- button -->
-                     <a href="services-single.html" class="btn">Nuestros Servicios</a>
+                     <a href="clubdeniños.php" class="btn">Nuestros Servicios</a>
                   </div>
                   <!-- /p-4 -->
                </div>
@@ -104,10 +104,10 @@
                <div class="p-5">
                   <h5 class="card-title text-light">CAIF<br> Los Periquitos</h5>
                   <p class="card-text">
-                     In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat lorem
+                  Funciona desde 2004, atendiendo población de las zonas de Pueblo Nuevo, Villa Ilusión,<br> Herten y Corfrisa. En la actualidad se atiende a 85 niñ@s y sus familias con el objetivo de acompañar su desarrollo integral.
                   </p>
                   <!-- button show on mobile only,where flip is disabled -->
-                  <a href="caif.html" class="btn d-lg-none">Nuestro equipo</a>
+                  <a href="caif.php" class="btn d-lg-none">Nuestro equipo</a>
                </div>
                <!-- /p-5 -->
                <!-- image -->
@@ -119,11 +119,10 @@
                <div class="card-body d-flex justify-content-center align-items-center" id="colorAmarillo">
                   <div class="p-4">
                      <h5 class="card-title text-light">Conoce a nuestro personal</h5>
-                     <p class="card-text">enas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. 
-                        In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat
+                     <p class="card-text">Cada grupo está a cargo de una educadora acompañada por una maestra<br> especializada en el área de Educación Inicial para la planificación del trabajo en sala.
                      </p>
                      <!-- button -->
-                     <a href="caif.html" class="btn">Nuestro equipo</a>
+                     <a href="caif.php" class="btn">Nuestro equipo</a>
                   </div>
                   <!-- /p-4 -->
                </div>
@@ -167,40 +166,42 @@
             <div class="serviceBox2">
                <!-- service icon -->
                <div class="service-icon">
-                  <a href="services-single.html">
+                  <a href="actividades.php">
                   <img src="img/services/service1.webp" alt="" class="blob img-fluid">
                   </a>
                </div>
                <!-- service content -->
                <div class="service-content">
-                  <a href="services-single.html">
+                  <a href="actividades.php">
                      <h4 class="service-head">Acompañamiento Familiar</h4>
                   </a>
                   <p>
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
+                  Se desarrollan diversas actividades extraordinarias, por ejemplo: actividades recreativas en los barrios, el Periniño, la participación en las Fiestas Mayas y en la Expo Educa, el Guisito Amigo, reuniones y talleres con familias.
                   </p>
                   <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary  btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
+                  <a href="actividades.php" class="btn btn-quaternary  btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
             <!-- service 2  -->
             <div class="serviceBox2">
                <!-- service icon -->
                <div class="service-icon">
-                  <a href="services-single.html">
+                  <a href="saloneventos.php">
                   <img src="img/services/service2.webp" alt="" class="blob2 img-fluid">
                   </a>
                </div>
                <!-- service content -->
                <div class="service-content">
-                  <a href="services-single.html">
+                  <a href="saloneventos.php">
                      <h4 class="service-head">Salon de<br>Eventos</h4>
                   </a>
                   <p>
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
+                  La Huella presta su salón para la realización de reuniones o fiestas. Por consultas, por favor comunicarse.<br><br><br><br><br>
+
+                  
                   </p>
                   <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
+                  <a href="contacto.php" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
             <!-- service 3  -->
@@ -208,40 +209,40 @@
             <div class="serviceBox2">
                <!-- service icon -->
                <div class="service-icon">
-                  <a href="services-single.html">
+                  <a href="storta.php">
                   <img src="img/comunidadstorta.JPG" alt="" class="blob2 img-fluid">
                   </a>
                </div>
                <!-- service content -->
                <div class="service-content">
-                  <a href="services-single.html">
+                  <a href="storta.php">
                      <h4 class="service-head">Comunidad La Storta</h4>
                   </a>
                   <p>
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
+                     La propuesta tiene como origen dos grandes fuerzas. Por un lado, pretende tomar una experiencia comunitaria chilena “La Storta”, donde jóvenes viven una experiencia de comunidad, espiritualidad y apostolado intensa.
                   </p>
                   <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
+                  <a href="storta.php" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
             <!-- service 5 -->
             <div class="serviceBox2">
                <!-- service icon -->
                <div class="service-icon">
-                  <a href="services-single.html">
+                  <a href="actividades.php">
                   <img src="img/services/service5.webp" alt="" class="blob img-fluid">
                   </a>
                </div>
                <!-- service content -->
                <div class="service-content">
-                  <a href="services-single.html">
+                  <a href="actividades.php">
                      <h4 class="service-head">Paseos y Actividades</h4>
                   </a>
                   <p>
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit integer dictum malesuada Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus Etiam rhoncus.
+                  Cuando los niños llegan, a las 8 de la mañana, se realizan múltiples actividades: los que tienen deberes escolares, cuentan con un espacio para realizar las tareas con el apoyo de la maestra y un educador; otros juegan en el patio.
                   </p>
                   <!-- Button -->	 
-                  <a href="services-single.html" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
+                  <a href="actividades.php" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
          </div>
@@ -404,8 +405,8 @@
             data-center="left:-5%;">
             <div class="text-light justify-content-center align-self-center">
                <h3>El mejor espacio para tus fiestas y eventos</h3>
-               <p>Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus vi tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-               <a href="contact.html" class="btn btn-tertiary">Contacte con nosotros</a>
+               <p></p>
+               <a href="saloneventos.php" class="btn btn-tertiary">Contacte con nosotros</a>
             </div>
             <!-- /text-light  -->
          </div>

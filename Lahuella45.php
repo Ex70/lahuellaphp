@@ -41,12 +41,6 @@
             <p>La Huella es un lugar de enseñanza una organizacion en la que trabajar comunitariamente en una prestacion de servicios y entrega con gratuidad total hacia los vulnerados donde se nos manifiesta Jesús </p>
             <p>Desde hace 45 seguimos dejando huella.</p>
             <h5></h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <b>Is es profecto tu.</b> Sed quot homines, tot sententiae; Ego vero volo in virtute vim esse quam maximam; Animi enim quoque dolores percipiet omnibus partibus maiores quam corporis. Itaque haec cum illis est dissensio, cum Peripateticis nulla sane.</p>
-            <p>					 <b>Ratio quidem vestra sic cogit.</b> Quia dolori non voluptas contraria est, sed doloris privatio. Duo Reges: constructio interrete. Placet igitur tibi, Cato, cum res sumpseris non concessas, ex illis efficere, quod velis? Refert tamen, quo modo. </p>
-            <h5></h5>
-            <p>
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tamen aberramus a proposito, et, ne longius, prorsus, inquam, Piso, si ista mala sunt, placet. Quarum cum una sit, qua mores conformari putantur, differo eam partem, quae quasi stirps ets huius quaestionis. Sed utrum hortandus es nobis, Luci, inquit, an etiam tua sponte propensus es? Nisi enim id faceret, cur Plato Aegyptum peragravit, ut a sacerdotibus barbaris numeros et caelestia acciperet? Duo Reges: constructio interrete. Nam bonum ex quo appellatum sit, nescio, praepositum ex eo credo, quod praeponatur aliis. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intelleg            
-            </p>
          </div>
          <!-- /page-with-sidebar -->
          <!-- Sidebar -->
