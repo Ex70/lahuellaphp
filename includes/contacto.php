@@ -1,6 +1,10 @@
 <?php
-    require("PHPMailer.php");
-    require("SMTP.php");
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require 'Exception.php';
+require 'PHPMailer.php';
+require 'SMTP.php';
 
     if($_POST){
         $nombre = $_POST["name"];
