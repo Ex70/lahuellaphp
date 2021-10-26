@@ -90,7 +90,7 @@
                             <!-- menu item -->
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="about-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Colaborar</a>
-                                <div class="dropdown-menu" aria-labelledby="about-dropdown">
+                                <div class="dropdown-menu" aria-labelledby="about-dropdown" id="colorRojo">
                                     <a class="dropdown-item" href="apoyoeconomico.php">Apoyo Económico</a>
                                     <a class="dropdown-item" href="apoyoenespecie.php">Apoyo en Especie</a>
                                     <a class="dropdown-item" href="apoyoenservicios.php">Apoyo en Servicios</a>
