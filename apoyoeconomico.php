@@ -47,6 +47,7 @@
                Cuenta BROU en dólares (Caja de ahorro) : 001528734-00007<br>
                Cuenta Colecta en pesos: 10271<br>
                Cuenta Colecta en dólares: 10275<br>
+               caja de ahorro
             
                </p>
                <!-- Button -->    
@@ -58,49 +59,6 @@
       </div>
       <!-- /container -->
    </div>
-   <div class="page">
-   <div class="container-fluid block-padding">
-      <div class="container ">
-         <div class="row">
-            <!-- /col-lg -->
-            <div class="col-lg-5 justify-content-center align-self-center">
-               <h3><span class="text-secondary">Apoyo Economico</span></h3>
-               <p style="text-align: justify">
-                  Quisque at odio nunc. Etiam ac nibh egestas, accumsan felis id, fermentum purus. Quisque vitae hendrerit elit. Maecenas ipsum mi, iaculis quis mattis cursus, auctor ac magna. Integer felis metus, aliquet in dignissim ut, varius et odio. Donec malesuada diam quis dignissim suscipit. Praesent purus turpis, tristique hendrerit
-               </p>
-               <p style="text-align: justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et ma<br><br>
-               Dejamos a continuación las distintas formas de colaborar a través de nuestra cuenta BROU o Colectate. Desde ya, ¡¡muchas gracias!!<br><br>
-
-               Cuenta BROU en pesos (Caja de ahorro) : 001528734-00005<br>
-               Cuenta BROU en dólares (Caja de ahorro) : 001528734-00007<br>
-               Cuenta Colecta en pesos: 10271<br>
-               Cuenta Colecta en dólares: 10275<br>
-            
-               </p>
-               <!-- Button -->    
-               <a href="contacto.php" class="btn btn-quaternary mt-2">Contácte con nosotros</a>
-            </div>
-            <!-- /col-lg -->
-         </div>
-         <div class="col-lg-7 res-margin">
-               <img src="img/services/serviceimg2.jpg" alt="" class="moving-blob img-fluid">
-            </div>
-         <!-- /row -->
-      </div>
-      <!-- /container -->
-   </div>
-   <!-- /container-fluid -->
-   <!-- SVG divider  -->
-
-   <!-- /mt-5 -->
-   <!-- container-->
-      
-         <!-- /col-lg-8 -->
-      </div>
-      <!-- /row -->
-   </div>
-   <!-- /container -->
-</div>
    <!-- /container-fluid -->
    <!-- SVG divider  -->
 
