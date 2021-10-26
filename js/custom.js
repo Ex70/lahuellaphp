@@ -57,14 +57,14 @@ jQuery(function($) {
 			{
 			//get input field values data to be sent to server
 			var post_data = {
-				'user_name': $('input[name=name]').val(),
-				'user_email': $('input[name=email]').val(),
+				'name': $('input[name=name]').val(),
+				'email': $('input[name=email]').val(),
 				'subject': $('input[name=subject]').val(),
-				'msg': $('textarea[name=message]').val()
+				'message': $('textarea[name=message]').val()
 			};
 
 			//Ajax post data to server
-			$.post('php/sendmail.php', post_data, function(response) {
+			$.post('php/contacto.php', post_data, function(response) {
 				if (response.type === 'error') { //load json data from server and output message     
 					var output = '<br><div class="alert">' + response.text + '</div>';
 				} else {
