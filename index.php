@@ -434,7 +434,7 @@
              <!-- contact icons-->
             <ul class="list-inline mt-3 list-contact colored-icons">
                <li class="list-inline-item"><i class="fa fa-envelope margin-icon"></i>Hogar: <a href="mailto:lahuella1975@gmail.com">lahuella1975@gmail.com</a><li>
-               <li class="list-inline-item"><i class="fa fa-phone margin-icon"></i>Oficina: <a href="tel:59823650827">2365 0827</li>
+               <li class="list-inline-item"><i class="fa fa-phone margin-icon"></i>Oficina: <a href="tel:59823650827">2365 0827</a></li>
                <li class="list-inline-item" ><i class="fa fa-map-marker margin-icon"></i>Ruta 48 Luis Pérez Aguirre, Km 19.500, 90200 Las Piedras, Canelones, Uruguay</li>
             </ul>
             <!-- /list-->
