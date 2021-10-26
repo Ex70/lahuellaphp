@@ -43,6 +43,7 @@
                   <h4 class="mt-5">Envíenos un mensaje</h4>
                   <!-- Form Starts -->
                   <div id="contact_form">
+                  <form action="includes/contacto.php" method="post"  enctype="multipart/form-data" name="formulario">
                      <div class="form-group">
                         <div class="row">
                            <div class="col-md-6">
@@ -64,11 +65,13 @@
                               <textarea name="message" id="message" class="textarea-field form-control" rows="3"  required=""></textarea>
                            </div>
                         </div>
-                        <button type="submit" id="submit_btn" value="Submit" class="btn btn-primary">Enviar mensaje</button>
+                        <input name="enviar" type="submit" value="Enviar" />
+                        <!-- <button type="submit" id="submit_btn" value="Submit" class="btn btn-primary">Enviar mensaje</button> -->
                      </div>
                      <!-- /form-group-->
                      <!-- Contact results -->
                      <div id="contact_results"></div>
+                  </form>
                   </div>
                   <!-- /contact)form-->
                </div>
