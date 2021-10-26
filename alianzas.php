@@ -38,40 +38,28 @@
    <!-- /container -->
    <!-- owl carousel gallery  -->
          <div class="owl-stage owl-carousel owl-theme top-centered-nav mt-5 magnific-popup">
-            <div class="col-md-12 gallery-img hover-border">
+            <div class="col-md-12 gallery-img hover-border" style="width:250px;">
                <!-- image -->
-               <a href="https://pbs.twimg.com/profile_images/944216900845924352/2qAZPAOf_400x400.jpg" title="your caption here">
-               <img src="https://pbs.twimg.com/profile_images/944216900845924352/2qAZPAOf_400x400.jpg" class="img-fluid rounded" alt="">
+               <a href="img/alianzas/logo-audec.png" title="Asociación Uruguaya de EDUCACIÓN CATÓLICA">
+               <img src="img/alianzas/logo-audec.png" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
-            <div class="col-md-12 gallery-img hover-border">
-               <a href="https://www.audec.edu.uy/Images/Logo.png?n=c" title="your caption here">
-               <img src="https://www.audec.edu.uy/Images/Logo.png?n=c" class="img-fluid rounded" alt="">
+            <div class="col-md-12 gallery-img hover-border" style="width:250px;">
+               <a href="img/alianzas/logo-auf.png" title="American Uruguayan Federation">
+               <img src="img/alianzas/logo-auf.png" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
-            <div class="col-md-12 gallery-img hover-border">
-               <a href="http://lahuella.org.uy/assets/UAFlogo.png" title="your caption here">
-               <img src="http://lahuella.org.uy/assets/UAFlogo.png" class="img-fluid rounded" alt="">
+            <div class="col-md-12 gallery-img hover-border" style="width:250px;">
+               <a href="img/alianzas/logo-feyalegria.png" title="Fe y Alegría">
+               <img src="img/alianzas/logo-feyalegria.png" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
-            <div class="col-md-12 gallery-img hover-border">
-               <a href="https://pbs.twimg.com/profile_images/944216900845924352/2qAZPAOf_400x400.jpg" title="your caption here">
-               <img src="https://pbs.twimg.com/profile_images/944216900845924352/2qAZPAOf_400x400.jpg" class="img-fluid rounded" alt="">
-               </a>
-            </div>
-            <!-- /col-md-12 -->
-            <div class="col-md-12 gallery-img hover-border">
-               <a href="https://www.audec.edu.uy/Images/Logo.png?n=c" title="your caption here">
-               <img src="https://www.audec.edu.uy/Images/Logo.png?n=c" class="img-fluid rounded" alt="">
-               </a>
-            </div>
-            <!-- /col-md-12 -->
-            <div class="col-md-12 gallery-img hover-border">
-               <a href="http://lahuella.org.uy/assets/UAFlogo.png" title="your caption here">
-               <img src="http://lahuella.org.uy/assets/UAFlogo.png" class="img-fluid rounded" alt="">
+            <div class="col-md-12 gallery-img hover-border" style="width:250px;">
+               <a href="img/alianzas/logo-reachingu.png" title="ReachingU">
+               <img src="img/alianzas/logo-reachingu.png" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->
