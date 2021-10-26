@@ -71,7 +71,6 @@ jQuery(function($) {
 					var output = '<br><div class="success">' + response.text + '</div>';
 					//reset values in all input fields
 					$("#contact_form input, #contact_form textarea").val('');
-
 				}
 				$('html, body').animate({scrollTop: $("#contact_form").offset().top-50}, 2000);
 

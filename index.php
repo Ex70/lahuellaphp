@@ -452,6 +452,7 @@
             <h5 class="text-center mt-3">Envíá un mensaje</h5>
             <!-- Form Starts -->
             <div id="contact_form">
+            <form action="includes/contacto.php" method="post"  enctype="multipart/form-data" name="formulario">
                <div class="form-group">
                   <div class="row">
                      <div class="col-md-12">
@@ -477,6 +478,7 @@
                <!-- /form-group-->
                <!-- Contact results -->
                <div id="contact_results"></div>
+            </form>
             </div>
             <!-- /contact-form-->
          </div>
