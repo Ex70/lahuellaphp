@@ -16,9 +16,10 @@
                     <img src="img/logo_5.png"  class="logo-footer img-fluid" alt=""/>
                     <h5 class="mt-3">Suscribete a nuestro boletín de noticias </h5>
                     <!-- Mailist Form -->
+
                     <div id="mc_embed_signup">
                         <!-- your mailist address in the line bellow -->
-                        <form action="http://listname.list-manage.com/subscribe/post?u=04e646927a196552aaee78a7b&amp;id=0dae358e08" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <form action="https://gmail.us5.list-manage.com/subscribe/post?u=4d73ed4688ccb236b497ff0c8&amp;id=da744d303d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                             <div id="mc_embed_signup_scroll">
                                 <div class="mc-field-group">
                                     <div class="input-group">
@@ -112,6 +113,9 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7ZJPV8"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
 
 
 <!-- number counter script -->
