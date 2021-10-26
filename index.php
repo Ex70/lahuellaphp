@@ -167,7 +167,7 @@
                <!-- service icon -->
                <div class="service-icon">
                   <a href="actividades.php">
-                  <img src="img/services/service1.webp" alt="" class="blob img-fluid">
+                  <img src="img/servicio1.jpg" alt="" class="blob img-fluid">
                   </a>
                </div>
                <!-- service content -->

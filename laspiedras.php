@@ -1,5 +1,5 @@
 <?php
-   $Titulo = "Personería Jurídica";
+   $Titulo = "Las piedras";
    $path = "";
    include 'plantillas/header.php';
    include 'plantillas/menu.php';

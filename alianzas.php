@@ -14,8 +14,8 @@
         <!-- Breadcrumbs -->
         <nav aria-label="breadcrumb">
            <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
-              <li class="breadcrumb-item"><a href="index.html">Colaborar</a></li>
+              <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+              <li class="breadcrumb-item"><a href="index.php">Colaborar</a></li>
               <li class="breadcrumb-item active" aria-current="page">Alianzas</li>
            </ol>
         </nav>

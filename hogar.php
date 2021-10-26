@@ -36,7 +36,7 @@
                <h2>Hogar La Huella</h2>
                <!-- Image -->
                <p class="h7"></p>
-               <p>El Hogar La Huella es un centro educativo que alberga a 22 niñas/os y adolescentes. Luego un educador los acompaña a su lugar de estudio; concurren a distintas instituciones de la zona (Escuelas, Liceos, UTU, CECAP, Aulas comunitarias, PAGRO).  <br>
+               <p style="text-align: justify">El Hogar La Huella es un centro educativo que alberga a 22 niñas/os y adolescentes. Luego un educador los acompaña a su lugar de estudio; concurren a distintas instituciones de la zona (Escuelas, Liceos, UTU, CECAP, Aulas comunitarias, PAGRO).  <br>
                Mientras tanto, en la casa comienzan a levantarse los que estudian por la tarde, luego del desayuno realizan algunas tareas de la casa acompañados por un educador y con la finalidad de que cada uno vaya adquiriendo hábitos, siempre teniendo en cuenta su edad. Mas tarde se realizan los deberes, y a jugar… Durante la semana el almuerzo se realiza en dos turnos por los diferentes horarios.<br><br> 
                El equipo de trabajo está compuesto por educadores, cocinera, auxiliar de servicio, trabajadora social, psicóloga, y coordinador operativo. Además de los que se comparten con todos los restantes proyectos de La Huella, coordinador general, administrativo, auxiliar de mantenimiento y sereno, huerta, catequesis, scout, clubes de niños. Nuestro gran objetivo como equipo es, contribuir a la construcción de personas autónomas, críticas y solidarias que puedan promoverse y desarrollarse plenamente en una sociedad de cambios vertiginosos. Todo ello en el marco de los derechos del niño/a y adolescentes y derechos humanos
                </p>
@@ -54,16 +54,16 @@
                   <div class="col-md-7">
                      <h4>Actividades Divertidas</h4>
                      <!-- Image -->
-                     <p>Un día a la semana hay un espacio de asamblea donde se plantean temas importantes que refieren a la convivencia y a las expectativas que tienen en la vida desde diferentes áreas. Luego ven alguna película, juegan un rato con la computadora, cenan todos juntos y a la cama. Muchos concurren a diferentes actividades dentro y fuera de La Huella, viendo los intereses y necesidades de cada uno y acotado por los recursos. Plástica, natación, fútbol, voleibol, basquetbol, hándbol, ballet, pintura, texturado.<br><br>
+                     <p style="text-align: justify">Un día a la semana hay un espacio de asamblea donde se plantean temas importantes que refieren a la convivencia y a las expectativas que tienen en la vida desde diferentes áreas. Luego ven alguna película, juegan un rato con la computadora, cenan todos juntos y a la cama. Muchos concurren a diferentes actividades dentro y fuera de La Huella, viendo los intereses y necesidades de cada uno y acotado por los recursos. Plástica, natación, fútbol, voleibol, basquetbol, hándbol, ballet, pintura, texturado.<br><br>
                      </p>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p>Nuestro trabajo es educar, contener, orientar y acompañar a cada uno de estos niños/as y adolescentes interviniendo para que se cumplan sus derechos individuales tratando de brindarles herramientas que les sean útiles durante el desarrollo de su vida
+                     <p style="text-align: justify">Nuestro trabajo es educar, contener, orientar y acompañar a cada uno de estos niños/as y adolescentes interviniendo para que se cumplan sus derechos individuales tratando de brindarles herramientas que les sean útiles durante el desarrollo de su vida
                      </p>
-                     <a href="contact.html" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
+                     <a href="contacto.php" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">

@@ -67,7 +67,7 @@
                      <p>Por último, el tercer eje tiene que ver con el apostolado, siendo vecinos del hogar, pasando mucho de nuestro tiempo con los chiquilines, disfrutando y creciendo juntos. Tuvimos la oportunidad de jugar, hacer deberes, estudiar, acompañar al médico, disfrutar de las fiestas finales y otros eventos, en definitiva fue compartir nuestras vidas cotidianas y acompañarnos desde ahí.
 
                      </p>
-                     <a href="contact.html" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
+                     <a href="contacto.php" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">

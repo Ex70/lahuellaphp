@@ -44,7 +44,7 @@
                                     <h4>Juan Berenguer</h4>
                                  </a>
                                  <h6>Presidente</h6>
-                                 <p>
+                                 <p style="text-align: justify">
                                  Contador público, con posgrado en economía y gestión para la inclusión. Amplia experiencia en organizaciones de la sociedad civil con énfasis en infancia, inclusión social, empleo y desarrollo. Desarrollo profesional independiente.
                                  </p>
                               </div>
@@ -67,7 +67,7 @@
                                     <h4>Felipe Cordovés</h4>
                                  </a>
                                  <h6>Secretario</h6>
-                                 <p>
+                                 <p style="text-align: justify">
                                     Incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosa    
                                  </p>
                            </div>

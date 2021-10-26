@@ -10,12 +10,13 @@
    <div class="container" >
       <!-- jumbo-heading -->
       <div class="jumbo-heading" data-aos="fade-down">
-         <h1>Colaborar</h1>
+         <h1>Apoyo en Especie</h1>
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Colaborar</li>
+               <li class="breadcrumb-item"><a href="index.php">Colaborar</a></li>
+               <li class="breadcrumb-item active" aria-current="page">Apoyo en Especie</li>
             </ol>
          </nav>
          <!-- /breadcrumb -->

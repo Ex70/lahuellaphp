@@ -36,7 +36,7 @@
                <h2>CAIF Los Periquitos</h2>
                <!-- Image -->
                <p class="h7"></p>
-               <p>Funciona desde 2004, atendiendo población de las zonas de Pueblo Nuevo, Villa Ilusión, Herten y Corfrisa. En la actualidad se atiende a 85 niñ@s y sus familias con el objetivo de acompañar su desarrollo integral. Con el fin de asegurar este objetivo se despliegan dos programas:<br>
+               <p style="text-align: justify">Funciona desde 2004, atendiendo población de las zonas de Pueblo Nuevo, Villa Ilusión, Herten y Corfrisa. En la actualidad se atiende a 85 niñ@s y sus familias con el objetivo de acompañar su desarrollo integral. Con el fin de asegurar este objetivo se despliegan dos programas:<br>
                </p>
                <!-- row -->
                <div class="row">
@@ -50,9 +50,9 @@
                   </div>
                   <!-- /col-md -->
                   <div class="col-md-7">
-                     <h4>Primer programa</h4>
+                     <h4><b>Primer Programa</b></h4>
                      <!-- Image -->
-                     <p>Educación inicial:<br>
+                     <p style="text-align: justify">Educación inicial:<br>
                Atiende a nin@ de 2 y 3 años, en modalidad diaria de dos turnos: matutino (9 a 13 horas) y vespertino (13 a 17 horas), organizado en cuatro grupos:<br><br>
 
                nivel 2 años matutino<br>
@@ -65,10 +65,9 @@
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-7">
-                     <h4>Segundo Programa</h4>
+                     <h4><b>Segundo Programa</b></h4>
                      <!-- Image -->
                      <p>Experiencias oportunas:<br>
-                           Experiencias oportunas<br>
                            Atiende a niñ@s de 0 a 24 meses y referentes familiares, en modalidad de talleres semanales con tres horas de duración organizado en tres grupos:<br><br>
 
                            E.O “chicos” 0 a 12 meses, los jueves a la tarde.<br>
@@ -77,7 +76,7 @@
                            Los talleres son coordinados por psicomotricista y educadoras.<br><br>
 
                      </p>
-                     <a href="contact.html" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
+                     <a href="contacto.php" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">

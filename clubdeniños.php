@@ -36,7 +36,7 @@
                <h2>Club De Niños y Niñas Huellita</h2>
                <!-- Image -->
                <p class="h7"></p>
-               <p>El Club de Niños y Niñas La Huellita es un proyecto en convenio con INAU que funciona con modalidad de tiempo parcial, de lunes a viernes, durante el horario de la mañana. Es un espacio educativo para niños y niñas en edad escolar que, como experiencia asociativa y formativa, promueve el aprendizaje cooperativo a través de diversos talleres.<br>
+               <p style="text-align: justify">El Club de Niños y Niñas La Huellita es un proyecto en convenio con INAU que funciona con modalidad de tiempo parcial, de lunes a viernes, durante el horario de la mañana. Es un espacio educativo para niños y niñas en edad escolar que, como experiencia asociativa y formativa, promueve el aprendizaje cooperativo a través de diversos talleres.<br>
                Cuando los niños llegan, a las 8 de la mañana, se realizan múltiples actividades: los que tienen deberes escolares, cuentan con un espacio para realizar las tareas con el apoyo de la maestra y un educador; otros juegan en el patio o con juegos de mesa en el comedor, además de colaborar en la preparación del desayuno.<br><br>
                <br> Todos los talleres tienen frecuencia semanal: atención pedagógica, huerta orgánica, taller de artes plásticas, deporte y recreación, expresión musical, género y sexualidad, espacio de formación grupal. A las 12, cada quien para su casa, a prepararse para la escuela.   
                </p>
@@ -54,16 +54,16 @@
                   <div class="col-md-7">
                      <h4>Actividades Divertidas</h4>
                      <!-- Image -->
-                     <p>Se desarrollan diversas actividades extraordinarias, como por ejemplo: el plan de verano, actividades recreativas en los barrios, el Periniño, la participación en las Fiestas Mayas y en la Expo Educa, el Guisito Amigo, reuniones y talleres con familias, etc. También se realizan paseos, salidas didácticas y campamentos, y en verano, los niños concurren a la piscina de la Plaza de Deportes de Las Piedras.
+                     <p style="text-align: justify">Se desarrollan diversas actividades extraordinarias, como por ejemplo: el plan de verano, actividades recreativas en los barrios, el Periniño, la participación en las Fiestas Mayas y en la Expo Educa, el Guisito Amigo, reuniones y talleres con familias, etc. También se realizan paseos, salidas didácticas y campamentos, y en verano, los niños concurren a la piscina de la Plaza de Deportes de Las Piedras.
                      </p>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p>A las 9 comienzan las actividades grupales, divididos en “Chicos”, “Medianos” y “Grandes”, con un nutritivo desayuno. Luego de cepillarse los dientes y lavar las tazas, cada grupo tiene dos talleres diarios, espaciados por un recreo de 30 minutos.
+                     <p style="text-align: justify">A las 9 comienzan las actividades grupales, divididos en “Chicos”, “Medianos” y “Grandes”, con un nutritivo desayuno. Luego de cepillarse los dientes y lavar las tazas, cada grupo tiene dos talleres diarios, espaciados por un recreo de 30 minutos.
                      </p>
-                     <a href="contact.html" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
+                     <a href="contacto.php" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">

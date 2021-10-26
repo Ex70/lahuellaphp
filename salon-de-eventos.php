@@ -14,7 +14,7 @@
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="#">Galería</a></li>
+               <li class="breadcrumb-item"><a href="saloneventos.php">Galería</a></li>
                <li class="breadcrumb-item active" aria-current="page">Salón de Eventos</li>
             </ol>
          </nav>
