@@ -38,9 +38,17 @@
    <!-- centered Gallery navigation -->
    <!-- /ul -->
    <!-- Gallery -->
+   <ul class="nav nav-pills category-isotope center-nav">
+      <li class="nav-item">
+         <a class="nav-link active" href="#" data-toggle="tab" data-filter=".interior">Interior</a>
+      </li>
+      <li class="nav-item">
+         <a class="nav-link active" href="#" data-toggle="tab" data-filter=".exterior">Exterior</a>
+      </li>
+   </ul>  
    <div id="gallery-isotope" class="row mt-5 magnific-popup">
       <!-- Image 1 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 activities">
+      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion01.jpg" alt="">
@@ -51,7 +59,7 @@
          </div>
       </div>
       <!-- Image 2 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 school">
+      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion02.jpg" alt="">
@@ -62,7 +70,7 @@
          </div>
       </div>
       <!-- Image 3 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 school">
+      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion03.jpg" alt="">
@@ -73,7 +81,7 @@
          </div>
       </div>
       <!-- Image 4 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 activities">
+      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion04.jpg" alt="">
@@ -84,7 +92,7 @@
          </div>
       </div>
       <!-- Image 5 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 school">
+      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion05.jpg" alt="">
@@ -95,7 +103,7 @@
          </div>
       </div>
       <!-- Image 6 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 school">
+      <div class="col-sm-6 col-md-6 col-lg-4 interior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion06.jpg" alt="">
@@ -106,7 +114,7 @@
          </div>
       </div>
       <!-- Image 7 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 activities">
+      <div class="col-sm-6 col-md-6 col-lg-4 interior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion07.jpg" alt="">
@@ -117,7 +125,7 @@
          </div>
       </div>
       <!-- Image 8 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 activities">
+      <div class="col-sm-6 col-md-6 col-lg-4 interior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion08.jpg" alt="">
@@ -128,7 +136,7 @@
          </div>
       </div>
       <!-- Image 9 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 school">
+      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion09.jpg" alt="">
@@ -139,7 +147,7 @@
          </div>
       </div>
       <!-- Image 10 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 school">
+      <div class="col-sm-6 col-md-6 col-lg-4 interior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion10.jpg" alt="">
@@ -150,7 +158,7 @@
          </div>
       </div>
       <!-- Image 11 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 school">
+      <div class="col-sm-6 col-md-6 col-lg-4 interior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion11.jpg" alt="">
@@ -161,7 +169,7 @@
          </div>
       </div>
       <!-- Image 12 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 school">
+      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
                <img class="img-fluid " src="img/gallery/instalaciones/instalacion12.jpg" alt="">

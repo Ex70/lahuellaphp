@@ -43,9 +43,9 @@
                <div class="row">
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
-                        <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/juan1.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/juan2.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/juan3.jpg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>
@@ -53,7 +53,7 @@
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p>El día típico para nuestra actividad comienza con la recorrida por el barrio a buscar a los chiquilines, en la recorrida no solo los pasamos a buscar sino que también es una instancia en la que podemos tomar contacto con las familias y el contexto de cada uno y a la vuelta hay un tiempo "libre" donde no hay dinámicas organizadas, se genera un lindo clima con música, pelotas, cuerdas, zancos y otros juegos por los que los chicos van pasando. Luego hacemos unas "buenas tardes" con danzas y algún sketch que sirva para presentar el tema del día, después de lo que nos separamos por edades 5-6 7-8 9-10 11-12 y centro juvenil. Este es el momento central de nuestras tardes, los animadores preparan distintas actividades lúdicas, de reflexión y de catequesis para trabajar con cada división. Se termina siempre tomando la leche por grupos y se vuelve al barrio a acompañar a los gurises a sus casas.El grupo de jóvenes que lleva adelante las tardes son alumnos del Instituto Juan XXIII que participan de la actividad asociativa "Juventud Misionera Salesiana". Es un grupo que se reúne semanalmente a compartir la fe, la vida y las ganas de comprometerse con un servicio concreto. Del grupo participan unos 90 jóvenes, que se van turnando de manera que cada sábado venga la mitad del grupo, por lo que cada uno va a la huella cada 15 días y seamos aproximadamente 40 todos los sábados llevando adelante la actividad. Somos 5 los adultos responsables que los acompañamos entre semana y los sábados en la Huella.<br>
+                     <p style="text-align: justify">El día típico para nuestra actividad comienza con la recorrida por el barrio a buscar a los chiquilines, en la recorrida no solo los pasamos a buscar sino que también es una instancia en la que podemos tomar contacto con las familias y el contexto de cada uno y a la vuelta hay un tiempo "libre" donde no hay dinámicas organizadas, se genera un lindo clima con música, pelotas, cuerdas, zancos y otros juegos por los que los chicos van pasando. Luego hacemos unas "buenas tardes" con danzas y algún sketch que sirva para presentar el tema del día, después de lo que nos separamos por edades 5-6 7-8 9-10 11-12 y centro juvenil. Este es el momento central de nuestras tardes, los animadores preparan distintas actividades lúdicas, de reflexión y de catequesis para trabajar con cada división. Se termina siempre tomando la leche por grupos y se vuelve al barrio a acompañar a los gurises a sus casas.El grupo de jóvenes que lleva adelante las tardes son alumnos del Instituto Juan XXIII que participan de la actividad asociativa "Juventud Misionera Salesiana". Es un grupo que se reúne semanalmente a compartir la fe, la vida y las ganas de comprometerse con un servicio concreto. Del grupo participan unos 90 jóvenes, que se van turnando de manera que cada sábado venga la mitad del grupo, por lo que cada uno va a la huella cada 15 días y seamos aproximadamente 40 todos los sábados llevando adelante la actividad. Somos 5 los adultos responsables que los acompañamos entre semana y los sábados en la Huella.<br>
                       <br><br> 
                      </p>
                      <!-- Button -->	 
@@ -61,17 +61,17 @@
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p>Nuestra propuesta está abierta a todos los chicos del barrio que quieran participar, las únicas limitaciones son la edad (entre 5 y 16 años) y la distancia que alcanzan las recorridas que hacemos, aunque son varios los que se arriman desde más lejos aunque no los pasemos a buscar. Muchos de los niños participan en alguna otra actividad de la Huella, incluso chicos del hogar, pero son un montón los que toman contacto con la Huella a través nuestro. Cada sábado se suman entre 90 y 110 gurises a la actividad.. Casi todos los sábados repetimos el mismo esquema de funcionamiento, cada tarde que va pasando a lo largo del año los vínculos que se generan con los chicos y sus familias van mejorando el funcionamiento de la actividad.
+                     <p style="text-align: justify">Nuestra propuesta está abierta a todos los chicos del barrio que quieran participar, las únicas limitaciones son la edad (entre 5 y 16 años) y la distancia que alcanzan las recorridas que hacemos, aunque son varios los que se arriman desde más lejos aunque no los pasemos a buscar. Muchos de los niños participan en alguna otra actividad de la Huella, incluso chicos del hogar, pero son un montón los que toman contacto con la Huella a través nuestro. Cada sábado se suman entre 90 y 110 gurises a la actividad.. Casi todos los sábados repetimos el mismo esquema de funcionamiento, cada tarde que va pasando a lo largo del año los vínculos que se generan con los chicos y sus familias van mejorando el funcionamiento de la actividad.
                      Hacemos fiestas solamente en agosto donde celebramos en simultáneo día del niño y fiesta de Don Bosco, y a fin de año donde hacemos una quermese donde se invita a participar a las familias de los niños.<br><br>
                      </p>
-                     <a href="contact.html" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
+                     <a href="contacto.php" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
-                        <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/juan4.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/juan5.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/juan6.jpg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>

@@ -36,7 +36,7 @@
                <h2>La Storta</h2>
                <!-- Image -->
                <p class="h7"></p>
-               <p style="text-align: justify">En setiembre comenzó en La Huella, en una de las casas, una experiencia de vida comunitaria.<br><br>
+               <p style="text-align: justify">En setiembre de 2014 comenzó en La Huella, en una de las casas, una experiencia de vida comunitaria.<br><br>
                 La propuesta tiene como origen dos grandes fuerzas. Por un lado, pretende tomar una experiencia comunitaria chilena “La Storta”, donde jóvenes viven una experiencia de comunidad, espiritualidad y apostolado intensa. Por otro lado no resulta casual que el lugar para dicha experiencia sea La Huella, que tiene origen en la experiencia comunitaria y vivencia del Evangelio. Todo esto constituye parte de un legado que nos llama de manera especial a comprometernos.<br>
 
                 Somos 6 jóvenes de 22 a 24 años oriundos de Montevideo, que compartimos nuestras actividades de estudio, trabajo y voluntariados en los colegios Seminario e Isasa (de donde somos ex alumnos).<br><br>
