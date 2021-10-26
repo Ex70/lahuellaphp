@@ -10,7 +10,7 @@
       <div class="jumbo-heading" data-aos="fade-down">
          <h1>La Huella Cumple 45 Años</h1>
          <!-- Breadcrumbs -->
-         <nav aria-label="breadcrumb">
+         <nav aria-label="breadcrumb"> 
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
                <li class="breadcrumb-item"><a href="blog.html">Post de Inicio</a></li>

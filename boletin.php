@@ -26,7 +26,7 @@
 <!-- /jumbotron -->
 <!-- ==== Page Content ==== -->
 <div class="page container">
-    <p class="element-heading col-lg-12">Les presentamos el Boletín Institucional de La Huella que hemos armado junto a todos los integrantes de los proyectos que aquí funcionan.
+<p style="text-align: justify" class="element-heading col-lg-12">Les presentamos el Boletín Institucional de La Huella que hemos armado junto a todos los integrantes de los proyectos que aquí funcionan.
 La idea del Boletín surge con la intención de fomentar la comunicación, hacer propios los distintos proyectos de La Huella, compartir sueños, motivaciones y expectativas y también surge con la finalidad de compartir las novedades con todos aquellos que no forman parte del día a día.</p>
     <div class="row">
         <br>

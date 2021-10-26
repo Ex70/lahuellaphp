@@ -33,10 +33,10 @@
          <div class="row">
             <div class="col-lg-7 justify-content-center align-self-center">
                <h3><span class="text-secondary">Apoyo en Especie</span></h3>
-               <p>
+               <p style="text-align: justify">
                   Quisque at odio nunc. Etiam ac nibh egestas, accumsan felis id, fermentum purus. Quisque vitae hendrerit elit. Maecenas ipsum mi, iaculis quis mattis cursus, auctor ac magna. Integer felis metus, aliquet in dignissim ut, varius et odio. Donec malesuada diam quis dignissim suscipit. Praesent purus turpis, tristique hendrerit
                </p>
-               <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et ma</p>
+               <p style="text-align: justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et ma</p>
                <!-- Button -->	 
                <a href="contacto.php" class="btn btn-quaternary mt-2">Contácte con nosotros</a>
             </div>

@@ -10,12 +10,13 @@
    <div class="container" >
       <!-- jumbo-heading -->
       <div class="jumbo-heading" data-aos="fade-down">
-         <h1>Colaborar</h1>
+         <h1>Apoyo en Servicios</h1>
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Colaborar</li>
+            <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+               <li class="breadcrumb-item"><a href="index.php">Colaborar</a></li>
+               <li class="breadcrumb-item active" aria-current="page">Apoyo en Servicios</li>
             </ol>
          </nav>
          <!-- /breadcrumb -->
@@ -36,10 +37,10 @@
             </div>
             <div class="col-lg-7 justify-content-center align-self-center">
                <h3><span class="text-secondary">Apoyo En Servicios</span></h3>
-               <p>
+               <p style="text-align: justify">
                   Quisque at odio nunc. Etiam ac nibh egestas, accumsan felis id, fermentum purus. Quisque vitae hendrerit elit. Maecenas ipsum mi, iaculis quis mattis cursus, auctor ac magna. Integer felis metus, aliquet in dignissim ut, varius et odio. Donec malesuada diam quis dignissim suscipit. Praesent purus turpis, tristique hendrerit
                </p>
-               <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et ma</p>
+               <p style="text-align: justify">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et ma</p>
                <!-- Button -->    
                <a href="contacto.php" class="btn btn-quaternary mt-2">Contácte con nosotros</a>
             </div>

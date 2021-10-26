@@ -35,28 +35,26 @@
                   <!-- blog-box -->
                   <div class="blog-box">
                      <!-- image -->
-                     <a href="blog-single.html">
-                        <div class="image"><img src="img/blog/blogstyle2-main.jpg" alt=""/></div>
+                     <a href="lahuella45.php">
+                        <div class="image"><img src="img/blog/blogstyle2-1.webp" alt=""/></div>
                      </a>
                      <!-- blog-box-caption -->
                      <div class="blog-box-caption">
                         <!-- date -->
                         <div class="date"><span class="day">22</span><span class="month">Dec</span></div>
-                        <a href="blog-single.html">
-                           <h4>Day Care 101: How to Choose the best Facilities</h4>
+                        <a href="lahuella45.php">
+                           <h4>La Huella cumple 45 Años</h4>
                         </a>
                         <!-- /link -->
                         <p>
-                           Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
+                        La Huella es un lugar de enseñanza una organizacion en la que trabajar comunitariamente en una prestacion de servicios y entrega con gratuidad total hacia los vulnerados donde se nos manifiesta Jesús...
                         </p>
                      </div>
                      <!-- blog-box-footer -->
                      <div class="blog-box-footer">
-                        <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Lauren Smith</a></div>
-                        <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>23</a></div>
                         <!-- Button -->	 
                         <div class="text-center col-md-12">
-                           <a href="blog-single.html" class="btn btn-primary ">Leer Más</a>
+                           <a href="lahuella45.php" class="btn btn-primary ">Leer Más</a>
                         </div>
                      </div>
                      <!-- /blog-box-footer -->
@@ -68,28 +66,26 @@
                   <!-- blog-box -->
                   <div class="blog-box">
                      <!-- image -->
-                     <a href="blog-single.html">
-                        <div class="image"><img src="img/blog/blogstyle2-1.jpg" alt=""/></div>
+                     <a href="videoinstitucional.php">
+                        <div class="image"><img src="img/blog/blogstyle2-3-3.png" alt=""/></div>
                      </a>
                      <!-- blog-box-caption -->
                      <div class="blog-box-caption">
                         <!-- date -->
                         <div class="date"><span class="day">22</span><span class="month">Dec</span></div>
-                        <a href="blog-single.html">
-                           <h4>Helping Your Child with Socialization</h4>
+                        <a href="videoinstitucional.php">
+                           <h4>Nuestro Video Institucional</h4>
                         </a>
                         <!-- /link -->
                         <p>
-                           Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
+                        Los desafíos de la huella fue adecuarse de forma continua a la nuevas situaciones. la huella surge de una vertiente de la profesión fe cristiana con valores cristianos abiertos a todos.
                         </p>
                      </div>
                      <!-- blog-box-footer -->
                      <div class="blog-box-footer">
-                        <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Lauren Smith</a></div>
-                        <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>23</a></div>
                         <!-- Button -->	 
                         <div class="text-center col-md-12">
-                           <a href="blog-single.html" class="btn btn-primary ">Leer Más</a>
+                           <a href="videoinstitucional.php" class="btn btn-primary ">Leer Más</a>
                         </div>
                      </div>
                      <!-- /blog-box-footer -->
@@ -101,28 +97,26 @@
                   <!-- blog-box -->
                   <div class="blog-box">
                      <!-- image -->
-                     <a href="blog-single.html">
-                        <div class="image"><img src="img/blog/blogstyle2-2.jpg" alt=""/></div>
+                     <a href="librohistoria.php">
+                        <div class="image"><img src="img/blog/blogstyle2-3.png" alt=""/></div>
                      </a>
                      <!-- blog-box-caption -->
                      <div class="blog-box-caption">
                         <!-- date -->
                         <div class="date"><span class="day">28</span><span class="month">nov</span></div>
-                        <a href="blog-single.html">
-                           <h4>Our Healthy meals that toddlers love</h4>
+                        <a href="librohistoria.php">
+                           <h4>El Libro Con Nuestra Historia</h4>
                         </a>
                         <!-- /link -->
                         <p>
-                           Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
+                        Nuestra historia, que transcurre en una chacra suburbana, con niños y niñas y gente viviendo en comunidad, ordeñando vacas y criando chanchos, parece de un mundo de ficción en un pasado remoto.
                         </p>
                      </div>
                      <!-- blog-box-footer -->
                      <div class="blog-box-footer">
-                        <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Jonas Doe</a></div>
-                        <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>5</a></div>
                         <!-- Button -->	 
                         <div class="text-center col-md-12">
-                           <a href="blog-single.html" class="btn btn-primary ">Leer Más</a>
+                           <a href="librohistoria.php" class="btn btn-primary ">Leer Más</a>
                         </div>
                      </div>
                      <!-- /blog-box-footer -->
@@ -151,8 +145,6 @@
                      </div>
                      <!-- blog-box-footer -->
                      <div class="blog-box-footer">
-                        <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Lauren Smith</a></div>
-                        <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>10</a></div>
                         <!-- Button -->	 
                         <div class="text-center col-md-12">
                            <a href="blog-single.html" class="btn btn-primary ">Leer Más</a>
@@ -184,8 +176,6 @@
                      </div>
                      <!-- blog-box-footer -->
                      <div class="blog-box-footer">
-                        <div class="author">Posted by<a href="#"><i class="fas fa-user"></i>Jonas Doe</a></div>
-                        <div class="comments"><a href="blog-single.html"><i class="fas fa-comment"></i>11</a></div>
                         <!-- Button -->	 
                         <div class="text-center col-md-12">
                            <a href="blog-single.html" class="btn btn-primary ">Leer Más</a>
@@ -200,14 +190,6 @@
             <!-- /row -->
             <div class="col-md-12 mt-5">
                <!-- pagination -->
-               <nav aria-label="pagination">
-                  <ul class="pagination">
-                     <li class="page-item"><a class="page-link active" href="#">1</a></li>
-                     <li class="page-item"><a class="page-link" href="#">2</a></li>
-                     <li class="page-item"><a class="page-link" href="#">3</a></li>
-                     <li class="page-item"><a class="page-link" href="#">Next</a></li>
-                  </ul>
-               </nav>
                <!-- /nav -->
             </div>
             <!-- /col-md -->
@@ -242,7 +224,7 @@
       <h5 class="sidebar-header" id="video1">Conócenos</h5>
       <!-- video -->
       <div class="embed-responsive embed-responsive-4by3">
-         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/a6m3ZQBY31E"></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/xdwLPTYMAIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
    </div>
    <!--/widget-area notepad -->
@@ -262,10 +244,10 @@
       <div class="contact-icon-info">
          <ul class="social-media text-center">
             <!--social icons -->
-            <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
-            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
+                        <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
+                        <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
          </ul>
       </div>
       <!--/contact-icon-info -->

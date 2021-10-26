@@ -13,7 +13,8 @@
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
+               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+               <li class="breadcrumb-item"><a href="galeria.php">Galeria</a></li>
                <li class="breadcrumb-item active" aria-current="page">Galeria</li>
             </ol>
          </nav>
@@ -29,7 +30,7 @@
    <div class="row">
       <div class="col-lg-6 text-center offset-lg-3 mb-5">
          <h2></h2>
-         <p>In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
+         <p style="text-align: justify">In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
       </div>
       <!-- /col-lg -->
    </div>

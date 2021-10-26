@@ -36,7 +36,7 @@
                <h2>La Storta</h2>
                <!-- Image -->
                <p class="h7"></p>
-               <p>En setiembre comenzó en La Huella, en una de las casas, una experiencia de vida comunitaria.<br><br>
+               <p style="text-align: justify">En setiembre comenzó en La Huella, en una de las casas, una experiencia de vida comunitaria.<br><br>
                 La propuesta tiene como origen dos grandes fuerzas. Por un lado, pretende tomar una experiencia comunitaria chilena “La Storta”, donde jóvenes viven una experiencia de comunidad, espiritualidad y apostolado intensa. Por otro lado no resulta casual que el lugar para dicha experiencia sea La Huella, que tiene origen en la experiencia comunitaria y vivencia del Evangelio. Todo esto constituye parte de un legado que nos llama de manera especial a comprometernos.<br>
 
                 Somos 6 jóvenes de 22 a 24 años oriundos de Montevideo, que compartimos nuestras actividades de estudio, trabajo y voluntariados en los colegios Seminario e Isasa (de donde somos ex alumnos).<br><br>
@@ -47,9 +47,9 @@
                <div class="row">
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
-                        <img src="img/services/Fotografia16.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia19.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/Fotografia17.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/Fotografia18.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia20.jpg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>
@@ -57,14 +57,14 @@
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p> El eje espiritual tiene que ver con vivir una experiencia de fe en el día a día, donde ahondamos en nuestro seguimiento de Jesús, teniendo reuniones semanales con una pauta que seguía el formato de los Ejercicios Espirituales de San Ignacio, sumado a pausas diarias para rezar el día.<br><br>
+                     <p style="text-align: justify"> El eje espiritual tiene que ver con vivir una experiencia de fe en el día a día, donde ahondamos en nuestro seguimiento de Jesús, teniendo reuniones semanales con una pauta que seguía el formato de los Ejercicios Espirituales de San Ignacio, sumado a pausas diarias para rezar el día.<br><br>
                      </p>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p>Por último, el tercer eje tiene que ver con el apostolado, siendo vecinos del hogar, pasando mucho de nuestro tiempo con los chiquilines, disfrutando y creciendo juntos. Tuvimos la oportunidad de jugar, hacer deberes, estudiar, acompañar al médico, disfrutar de las fiestas finales y otros eventos, en definitiva fue compartir nuestras vidas cotidianas y acompañarnos desde ahí.
+                     <p style="text-align: justify">Por último, el tercer eje tiene que ver con el apostolado, siendo vecinos del hogar, pasando mucho de nuestro tiempo con los chiquilines, disfrutando y creciendo juntos. Tuvimos la oportunidad de jugar, hacer deberes, estudiar, acompañar al médico, disfrutar de las fiestas finales y otros eventos, en definitiva fue compartir nuestras vidas cotidianas y acompañarnos desde ahí.
 
                      </p>
                      <a href="contacto.php" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
@@ -72,8 +72,8 @@
                   </div>
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme">
-                        <img src="img/services/Fotografia19.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/Fotografia20.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia18.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/Fotografia16.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/Fotografia21.jpg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
