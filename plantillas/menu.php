@@ -193,7 +193,7 @@
                   <div class="slide__text">
                      <h1 class="slide__text-heading">Salón de Fiestas y Eventos</h1>
                      <div class="hidden-small">
-                        <p class="lead"> </p>
+                        <p class="lead"> La Huella presta su salón para la realización de reuniones o fiestas.</p>
                         <a href="saloneventos.php" class="btn btn-quaternary" id="colorAmarillo">Informes</a>
                      </div>
                   </div>
