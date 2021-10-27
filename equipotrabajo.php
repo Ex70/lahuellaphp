@@ -47,7 +47,7 @@
                               <a href="team-single.html">
                                  <h5 class="title">Álvaro Vignola</h5>
                               </a>
-                              <p>Coordinador General</p>
+                              <p>Coordinador General proyecto casa Hogar la Huella</p>
                            </div>
                            <!-- /team-content -->
                         </div>
@@ -115,6 +115,47 @@
                            </div>
                            <!-- /team-content -->
                         </div>
+                        <div class="col-md-12 team-style1 notepad">
+                           <div class="team_img">
+                              <a href="team-single.html">
+                              <img src="img/Ariel_Sotelo.jpg" class="img-fluid" alt="">
+                              </a>
+                              <!-- social icons -->
+                              <ul class="social">
+                                 <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                              </ul>
+                           </div>
+                           <!-- /team_img -->
+                           <div class="team-content">
+                              <a href="team-single.html">
+                                 <h5 class="title">Fatima Hernandez</h5>
+                              </a>
+                              <p>Coordinadora CAIF los periquitos</p>
+                           </div>
+                           <!-- /team-content -->
+                        </div>
+                        <div class="col-md-12 team-style1 notepad">
+                           <div class="team_img">
+                              <a href="team-single.html">
+                              <img src="img/Ariel_Sotelo.jpg" class="img-fluid" alt="">
+                              </a>
+                              <!-- social icons -->
+                              <ul class="social">
+                                 <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                              </ul>
+                           </div>
+                           <!-- /team_img -->
+                           <div class="team-content">
+                              <a href="team-single.html">
+                                 <h5 class="title">Carlos Garcia</h5>
+                              </a>
+                              <p>Coordinador SOCAT</p>
+                           </div>
+                           <!-- /team-content -->
+                        </div>
+            
                         <!-- /team-style1 -->
                      </div>
                      <!-- /owl-team-->
@@ -122,6 +163,7 @@
                   <!-- /container-->
                   <!-- /bg-light-custom -->
                </div>
+               
             </div>
             <div id="sidebar" class="h-50 col-lg-3 sticky-top">
                <!--widget-area -->

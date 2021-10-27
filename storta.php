@@ -1,5 +1,5 @@
 <?php
-   $Titulo = "SOCAT";
+   $Titulo = "STORTA";
    $path = "";
    include 'plantillas/header.php';
    include 'plantillas/menu.php';

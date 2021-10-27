@@ -40,6 +40,9 @@
    <!-- Gallery -->
    <ul class="nav nav-pills category-isotope center-nav">
       <li class="nav-item">
+         <a class="nav-link active" href="#" data-toggle="tab" data-filter="*">Todas</a>
+      </li>
+      <li class="nav-item">
          <a class="nav-link active" href="#" data-toggle="tab" data-filter=".interior">Interior</a>
       </li>
       <li class="nav-item">
@@ -51,9 +54,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/instalaciones/instalacion01.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/instalaciones/instalacion09.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/instalaciones/instalacion01.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/instalaciones/instalacion09.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -139,9 +142,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/instalaciones/instalacion09.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/instalaciones/instalacion01.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/instalaciones/instalacion09.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/instalaciones/instalacion01.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>

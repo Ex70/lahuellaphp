@@ -34,13 +34,16 @@
             <!-- Post info-->
             <hr>
             <!-- Preview Image -->
-            <img src="img/blog/blog1.jpg" class="img-fluid" alt="">
+            <img src="img/gallery/institucion.jpg" class="img-fluid" alt="">
             <hr>
             <!-- Post Content -->
             <p class="lead"></p>
             <p>La Huella es un lugar de enseñanza una organizacion en la que trabajar comunitariamente en una prestacion de servicios y entrega con gratuidad total hacia los vulnerados donde se nos manifiesta Jesús </p>
-            <p>Desde hace 45 seguimos dejando huella.</p>
+            <p>Desde hace 45 años seguimos dejando huella.</p>
             <h5></h5>
+            <div class="row" style="display: flex; justify-content: center;">
+               <iframe  width="600" height="400" src="huella45.mp4" frameborder="0" allowfullscreen></iframe>
+            </div>
          </div>
          <!-- /page-with-sidebar -->
          <!-- Sidebar -->
@@ -71,8 +74,7 @@
    <div class="widget-area notepad">
       <h5 class="sidebar-header" id="video1">Conócenos</h5>
       <!-- video -->
-      <div class="embed-responsive embed-responsive-4by3">
-         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/a6m3ZQBY31E"></iframe>
+      <div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/xdwLPTYMAIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
    </div>
    <!--/widget-area notepad -->
@@ -92,10 +94,10 @@
       <div class="contact-icon-info">
          <ul class="social-media text-center">
             <!--social icons -->
-            <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
-            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
+                        <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
+                        <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
          </ul>
       </div>
       <!--/contact-icon-info -->

@@ -35,7 +35,7 @@
             <hr>
             <!-- Preview Image -->
             <div class="row" style="display: flex; justify-content: center;">
-            <img src="img/gallery/libro.jpg" class="img-fluid" alt="">
+            <img src="img/blog/blogstyle2-3.png" class="img-fluid" alt="">
             </div>
             <hr>
             <!-- Post Content -->

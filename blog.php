@@ -35,14 +35,14 @@
                   <!-- blog-box -->
                   <div class="blog-box">
                      <!-- image -->
-                     <a href="lahuella45.php">
+                     <a href="Lahuella45.php">
                         <div class="image"><img src="img/blog/blogstyle2-1.webp" alt=""/></div>
                      </a>
                      <!-- blog-box-caption -->
                      <div class="blog-box-caption">
                         <!-- date -->
                         <div class="date"><span class="day">22</span><span class="month">Dec</span></div>
-                        <a href="lahuella45.php">
+                        <a href="Lahuella45.php">
                            <h4>La Huella cumple 45 Años</h4>
                         </a>
                         <!-- /link -->
@@ -54,7 +54,7 @@
                      <div class="blog-box-footer">
                         <!-- Button -->	 
                         <div class="text-center col-md-12">
-                           <a href="lahuella45.php" class="btn btn-primary ">Leer Más</a>
+                           <a href="Lahuella45.php" class="btn btn-primary ">Leer Más</a>
                         </div>
                      </div>
                      <!-- /blog-box-footer -->

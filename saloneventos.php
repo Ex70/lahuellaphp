@@ -40,7 +40,7 @@
      <div class="row">
             <!-- /col-lg -->
             <div class="col-lg-5 res-margin">
-               <img src="img/services/Fotografia22.jpeg" alt="" class="moving-blob img-fluid">
+               <img src="img/services/service2.jpg" alt="" class="moving-blob img-fluid">
             </div>
             <div class="col-lg-7 justify-content-center align-self-center">
                <h3><span class="text-secondary">Salón de Eventos</span></h3>
@@ -49,7 +49,7 @@
                </p>
                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et ma</p>
                <!-- Button -->    
-               <a href="contacto.php" class="btn btn-quaternary mt-2">Contácte con nosotros</a>
+               <a href="salon-de-eventos.php" class="btn btn-quaternary mt-2">Contácte con nosotros</a>
             </div>
             <!-- /col-lg -->
          </div>

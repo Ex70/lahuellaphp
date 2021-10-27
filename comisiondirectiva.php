@@ -249,8 +249,7 @@
                                     <a href="team-single.html">
                                        <h5 class="mb-2">Alejandro García</h5>
                                     </a>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
-                                       tenetur.
+                                    <p>Presidente de directiva honoraria
                                     </p>
                                  </div>
                                  <!-- /mx-4 -->
@@ -275,8 +274,7 @@
                                     <a href="team-single.html">
                                        <h5 class="mb-2">Ignacio Sequeira</h5>
                                     </a>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
-                                       tenetur.
+                                    <p>Mienbro y fundador de la primera comunidad La Huella
                                     </p>
                                  </div>
                                  <!-- /mx-4 -->
