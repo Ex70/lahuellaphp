@@ -150,9 +150,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 infantil">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/salon/fotografia12.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/salon/Fotografia12.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/salon/fotografia12.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/salon/Fotografia12.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -160,9 +160,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 infantil">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/salon/fotografia14.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/salon/Fotografia14.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/salon/fotografia14.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/salon/Fotografia14.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -170,9 +170,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 infantil">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/salon/fotografia15.jpeg" alt="">
+               <img class="img-fluid " src="img/gallery/salon/Fotografia15.jpeg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/salon/fotografia15.jpeg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/salon/Fotografia15.jpeg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -180,9 +180,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 infantil">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/salon/fotografia24.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/salon/Fotografia24.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/salon/fotografia24.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/salon/Fotografia24.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -190,9 +190,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 infantil">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/salon/fotografia25.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/salon/Fotografia25.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/salon/fotografia25.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/salon/Fotografia25.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -200,9 +200,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 infantil">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/salon/fotografia27.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/salon/Fotografia27.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/salon/fotografia27.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/salon/Fotografia27.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -210,9 +210,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 infantil">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/salon/fotografia28.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/salon/Fotografia28.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/salon/fotografia28.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/salon/Fotografia28.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
