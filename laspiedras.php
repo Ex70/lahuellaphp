@@ -43,7 +43,7 @@
               <!-- /col-lg-->
               <div class="col-lg-6 ">
                  <!-- image -->
-                 <img class="img-fluid rounded" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MunCanLasPiedras.svg/1920px-MunCanLasPiedras.svg.png?1635347599417" alt="">
+                 <img class="img-fluid rounded" src="img/Canelones.jpg" alt="">
                  <!-- ornament starts-->
                  <div class="ornament aos-init aos-animate" data-aos="zoom-out"></div>
               </div>
