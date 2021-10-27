@@ -58,8 +58,8 @@
             </div>
             <!-- /col-md-12 -->
             <div class="col-md-12 gallery-img hover-border" style="width:250px;">
-               <a href="img/alianzas/logo-reachingu.png" title="ReachingU">
-               <img src="img/alianzas/logo-reachingu.png" class="img-fluid rounded" alt="">
+               <a href="img/alianzas/logo-fundacionreachingu.png" title="ReachingU">
+               <img src="img/alianzas/logo-fundacionreachingu.png" class="img-fluid rounded" alt="">
                </a>
             </div>
             <!-- /col-md-12 -->

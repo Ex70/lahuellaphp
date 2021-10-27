@@ -13,7 +13,7 @@
    <div class="container">
       <!-- section heading -->  
       <div class="section-heading text-center" data-aos="fade-down">
-         <h2>Servicios Principales</h2>
+         <h2>Programas Principales</h2>
          <p class="subtitle">Conócenos</p>
       </div>
       </div>
@@ -31,7 +31,7 @@
                    Es un centro educativo que alberga a 22 niñas/os y adolescentes. Luego un educador los acompaña a su lugar de estudio; concurren a distintas instituciones de la zona (Escuelas, Liceos, UTU, CECAP, Aulas comunitarias, PAGRO).
                   </p>
                   <!-- button show on mobile only,where flip is disabled -->
-                  <a href="hogar.php" class="btn d-lg-none">contacte con nosotros</a>
+                  <a href="hogar.php" class="btn d-lg-none">Leer Más</a>
                </div>
                <!-- /p-5 -->
                <!-- image -->
@@ -48,7 +48,7 @@
                         no había libertad de reunión ni de expresión.
                      </p>
                      <!-- button -->
-                     <a href="hogar.php" class="btn">contacte con nosotros</a>
+                     <a href="hogar.php" class="btn">Leer Más</a>
                   </div>
                   <!-- /p-4 -->
                </div>
@@ -70,7 +70,7 @@
                    Es un proyecto en convenio con INAU que funciona con modalidad de tiempo parcial de<br> lunes a viernes<br> durante el horario de la mañana.<BR><BR><BR><BR>
                   </p>
                   <!-- button show on mobile only,where flip is disabled -->
-                  <a href="clubdeniños.php" class="btn d-lg-none">Nuestros Servicios</a>
+                  <a href="clubdeniños.php" class="btn d-lg-none">Leer Más</a>
                </div>
                <!-- /p-5 -->
                <!-- image -->
@@ -85,7 +85,7 @@
                      <p class="card-text">Es un espacio educativo para niños y niñas en edad escolar que, como experiencia asociativa y formativa, promueve el aprendizaje cooperativo a través de diversos talleres.
                      </p>
                      <!-- button -->
-                     <a href="clubdeniños.php" class="btn">Nuestros Servicios</a>
+                     <a href="clubdeniños.php" class="btn">Leer Más</a>
                   </div>
                   <!-- /p-4 -->
                </div>
@@ -107,7 +107,7 @@
                   Funciona desde 2004, atendiendo población de las zonas de Pueblo Nuevo, Villa Ilusión,<br> Herten y Corfrisa. En la actualidad se atiende a 85 niñ@s y sus familias con el objetivo de acompañar su desarrollo integral.
                   </p>
                   <!-- button show on mobile only,where flip is disabled -->
-                  <a href="caif.php" class="btn d-lg-none">Nuestro equipo</a>
+                  <a href="caif.php" class="btn d-lg-none">Leer Más</a>
                </div>
                <!-- /p-5 -->
                <!-- image -->
@@ -122,7 +122,7 @@
                      <p class="card-text">Cada grupo está a cargo de una educadora acompañada por una maestra<br> especializada en el área de Educación Inicial para la planificación del trabajo en sala.
                      </p>
                      <!-- button -->
-                     <a href="caif.php" class="btn">Nuestro equipo</a>
+                     <a href="caif.php" class="btn">Leer Más</a>
                   </div>
                   <!-- /p-4 -->
                </div>
@@ -157,8 +157,8 @@
    <div class="container pb-5">
       <!-- section heading -->  
       <div class="section-heading text-center text-light" data-aos="fade-down">
-         <h2>Otros  Servicios</h2>
-         <p class="subtitle">Acompañamiento Familiar</p>
+         <h2>Otros Servicios y Programas</h2>
+         <p class="subtitle">Únicos de La Huella</p>
       </div>
       <!-- /section heading -->
         <div class="carousel-3items owl-carousel owl-theme col-lg-12">
@@ -201,7 +201,7 @@
                   
                   </p>
                   <!-- Button -->	 
-                  <a href="contacto.php" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
+                  <a href="saloneventos.php" class="btn btn-quaternary btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
             <!-- service 3  -->
@@ -230,7 +230,7 @@
                <!-- service icon -->
                <div class="service-icon">
                   <a href="actividades.php">
-                  <img src="img/services/service5.webp" alt="" class="blob img-fluid">
+                  <img src="img/paseos.jpg" alt="" class="blob img-fluid">
                   </a>
                </div>
                <!-- service content -->
