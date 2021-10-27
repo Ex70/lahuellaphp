@@ -1,5 +1,5 @@
 <?php
-   $Titulo = "Impactos que perduran";
+   $Titulo = "Impactos Que perduran";
    $path = "";
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
@@ -8,15 +8,17 @@
    <div class="container" >
       <!-- jumbo-heading -->
       <div class="jumbo-heading" data-aos="fade-down">
-         <h1>Impactos que Perduran</h1>
+         <h1>Impactos Que Perduran</h1>
          <!-- Breadcrumbs -->
-         <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="blog.php">Post de Inicio</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Impactos que Perduran</li>
-            </ol>
-         </nav>
+         <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="blog.php">Blog</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">Impactos Que Perduran</li>
+                  </ol>
+               </nav>
+            </div>
          <!-- /breadcrumb -->
       </div>
       <!-- /jumbo-heading -->
@@ -41,7 +43,7 @@
             <p>La organización fue elegida como la ganadora de esta convocatoria por el jurado integrado por: Fundación Teletón (Germán Lombardi, Gerente General), Fundación Pérez Scremini (Guzmán Nion, Gerente General), América Solidaria (Javier Pereira, Director Ejecutivo), KPMG (Álvaro Scarpelli, Socio Director) y Socialab (Carolina Machado, Directora de Relaciones Institucionales). La OSC fue premiada con USD 5.000 y mentorías de nuestro equipo de profesionales.  </p>
             <p>Agradecemos la colaboración de Socialab Uruguay a lo largo de este camino, así como a los jurados, por su gran apoyo. </p>
             <p> Luego de un pitch final increíble y de muy alto nivel, fuimos seleccionados como ganadores de Impactos que perduran, recibiendo 15 horas de mentorías del equipo de KPMG.</p>
-            <p>Somos una organización sin fines de lucro que comenzó como hogar de niños hace 46 años y hoy en día nuclea además un CAIF, un Club de niños y un SOCAT. Atiende las necesidades de muchas familias en el entorno de la ciudad de Las Piedras. </p>
+            <p>Somos una organización sin fines de lucro que comenzó como hogar de niños hace 46 años. Atiende las necesidades de muchas familias en el entorno de la ciudad de Las Piedras. </p>
             <h5></h5>
          </div>
          <!-- /page-with-sidebar -->

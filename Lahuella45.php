@@ -10,13 +10,15 @@
       <div class="jumbo-heading" data-aos="fade-down">
          <h1>La Huella Cumple 45 Años</h1>
          <!-- Breadcrumbs -->
-         <nav aria-label="breadcrumb"> 
-            <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="blog.html">Blog</a></li>
-               <li class="breadcrumb-item active" aria-current="page">La Huella Cumple 45 Años</li>
-            </ol>
-         </nav>
+         <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="blog.php">Blog</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">La Huella Cumple 45 Años</li>
+                  </ol>
+               </nav>
+            </div>
          <!-- /breadcrumb -->
       </div>
       <!-- /jumbo-heading -->

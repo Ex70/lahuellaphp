@@ -10,13 +10,15 @@
       <div class="jumbo-heading" data-aos="fade-down">
          <h1>Kermesse</h1>
          <!-- Breadcrumbs -->
-         <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="blog.php">blog</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Kermesse</li>
-            </ol>
-         </nav>
+         <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="blog.php">Blog</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">Kermesse</li>
+                  </ol>
+               </nav>
+            </div>
          <!-- /breadcrumb -->
       </div>
       <!-- /jumbo-heading -->
