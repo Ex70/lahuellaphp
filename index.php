@@ -172,14 +172,14 @@
                </div>
                <!-- service content -->
                <div class="service-content">
-                  <a href="actividades.php">
+                  <a href="acompañamientofamiliar.php">
                      <h4 class="service-head">Acompañamiento Familiar</h4>
                   </a>
                   <p>
                   Se desarrollan diversas actividades extraordinarias, por ejemplo: actividades recreativas en los barrios, el Periniño, la participación en las Fiestas Mayas y en la Expo Educa, el Guisito Amigo, reuniones y talleres con familias.
                   </p>
                   <!-- Button -->	 
-                  <a href="actividades.php" class="btn btn-quaternary  btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
+                  <a href="acompañamientofamiliar.php" class="btn btn-quaternary  btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
             <!-- service 2  -->

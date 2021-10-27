@@ -36,22 +36,24 @@
               <div class="col-lg-6 ">
                  <h2>Las Piedras, Canelones</h2>
                  <span class="h7 mt-2">La Ciudad de Las Piedras</span>
-                 <p class="mt-4 res-margin">Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-                 <p>Nec elementum ipsum convall Maecenas at arcu risus scelerisque laoree.</p>
+                 <p class="mt-4 res-margin">Las Piedras es una localidad que se encuentra en Canelones, el segundo departamento más densamente poblado luego de Montevideo. Canelones rodea casi la totalidad del departamento de Montevideo.
+                    
+                 Las Piedras forma parte de las localidades al suroeste del departamento. Luego de la Ciudad de la Costa, es la ciudad más poblada, con alrededor de 65,000 habitantes.</p>
               </div>
               <!-- /col-lg-->
               <div class="col-lg-6 ">
                  <!-- image -->
-                 <img class="img-fluid rounded" src="img/about/about2.jpg" alt="">
+                 <img class="img-fluid rounded" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MunCanLasPiedras.svg/1920px-MunCanLasPiedras.svg.png?1635347599417" alt="">
                  <!-- ornament starts-->
-                 <div class="ornament-rainbow aos-init aos-animate" data-aos="zoom-out"></div>
+                 <div class="ornament aos-init aos-animate" data-aos="zoom-out"></div>
               </div>
               <!-- /col-lg -->
            </div>
            <!-- /row -->
            <h3 class="mt-5">Las Piedras Ciudad Satélite o Dormitorio</h3>
-           <p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p>
-           <h3 class="mt-5">Las Piedras, Tierra de Horticultura y Viñedos</h3><p>Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall.</p><!-- row -->
+           <p>Una ciudad dormitorio o satélite, si bien algunas veces es considerada peyorativa, es una expresión que refiere a zonas residenciales por lo general parte del área metropolitana de una ciudad. La piedra se conecta completamente con la ciudad vecina La Paz que a su vez está conectada con Montevídeo, habiendo generado una fran extensión de ciudad que dificulta su distinciíon.</p>
+           <h3 class="mt-5">Las Piedras, Tierra de Horticultura y Viñedos</h3>
+           <p>La ciudad de Las Piedras y su zona de influencia tiene una marcada actividad agrícola (horticultura y fruticultura) y agroindustrial, cuenta con viñedos y bodegas de prestigio y es considerada la capital del vino. Tiene además industrias, un frigorífico que exporta, comercios, talleres y pequeñas fábricas.</p><!-- row -->
            
            <!-- /row -->
            
