@@ -33,10 +33,10 @@ La idea del Boletín surge con la intención de fomentar la comunicación, hacer
         <h5>Boletines disponibles</h5>
     </div>
     <div class="row">
-        <ul class="custom pl-0">
-        <a class="custom-link float-right mt-5" href="https://drive.google.com/file/d/10RrqyKrBiXkgvg-c1aUY6fDBhEgi_j6b/view?usp=sharing"target="_blank">Boletín 1-Abril 2014</a></li>
+    <div class="row" style="display: flex; justify-content: center;">
+        <li><a class="custom-link float-right mt-5" href="https://drive.google.com/file/d/10RrqyKrBiXkgvg-c1aUY6fDBhEgi_j6b/view?usp=sharing"target="_blank">Boletín 1-Abril 2014</a></li>
 
-        <a class="custom-link float-right mt-5" href="https://drive.google.com/file/d/1kTHH7TqbgdV4EXgsIYM573CIGN6yUntW/view?usp=sharing" target="_blank"target="_blank">Boletín 2-Septiembre 2014</a></li>
+        <li><a class="custom-link float-right mt-5" href="http://lahuella.org.uy/boletines/2%C2%BA%20boletin%20setiembre%202014.pdf" target="_blank"target="_blank">Boletín 2-Septiembre 2014</a></li>
 
         <li><a class="custom-link float-right mt-5" href="https://drive.google.com/file/d/1kTHH7TqbgdV4EXgsIYM573CIGN6yUntW/view?usp=sharing" target="_blank"target="_blank">Boletín 3-Marzo 2015</a></li>
 
@@ -59,19 +59,7 @@ La idea del Boletín surge con la intención de fomentar la comunicación, hacer
         
         <li><a class="custom-link float-right mt-5" href="https://drive.google.com/file/d/1De8p-BdGagbpELnQtu_UIP4nV0K29pub/view?usp=sharing" target="_blank">Boletín 13-Octubre 2020</a></li>
 
-            <li><a href="<li><a class="custom-link float-right mt-5" href="https://drive.google.com/file/d/10RrqyKrBiXkgvg-c1aUY6fDBhEgi_j6b/view?usp=sharing"target="_blank">Boletín 1-Abril 2014</a></li>" target="_blank">[Nro 2 - Septiembre 2014]</a></li>
-            <li><a href="https://drive.google.com/file/d/1kTHH7TqbgdV4EXgsIYM573CIGN6yUntW/view?usp=sharing" target="_blank">[Nro 3 - Marzo 2015]</a></li>
-            <li><a href="https://drive.google.com/file/d/1bBoZZVhZbqDBkAapYhxWMzXT3yQMlCm2/view?usp=sharing" target="_blank">[Nro 4 - Septiembre 2017]</a></li>
-            <li><a href="https://drive.google.com/file/d/10OYryyIZ0oYVmrstbcUbSJCWnEt-LDhM/view?usp=sharing" target="_blank">[Nro 5 - Diciembre 2017]</a></li>
-            <li><a href="https://drive.google.com/file/d/1MNmAtQMmljO3tGCwXqov9du_IvozuRfc/view?usp=sharing" target="_blank">[Nro 6 - Mayo 2018]</a></li>
-            <li><a href="https://drive.google.com/file/d/1CWVwtBwJH9bUp1dqh4GPLq2OIqK1DMu7/view?usp=sharing" target="_blank">[Nro 7 - Septiembre 2018]</a></li>
-            <li><a href="https://drive.google.com/file/d/1kOt9hLq7dnZev8leDFPh8cn9Ouc6e3kV/view?usp=sharing" target="_blank">[Nro 8 - Diciembre 2018]</a></li>
-            <li><a href="https://drive.google.com/file/d/1xndRNZcDrJ8_T_I-57UtPYRGv_a-F77q/view?usp=sharing" target="_blank">[Nro 9 - Abril 2019]</a></li>
-            <li><a href="https://drive.google.com/file/d/1vbazPUCT59XGo5ECOJue1rWykEVfuNII/view?usp=sharing" target="_blank">[Nro 10 - Agosto 2019]</a></li>
-            <li><a href="https://drive.google.com/file/d/1sVOdYdhqlsUFQ3qptClNHGHd-j4GFJH1/view?usp=sharing" target="_blank">[Nro 11 - Diciembre 2019]</a></li>
-            <li><a href="https://drive.google.com/file/d/11s7pulMzPs80Fkjj02gli33zqwG_W6PX/view?usp=sharing" target="_blank">[Nro 12 - Mayo 2020]</a></li>
-            <li><a href="https://drive.google.com/file/d/1De8p-BdGagbpELnQtu_UIP4nV0K29pub/view?usp=sharing" target="_blank">[Nro 13 - Octubre 2020]</a></li>
-        </ul>
+       </div>
     </div>
 </div>
 
