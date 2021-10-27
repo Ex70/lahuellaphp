@@ -13,7 +13,7 @@
          <nav aria-label="breadcrumb"> 
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="blog.html">Post de Inicio</a></li>
+               <li class="breadcrumb-item"><a href="blog.html">Blog</a></li>
                <li class="breadcrumb-item active" aria-current="page">La Huella Cumple 45 Años</li>
             </ol>
          </nav>
@@ -42,7 +42,7 @@
             <p>Desde hace 45 años seguimos dejando huella.</p>
             <h5></h5>
             <div class="row" style="display: flex; justify-content: center;">
-               <iframe  width="600" height="400" src="huella45.mp4" frameborder="0" allowfullscreen></iframe>
+               <video width="600" height="400" src="huella45.mp4" poster="img/intro1.jpg" controls></video>
             </div>
          </div>
          <!-- /page-with-sidebar -->

@@ -151,7 +151,7 @@
                         <div class="card-body">
                            <!--  info --> 
                            <a href="equipotrabajo.php" class="text-center">
-                           <p style="text-align: justify"><strong>Conoce al grupo de personas que pone en marcha al hphar La Huella</strong></p>
+                           <p style="text-align: justify"><strong>Conoce al grupo de personas que pone en marcha al hogar La Huella</strong></p>
                            </a>
                            <!-- button -->   
                            <a href="equipotrabajo.php" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>

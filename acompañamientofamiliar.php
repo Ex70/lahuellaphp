@@ -15,7 +15,7 @@
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="services.php">Servicios</a></li>
+               <li class="breadcrumb-item"><a href="index.php">Programas</a></li>
                <li class="breadcrumb-item active" aria-current="page">Acompañamiento Familiar</li>
             </ol>
          </nav>
@@ -47,9 +47,9 @@
                <div class="row">
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
-                        <img src="img/services/Fotografia19.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/Fotografia17.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/Fotografia20.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/familiar1.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/familiar2.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/familiar3.jpg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>
@@ -57,14 +57,14 @@
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p style="text-align: justify"> El eje espiritual tiene que ver con vivir una experiencia de fe en el día a día, donde ahondamos en nuestro seguimiento de Jesús, teniendo reuniones semanales con una pauta que seguía el formato de los Ejercicios Espirituales de San Ignacio, sumado a pausas diarias para rezar el día.<br><br>
+                     <p style="text-align: justify"> Duis vestibulum nibh turpis, ut vehicula sem vestibulum eu. Integer blandit tellus a tortor malesuada, quis imperdiet tortor sagittis. Nullam id lectus ullamcorper, tincidunt turpis et, placerat lacus. Nam sit amet ex in massa placerat tincidunt. Phasellus vitae posuere tellus.<br><br>
                      </p>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-7">
                      <h4></h4>
                      <!-- Image -->
-                     <p style="text-align: justify">Por último, el tercer eje tiene que ver con el apostolado, siendo vecinos del hogar, pasando mucho de nuestro tiempo con los chiquilines, disfrutando y creciendo juntos. Tuvimos la oportunidad de jugar, hacer deberes, estudiar, acompañar al médico, disfrutar de las fiestas finales y otros eventos, en definitiva fue compartir nuestras vidas cotidianas y acompañarnos desde ahí.
+                     <p style="text-align: justify">Curabitur commodo malesuada quam quis fermentum. Integer pellentesque auctor mauris, ut tempor arcu dapibus eu. Sed aliquet non turpis a hendrerit. Nullam convallis turpis vel augue ultrices, ac efficitur ligula volutpat.
 
                      </p>
                      <a href="contacto.php" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
@@ -72,9 +72,9 @@
                   </div>
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme">
-                        <img src="img/services/Fotografia18.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/Fotografia16.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/Fotografia21.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/familiar4.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/familiar5.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/familiar6.jpg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>
@@ -86,22 +86,56 @@
          </div>
          <!-- /col-lg-9 -->
          <!-- ==== Sidebar ==== -->
-         <div id="sidebar" class="col-lg-3 h-50 sticky-top">
-            <!--widget area-->
-            <div class="widget-area notepad">
-               <h5 class="sidebar-header" id="servicioicon">Servicios</h5>
-               <div class="list-group">
-               <a href="hogar.php" class="list-group-item list-group-item-action">
-                  Hogar La Huella
-                  </a>
-                  <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de niños</a>
-                  <a href="caif.php" class="list-group-item list-group-item-action">CAIF</a>
-                  <a href="storta.php" class="list-group-item list-group-item-action active">La Storta</a>
+         <div id="sidebar" class="h-50 col-lg-3 sticky-top">
+               <!--widget-area -->
+               <div class="widget-area notepad" >
+                  <h5 class="sidebar-header" id="cuadro1">Nuestro Equipo</h5>
+                  <!-- widget -->       
+                  <div class="widget2">
+                     <div class="card">
+                        <div class="card-img">
+                           <!-- image  -->   
+                           <a href="equipotrabajo.php">
+                           <img class="rounded card-img-top" src="img/about/400x300.jpg" alt="" >
+                           </a>
+                        </div>
+                        <div class="card-body">
+                           <!--  info --> 
+                           <a href="equipotrabajo.php" class="text-center">
+                           <p style="text-align: justify"><strong>Conoce al grupo de personas que pone en marcha al hogar La Huella</strong></p>
+                           </a>
+                           <!-- button -->   
+                           <a href="equipotrabajo.php" class="btn btn-secondary btn-block btn-sm" id="cuadro2">Leer más</a>
+                        </div>
+                        <!--/card-body -->   
+                     </div>
+                     <!-- /card --> 
+                  </div>
+                  <!--/widget2 -->
                </div>
-               <!-- /list-group -->
+               <!--/widget-area -->
+               <div class="widget-area notepad">
+                  <h5 class="sidebar-header" id="cuadro3">Nuestra Misión</h5>
+                  <p style="text-align: justify">Crear un espacio paa cobijar bajo nuestro techo y privilegiar al niño postergado o abandonado</p>
+               </div>
+               <!--/widget-area -->
+               <div class="widget-area notepad">
+                  <h5 class="sidebar-header" id="cuadro4">Síguenos</h5>
+                  <div class="contact-icon-info">
+                     <ul class="social-media text-center">
+                        <!--social icons -->
+                        <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
+                        <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
+                        <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
+                     </ul>
+                  </div>
+                  <!--/contact-icon-info -->
+               </div>
+               <!--/widget-area -->
             </div>
-            <!-- /widget-area -->
          </div>
+      </div>
          <!-- /sidebar -->
       </div>
       <!-- /row-->
