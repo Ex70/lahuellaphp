@@ -3785,3 +3785,4 @@ ul.checkmark li:before {
 #colorAmarillo{background-color: #E4A40F;}
 #colorRojo{background-color: #E8373D;}
 .colorAmarillo{background-color: #E4A40F;}
+.menuRojo:hover, .menuRojo:active {background-color: #E8373D;color:white;}

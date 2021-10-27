@@ -88,9 +88,9 @@
                                 </div>
                             </li>
                             <!-- menu item -->
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="about-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Colaborar</a>
-                                <div class="dropdown-menu" aria-labelledby="about-dropdown" id="colorRojo">
+                            <li class="nav-item dropdown menuRojo">
+                                <a class="nav-link dropdown-toggle menuRojo" href="#" id="about-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Colaborar</a>
+                                <div class="dropdown-menu" aria-labelledby="about-dropdown" id="colorRojo2">
                                     <a class="dropdown-item" href="apoyoeconomico.php">Apoyo Económico</a>
                                     <a class="dropdown-item" href="apoyoenespecie.php">Apoyo en Especie</a>
                                     <a class="dropdown-item" href="apoyoenservicios.php">Apoyo en Servicios</a>
@@ -120,7 +120,7 @@
                                 </div>
                             </li>
                             <!-- menu item -->
-                            <li class="nav-item home-menu">
+                            <li class="nav-item">
                                 <a class="nav-link" href="contacto.php" id="contact-dropdown" >Contacto</a>
                             </li>
                         </ul>

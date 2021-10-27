@@ -6,7 +6,7 @@
 		//Open street  Map
 		var coord = [-34.7280785, -56.239357,15]; // <--- coordinates here
 
-		var map = L.map('map-canvas', { scrollWheelZoom:false}).setView(coord, 19);
+		var map = L.map('map-canvas', { scrollWheelZoom:false}).setView(coord, 15);
 
 		L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 22,
