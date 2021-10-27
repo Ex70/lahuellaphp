@@ -1,6 +1,7 @@
 <?php
    $Titulo = "Las piedras";
    $path = "";
+   $nosotros = true;
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
 ?>

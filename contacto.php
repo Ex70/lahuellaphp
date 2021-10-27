@@ -1,6 +1,7 @@
 <?php
    $Titulo = "Contacto";
    $path = "";
+   $contacto = true;
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
 ?>
@@ -14,7 +15,7 @@
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
+               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
                <li class="breadcrumb-item active" aria-current="page">Contacto</li>
             </ol>
          </nav>
@@ -176,7 +177,7 @@
                         <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
                         <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
                         <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
-                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="#"><i class="fab fa-pinterest"></i></a></li>
                      </ul>
                   </div>
                   <!--/contact-icon-info -->

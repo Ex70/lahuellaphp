@@ -1,6 +1,7 @@
 <?php
    $Titulo = "Equipo de Trabajo";
    $path = "";
+   $nosotros = true;
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
 ?>

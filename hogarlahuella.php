@@ -1,6 +1,7 @@
 <?php
    $Titulo = "A.C. Hogar la Huella";
    $path = "";
+   $nosotros = true;
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
 ?>

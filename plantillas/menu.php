@@ -68,8 +68,8 @@
                                 <a class="nav-link" href="index.php">Inicio</a>
                             </li>
                             <!-- menu item -->
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nosotros</a>
+                            <li class="nav-item dropdown <?php echo (!empty($nosotros)) ? 'active' : ''; ?>">
+                                <a class="nav-link dropdown-toggle " href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nosotros</a>
                                 <div class="dropdown-menu" aria-labelledby="services-dropdown">
                                     <a class="dropdown-item" href="hogarlahuella.php">A.C. Hogar La Huella</a>
                                     <a class="dropdown-item" href="comisiondirectiva.php">Comisión Directiva</a>
@@ -78,8 +78,8 @@
                                 </div>
                             </li>
                             <!-- menu item -->
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programas</a>
+                            <li class="nav-item dropdown <?php echo (!empty($programas)) ? 'active' : ''; ?>">
+                                <a class="nav-link dropdown-toggle " href="#" id="services-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programas</a>
                                 <div class="dropdown-menu" aria-labelledby="services-dropdown">
                                     <a class="dropdown-item" href="hogar.php">Hogar</a>
                                     <a class="dropdown-item" href="clubdeniños.php">Club de Niños</a>
@@ -100,7 +100,7 @@
                                 </div>
                             </li>
                             <!-- menu item -->
-                            <li class="nav-item dropdown">
+                            <li class="nav-item dropdown <?php echo (!empty($instalaciones)) ? 'active' : ''; ?>">
                                 <a class="nav-link dropdown-toggle" href="#" id="gallery-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Galeria</a>
                                 <div class="dropdown-menu" aria-labelledby="gallery-dropdown">
                                     <a class="dropdown-item" href="instalaciones.php">Instalaciones</a>
@@ -110,7 +110,7 @@
                                 </div>
                             </li>
                             <!-- menu item -->
-                            <li class="nav-item dropdown">
+                            <li class="nav-item dropdown <?php echo (!empty($novedades)) ? 'active' : ''; ?>">
                                 <a class="nav-link dropdown-toggle" href="#" id="others-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Novedades</a>
                                 <div class="dropdown-menu" aria-labelledby="others-dropdown">
                                     <a class="dropdown-item" href="blog.php">Blog</a>
@@ -120,7 +120,7 @@
                                 </div>
                             </li>
                             <!-- menu item -->
-                            <li class="nav-item">
+                            <li class="nav-item <?php echo (!empty($contacto)) ? 'active' : ''; ?>">
                                 <a class="nav-link" href="contacto.php" id="contact-dropdown" >Contacto</a>
                             </li>
                         </ul>

@@ -1,6 +1,7 @@
 <?php
    $Titulo = "Galería - Salón de Eventos";
    $path = "";
+   $instalaciones = true;
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
 ?>

@@ -1,6 +1,7 @@
 <?php
    $Titulo = "Boletín";
    $path = "";
+   $novedades = true;
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
 ?>

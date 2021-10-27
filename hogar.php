@@ -1,6 +1,7 @@
 <?php
    $Titulo = "Hogar La Huella";
    $path = "";
+   $programas = true;
    include 'plantillas/header.php';
    include 'plantillas/menu.php';
 ?>
