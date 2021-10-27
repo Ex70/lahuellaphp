@@ -109,47 +109,14 @@
       <div class="col-sm-6 col-md-6 col-lg-4 interior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/instalaciones/instalacion06.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/instalaciones/instalacion11.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/instalaciones/instalacion06.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/instalaciones/instalacion11.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
       </div>
       <!-- Image 7 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 interior">
-         <div class="portfolio-item">
-            <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/instalaciones/instalacion07.jpg" alt="">
-               <span class="overlay-mask"></span>
-               <a href="img/gallery/instalaciones/instalacion07.jpg" class="link centered" title="You can add caption to pictures.">
-               <i class="fa fa-expand"></i></a>
-            </div>
-         </div>
-      </div>
-      <!-- Image 8 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 interior">
-         <div class="portfolio-item">
-            <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/instalaciones/instalacion08.jpg" alt="">
-               <span class="overlay-mask"></span>
-               <a href="img/gallery/instalaciones/instalacion08.jpg" class="link centered" title="You can add caption to pictures.">
-               <i class="fa fa-expand"></i></a>
-            </div>
-         </div>
-      </div>
-      <!-- Image 9 -->
-      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
-         <div class="portfolio-item">
-            <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/instalaciones/instalacion01.jpg" alt="">
-               <span class="overlay-mask"></span>
-               <a href="img/gallery/instalaciones/instalacion01.jpg" class="link centered" title="You can add caption to pictures.">
-               <i class="fa fa-expand"></i></a>
-            </div>
-         </div>
-      </div>
-      <!-- Image 10 -->
       <div class="col-sm-6 col-md-6 col-lg-4 interior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
@@ -160,13 +127,46 @@
             </div>
          </div>
       </div>
+      <!-- Image 8 -->
+      <div class="col-sm-6 col-md-6 col-lg-4 exterior">
+         <div class="portfolio-item">
+            <div class="gallery-thumb">
+               <img class="img-fluid " src="img/gallery/instalaciones/instalacion12.jpg" alt="">
+               <span class="overlay-mask"></span>
+               <a href="img/gallery/instalaciones/instalacion12.jpg" class="link centered" title="You can add caption to pictures.">
+               <i class="fa fa-expand"></i></a>
+            </div>
+         </div>
+      </div>
+      <!-- Image 9 -->
+      <div class="col-sm-6 col-md-6 col-lg-4 interior">
+         <div class="portfolio-item">
+            <div class="gallery-thumb">
+               <img class="img-fluid " src="img/gallery/instalaciones/instalacion06.jpg" alt="">
+               <span class="overlay-mask"></span>
+               <a href="img/gallery/instalaciones/instalacion06.jpg" class="link centered" title="You can add caption to pictures.">
+               <i class="fa fa-expand"></i></a>
+            </div>
+         </div>
+      </div>
+      <!-- Image 10 -->
+      <div class="col-sm-6 col-md-6 col-lg-4 interior">
+         <div class="portfolio-item">
+            <div class="gallery-thumb">
+               <img class="img-fluid " src="img/gallery/instalaciones/instalacion08.jpg" alt="">
+               <span class="overlay-mask"></span>
+               <a href="img/gallery/instalaciones/instalacion08.jpg" class="link centered" title="You can add caption to pictures.">
+               <i class="fa fa-expand"></i></a>
+            </div>
+         </div>
+      </div>
       <!-- Image 11 -->
       <div class="col-sm-6 col-md-6 col-lg-4 interior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/instalaciones/instalacion11.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/instalaciones/instalacion07.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/instalaciones/instalacion11.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/instalaciones/instalacion07.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
@@ -175,9 +175,9 @@
       <div class="col-sm-6 col-md-6 col-lg-4 exterior">
          <div class="portfolio-item">
             <div class="gallery-thumb">
-               <img class="img-fluid " src="img/gallery/instalaciones/instalacion12.jpg" alt="">
+               <img class="img-fluid " src="img/gallery/instalaciones/instalacion01.jpg" alt="">
                <span class="overlay-mask"></span>
-               <a href="img/gallery/instalaciones/instalacion12.jpg" class="link centered" title="You can add caption to pictures.">
+               <a href="img/gallery/instalaciones/instalacion01.jpg" class="link centered" title="You can add caption to pictures.">
                <i class="fa fa-expand"></i></a>
             </div>
          </div>
