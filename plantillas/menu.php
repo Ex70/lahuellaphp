@@ -29,7 +29,7 @@
                             <ul class="contact-details float-left">
                                 <li><i class="fa fa-map-marker"></i>Las Piedras, Canelones, Uruguay</li>
                                 <li><i class="fa fa-envelope"></i><a href="mailto:lahuella1975@gmail.com"> lahuella1975@gmail.com </a></li>
-                                <li><i class="fa fa-phone"></i><a href="tel:59823650827">2365 0827</a></li>
+                                <li><i class="fa fa-phone"></i><a href="tel:+59823650827">2365 0827</a></li>
                             </ul>
                             <!-- End Contact Info -->
                             <!-- Start Social Links -->

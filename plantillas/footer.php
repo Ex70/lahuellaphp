@@ -46,7 +46,7 @@
                 <div class="col-lg-4 text-center res-margin">
                     <h5>Contacta con nosotros</h5>
                     <ul class="list-unstyled mt-3">
-                        <li class="mb-1"><i class="fas fa-phone margin-icon "></i>Oficina: <a href="tel:59823650827">2365 0827</a></li>
+                        <li class="mb-1"><i class="fas fa-phone margin-icon "></i>Oficina: <a href="tel:+59823650827">2365 0827</a></li>
                         <li class="mb-1"><i class="fas fa-envelope margin-icon"></i>Correo: <a href="mailto:lahuella1975@gmail.com">lahuella1975@gmail.com</a></li>
                         <li><i class="fas fa-map-marker margin-icon"></i>Ruta 48, Pbro. Luis Pérez Aguirre SJ
                         <br>Km.19,500 CP 90200</li>

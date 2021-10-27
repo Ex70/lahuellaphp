@@ -86,7 +86,7 @@
                               <i class="fa fa-envelope top-icon"></i>
                               <!-- contact-icon info-->
                               <div class="contact-icon-info">
-                                 <h5>Escribenos</h5>
+                                 <h5>Email</h5>
                                  <p><a href="mailto:lahuella1975@gmail.com">lahuella1975@gmail.com</a></p>
                               </div>
                            </div>
@@ -99,7 +99,7 @@
                               <i class="fa fa-map-marker top-icon"></i>
                               <!-- contact-icon info-->
                               <div class="contact-icon-info">
-                                 <h5>Visitanos</h5>
+                                 <h5>Dirección</h5>
                                  <p>Ruta 48 Luis Pérez Aguirre, Km 19.500, 90200 Las Piedras, Canelones, Uruguay</p>
                               </div>
                            </div>
@@ -112,8 +112,8 @@
                               <i class="fa fa-phone top-icon"></i>
                               <!-- contact-icon info-->
                               <div class="contact-icon-info">
-                                 <h5>Llamanos</h5>
-                                 <p><a href="tel:59823650827">2365 0827</a></p>
+                                 <h5>Teléfono</h5>
+                                 <p><a href="tel:+59823650827">2365 0827</a></p>
                               </div>
                            </div>
                            <!-- /contact-icon-->
