@@ -12,12 +12,15 @@
      <div class="jumbo-heading aos-init aos-animate" data-aos="fade-down">
         <h1>Las Piedras</h1>
         <!-- Breadcrumbs -->
-        <nav aria-label="breadcrumb">
-           <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-              <li class="breadcrumb-item"><a href="index.html">Nosotros</a></li><li class="breadcrumb-item active" aria-current="page">Las Piedras, Canelones</li>
-           </ol>
-        </nav>
+        <div class="row" style="display: flex;justify-content:center;">
+            <nav aria-label="breadcrumb">
+               <ol class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                  <li class="breadcrumb-item"><a href="#">Nosotros</a></li>
+                  <li class="breadcrumb-item active" aria-current="page">Las Piedras, Canelones</li>
+               </ol>
+            </nav>
+         </div>
         <!-- /breadcrumb -->
      </div>
      <!-- /jumbo-heading -->
@@ -109,7 +112,7 @@
                         <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
                         <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
                         <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
-                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="#"><i class="fab fa-pinterest"></i></a></li>
                      </ul>
                   </div>
                   <!--/contact-icon-info -->

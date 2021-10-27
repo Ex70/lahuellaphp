@@ -13,6 +13,15 @@
          <div class="jumbo-heading" data-aos="fade-down">
             <h1>A.C. Hogar La Huella</h1>
             <!-- Breadcrumbs -->
+            <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="#">Nosotros</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">A.C. Hogar La Huella</li>
+                  </ol>
+               </nav>
+            </div>
             <!-- /breadcrumb -->
          </div>
          <!-- /jumbo-heading -->
@@ -41,7 +50,7 @@
                   <ul class="social-media">
                      <!--social icons -->
                      <li><a href="#"><i class="fab fa-linkedin"></i></a></l>
-                     <li><a href="mailto:email@email.com"><i class="fa fa-envelope"></i></a></li>
+                     <li><a href="mailto:lahuella1975@gmail.com"><i class="fa fa-envelope"></i></a></li>
                   </ul>
                </div>
                <!-- /col-lg -->
@@ -105,7 +114,7 @@
                         <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
                         <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
                         <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
-                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="#"><i class="fab fa-pinterest"></i></a></li>
                      </ul>
                   </div>
                   <!--/contact-icon-info -->

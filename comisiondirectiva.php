@@ -12,6 +12,15 @@
             <div class="jumbo-heading" data-aos="fade-down">
                <h1>Comisión Directiva</h1>
                <!-- Breadcrumbs -->
+               <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="#">Nosotros</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">Comisión Directiva</li>
+                  </ol>
+               </nav>
+            </div>
                <!-- /breadcrumb -->
             </div>
             <!-- /jumbo-heading -->
@@ -297,16 +306,12 @@
                               <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
-                                    <a href="team-single.html">
                                     <img src="img/Ariel_Sotelo.jpg" class="rounded-circle img-fluid"
                                        alt="">
-                                    </a>
                                  </div>
                                  <div class="mx-4">
                                     <!-- Team info -->
-                                    <a href="team-single.html">
                                        <h5 class="mb-2">Ariel Sotelo</h5>
-                                    </a>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
                                     </p>
                                  </div>
@@ -323,16 +328,12 @@
                               <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
-                                    <a href="team-single.html">
-                                    <img src="img/PatriciaHidalgo.jpeg" class="rounded-circle img-fluid"
+                                    <img src="img/team5.jpg" class="rounded-circle img-fluid"
                                        alt="">
-                                    </a>
                                  </div>
                                  <div class="mx-4">
                                     <!-- Team info -->
-                                    <a href="team-single.html">
                                        <h5 class="mb-2">Andrés Masoller</h5>
-                                    </a>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
                                        tenetur.
                                     </p>
@@ -349,16 +350,12 @@
                               <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
                                  <div class="img-box my-auto">
                                     <!-- Team image -->
-                                    <a href="team-single.html">
-                                    <img src="img/team3.jpg" class="rounded-circle img-fluid"
+                                    <img src="img/team2.jpg" class="rounded-circle img-fluid"
                                        alt="">
-                                    </a>
                                  </div>
                                  <div class="mx-4">
                                     <!-- Team info -->
-                                    <a href="team-single.html">
                                        <h5 class="mb-2">Luis Silvera</h5>
-                                    </a>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
                                        tenetur.
                                     </p>
@@ -419,7 +416,7 @@
                         <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
                         <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
                         <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
-                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="#"><i class="fab fa-pinterest"></i></a></li>
                      </ul>
                   </div>
                   <!--/contact-icon-info -->
