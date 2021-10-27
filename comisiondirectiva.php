@@ -291,6 +291,92 @@
                            <!--/col-md-12 -->
                         </div>
                         <!-- /container -->
+                        <h3 class="text-center">Comisión Fiscal</h3>
+                        <div class="container mt-5">
+                              <!-- team carousel -->
+                           <div class="col-md-12 carousel-2items owl-carousel owl-theme">
+                              <!-- Team member 1 -->
+                              <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
+                                 <div class="img-box my-auto">
+                                    <!-- Team image -->
+                                    <a href="team-single.html">
+                                    <img src="img/Ariel_Sotelo.jpg" class="rounded-circle img-fluid"
+                                       alt="">
+                                    </a>
+                                 </div>
+                                 <div class="mx-4">
+                                    <!-- Team info -->
+                                    <a href="team-single.html">
+                                       <h5 class="mb-2">Ariel Sotelo</h5>
+                                    </a>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
+                                    </p>
+                                 </div>
+                                 <!-- /mx-4 -->
+                                 <!-- Team social icons -->
+                                 <ul class="social-icons bg-tertiary text-center">
+                                 <a href="#"><i class="fa fa-envelope"></i></a>
+                                    <li> <a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 </ul>
+                              </div>
+                              
+                              <!-- /Team member 1 -->
+                              <!-- Team member 2 -->
+                              <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
+                                 <div class="img-box my-auto">
+                                    <!-- Team image -->
+                                    <a href="team-single.html">
+                                    <img src="img/PatriciaHidalgo.jpeg" class="rounded-circle img-fluid"
+                                       alt="">
+                                    </a>
+                                 </div>
+                                 <div class="mx-4">
+                                    <!-- Team info -->
+                                    <a href="team-single.html">
+                                       <h5 class="mb-2">Andrés Masoller</h5>
+                                    </a>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
+                                       tenetur.
+                                    </p>
+                                 </div>
+                                 <!-- /mx-4 -->
+                                 <!-- Team social icons -->
+                                 <ul class="social-icons bg-tertiary text-center">
+                                 <a href="#"><i class="fa fa-envelope"></i></a>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
+                                 </ul>
+                              </div>
+                              <!-- /Team member 2 -->
+                              <!-- Team member 3 -->
+                              <div class="team-style2 col-lg-12 d-md-flex justify-content-between">
+                                 <div class="img-box my-auto">
+                                    <!-- Team image -->
+                                    <a href="team-single.html">
+                                    <img src="img/team3.jpg" class="rounded-circle img-fluid"
+                                       alt="">
+                                    </a>
+                                 </div>
+                                 <div class="mx-4">
+                                    <!-- Team info -->
+                                    <a href="team-single.html">
+                                       <h5 class="mb-2">Luis Silvera</h5>
+                                    </a>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic
+                                       tenetur.
+                                    </p>
+                                 </div>
+                                 <!-- /mx-4 -->
+                                 <!-- Team social icons -->
+                                 <ul class="social-icons bg-tertiary text-center">
+                                 <a href="#"><i class="fa fa-envelope"></i></a>
+                                 <a href="#"><i class="fab fa-linkedin"></i></a>
+                                 </ul>
+                              </div>
+                              <!-- /Team member 5 -->
+                           </div>
+                           <!--/col-md-12 -->
+                        </div>
+                        
                   </div>
                </div>
             </div>

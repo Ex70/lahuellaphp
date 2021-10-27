@@ -43,9 +43,9 @@
                <div class="row">
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
-                        <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/huerta6.jpeg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/huerta2.jpeg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/huerta3.jpeg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>
@@ -62,14 +62,14 @@
                      <!-- Image -->
                      <p style="text-align: justify">Creemos y soñamos que esa nueva realidad es posible; una sociedad más justa, solidaria y participativa, donde todos tengamos los mismos derechos y las mismas oportunidades. Ese es nuestro horizonte de esperanza. Desde hace más de 20 años, la huerta de la Huella funciona buscando ser un espacio de trabajo y de encuentro entre los niños del CAIF, del Club de Niños y del Hogar, confiando en que el trabajo allí constituye una experiencia sanadora donde recrear y reciclar. A su vez la huerta ha salido de paseo por el barrio Villa Ilusión con la modalidad “huertas circulando” y “huertas de cajón”.<br><br>
                      </p>
-                     <a href="contact.html" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
+                     <a href="contacto.php" class="btn btn-secondary mt-3" id="contacicon">Contáctanos</a>
                      <!-- Button -->	 
                   </div>
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
-                        <img src="img/services/service-single1.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single2.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/service-single3.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/huerta4.jpeg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/huerta5.jpeg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/huerta1.jpeg" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>

@@ -34,7 +34,9 @@
             <!-- Post info-->
             <hr>
             <!-- Preview Image -->
-            <img src="img/gallery/institucion.jpg" class="img-fluid" alt="">
+            <div class="row" style="display: flex; justify-content: center;">
+            <img src="img/gallery/libro.jpg" class="img-fluid" alt="">
+            </div>
             <hr>
             <!-- Post Content -->
             <p class="lead"></p>
@@ -52,8 +54,12 @@
             Esta historia está vinculada a determinadas personas que formularon la idea y se propusieron llevarla adelante y a las individualidades del grupo que fueron definiendo las características del proyecto.
             </p>
             <div class="row" style="display: flex; justify-content: center;">
+            <img alt="Libro.pdf" style="width: 80px; height: 135px; object-fit: contain; object-position: center center;" src="https://static.wixstatic.com/media/40d80b8089c8418a961cb75d96d491f7.png/v1/fill/w_80,h_107,al_c,q_85,usm_0.66_1.00_0.01/40d80b8089c8418a961cb75d96d491f7.webp">
+            </div>
+            <div class="row" style="display: flex; justify-content: center;">
                <h4></h4>
                <!-- Image -->
+               <br><br><br>
                <a href="https://drive.google.com/file/d/1AODOpSmsbnMSr7mUQViRc0o5HQpVSj6o/view?usp=sharing" target="_blank" class="btn btn-secondary mt-3" id="contacicon">Acceder a libro completo</a>
                <!-- Button -->	 
             </div>

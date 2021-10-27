@@ -26,7 +26,14 @@
          <!-- page with sidebar starts -->
          <div class="col-lg-9 page-with-sidebar">
          <div class="col-lg-12">
-            <!-- /row -->
+         <h2 class="mb-2"></h2>
+            <!-- Post info-->
+            <hr>
+            <!-- Preview Image -->
+            <div class="row" style="display: flex; justify-content: center;">
+            <img src="img/gallery/La Huella.jpg" class="img-fluid" alt="">
+            </div>
+            <hr>
             <p style="text-align: justify">La Huella esta conformada por 4 proyectos sociales y Educativos.<br>
             Los desafíos de la huella fue adecuarse de forma continua a la nuevas situaciones. la huella surge de una vertiente de la profesión fe cristiana con valores cristianos abiertos a todo aquel que no tenga creencias esa es la base de nuestra identidad. El proyecto casa forma parte de lo que llamámos CAFF es un centro de acogimiento y fortalecimiento familiar, otro proyecto es el PAE es el proyecto de autonomía y egreso es el primer paso de transición entre que salen de la casa al siguiente paso que es la autonomía. </h5>
             <!-- custom list -->
