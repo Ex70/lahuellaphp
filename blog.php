@@ -128,26 +128,27 @@
                   <!-- blog-box -->
                   <div class="blog-box">
                      <!-- image -->
-                     <a href="blog-single.html">
-                        <div class="image"><img src="img/blog/blogstyle2-3.jpg" alt=""/></div>
+                     <a href="impactosperduran.php">
+                        <div class="image"><img src="img/blog/impactos.jpg" alt=""/></div>
                      </a>
                      <!-- blog-box-caption -->
                      <div class="blog-box-caption">
                         <!-- date -->
                         <div class="date"><span class="day">02</span><span class="month">nov</span></div>
-                        <a href="blog-single.html">
-                           <h4>20 Fun Activities to Do With Your Kids</h4>
+                        <a href="impactosperduran.php">
+                           <h4>Impactos que Perduran</h4>
                         </a>
                         <!-- /link -->
                         <p>
-                           Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
+                         Impactos Que Perduran ¡Felicitamos a la Asociación Civil Hogar La Huella!
+                         La organización fue elegida como la ganadora de esta convocatoria 
                         </p>
                      </div>
                      <!-- blog-box-footer -->
                      <div class="blog-box-footer">
                         <!-- Button -->	 
                         <div class="text-center col-md-12">
-                           <a href="blog-single.html" class="btn btn-primary ">Leer Más</a>
+                           <a href="impactosperduran.php" class="btn btn-primary ">Leer Más</a>
                         </div>
                      </div>
                      <!-- /blog-box-footer -->
@@ -159,26 +160,27 @@
                   <!-- blog-box -->
                   <div class="blog-box">
                      <!-- image -->
-                     <a href="blog-single.html">
-                        <div class="image"><img src="img/blog/blogstyle2-4.jpg" alt=""/></div>
+                     <a href="kermesse.php">
+                        <div class="image"><img src="img/blog/kermesse2.jpg" alt=""/></div>
                      </a>
                      <!-- blog-box-caption -->
                      <div class="blog-box-caption">
                         <!-- date -->
                         <div class="date"><span class="day">11</span><span class="month">sept</span></div>
-                        <a href="blog-single.html">
-                           <h4>Brain-Boosting Activities for Children</h4>
+                        <a href="kermesse.php">
+                           <h4>La Huella te invita a la Kermesse</h4>
                         </a>
                         <!-- /link -->
                         <p>
-                           Aliquam erat volutpat In id fermentum augue, ut pellentesque leo. Maecenas at arcu risus. Donec commodo sodales ex, scelerisque laoreet nibh hendrerit id. In aliquet magna nec lobortis...
+                        Se viene la Kermesse, venta económica, juegos, comida, bebida y mucho más.
+                        Los esperamos en el salón de eventos el domimgo 7 de Noviembre de 11:00 a 15:. ¡No te lo pierdas!
                         </p>
                      </div>
                      <!-- blog-box-footer -->
                      <div class="blog-box-footer">
                         <!-- Button -->	 
                         <div class="text-center col-md-12">
-                           <a href="blog-single.html" class="btn btn-primary ">Leer Más</a>
+                           <a href="kermesse.php" class="btn btn-primary ">Leer Más</a>
                         </div>
                      </div>
                      <!-- /blog-box-footer -->
