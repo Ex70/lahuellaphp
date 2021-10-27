@@ -31,7 +31,7 @@
             <hr>
             <!-- Preview Image -->
             <div class="row" style="display: flex; justify-content: center;">
-            <img src="img/gallery/La Huella.jpg" class="img-fluid" alt="">
+            <img src="img/gallery/La Huella.JPG" class="img-fluid" alt="">
             </div>
             <hr>
             <p style="text-align: justify">La Huella esta conformada por 4 proyectos sociales y Educativos.<br>
