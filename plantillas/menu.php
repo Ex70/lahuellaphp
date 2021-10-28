@@ -54,7 +54,7 @@
                 <div class="container ">
                     <!-- logo -->
                     <a class="nav-brand" href="index.php">
-                        <img src="img/logo.png" alt="" class="img-fluid">
+                        <img src="img/logo.png" alt="" class="lazyload img-fluid">
                     </a>
                     <!-- Navbar toggler -->
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -150,7 +150,7 @@
          <!--Slider -->
          <div class="slider">
             <!-- Slide 0 -->
-            <div class="slide slide-0 active" style="background-image:url('img/slider/dragslider-0b.webp')">
+            <div class="slide slide-0 active" style="background-image:url('img/slider/dragslider-0b.jpg')">
                <div class="slide__bg"></div>
                <div class="slide__content">
                   <svg class="slide__overlay" viewBox="0 0 720 405" preserveAspectRatio="xMaxYMax slice">
@@ -167,7 +167,7 @@
                </div>
             </div>
             <!-- Slide 1 -->
-            <div class="slide slide-1" style="background-image:url('img/slider/dragslider-1.webp')">
+            <div class="slide slide-1" style="background-image:url('img/slider/dragslider-1.jpg')">
                <div class="slide__bg"></div>
                <div class="slide__content">
                   <svg class="slide__overlay" viewBox="0 0 720 405" preserveAspectRatio="xMaxYMax slice">
@@ -184,7 +184,7 @@
                </div>
             </div>
 			<!-- Slide 2 -->
-            <div class="slide slide-2" style="background-image:url('img/slider/dragslider-2.webp')">
+            <div class="slide slide-2" style="background-image:url('img/slider/dragslider-2.jpg')">
                <div class="slide__bg"></div>
                <div class="slide__content">
                   	<svg class="slide__overlay" viewBox="0 0 720 405" preserveAspectRatio="xMaxYMax slice">
