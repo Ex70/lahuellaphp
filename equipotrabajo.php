@@ -48,12 +48,13 @@
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
                                  <li><a href="https://www.linkedin.com/in/alvaro-vignola-a0a159123/"><i class="fab fa-linkedin"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-phone"></i></a></li>
                               </ul>
                            </div>
                            <!-- /team_img -->
                            <div class="team-content">
                                  <h5 class="title">Álvaro Vignola</h5>
-                              <p>Coordinador General proyecto casa Hogar la Huella</p>
+                              <p><b>Coordinador General proyecto casa Hogar la Huella</b></p>
                            </div>
                            <!-- /team-content -->
                         </div>
@@ -64,29 +65,14 @@
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
                                  <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-phone"></i></a></li>
                               </ul>
                            </div>
                            <!-- /team_img -->
-                           <div class="team-content">
-                                 <h5 class="title">Ariel Sotelo</h5>
-                              <p>Representante del Hogar La Huella</p>
-                           </div>
-                           <!-- /team-content -->
-                        </div>
-                        <!-- /team-style1 -->
-                        <div class="col-md-12 team-style1 notepad">
-                           <div class="team_img">
-                              <img src="img/team4.jpg" class="img-fluid" alt="">
-                              <!-- social icons -->
-                              <ul class="social">
-                                 <li><a href="#"><i class="fa fa-envelope"></i></a></li>
-                                 <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                              </ul>
-                           </div>
                            <!-- /team_img -->
                            <div class="team-content">
                                  <h5 class="title">Fatima Hernandez</h5>
-                              <p>Coordinadora CAIF los periquitos</p>
+                              <p><b>Coordinadora CAIF los periquitos</b></p>
                            </div>
                            <!-- /team-content -->
                         </div>
@@ -97,12 +83,13 @@
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
                                  <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-phone"></i></a></li>
                               </ul>
                            </div>
                            <!-- /team_img -->
                            <div class="team-content">
                                  <h5 class="title">Carlos Garcia</h5>
-                              <p>Coordinador SOCAT</p>
+                              <p><b>Coordinador SOCAT</b></p><br><br>
                            </div>
                            <!-- /team-content -->
                         </div>

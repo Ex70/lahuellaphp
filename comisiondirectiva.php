@@ -55,7 +55,7 @@
                                  </a>
                                  <h6>Presidente</h6>
                                  <p style="text-align: justify">
-                                 Contador público, con posgrado en economía y gestión para la inclusión. Amplia experiencia en organizaciones de la sociedad civil con énfasis en infancia, inclusión social, empleo y desarrollo. Desarrollo profesional independiente.
+                                 Contador público, con posgrado en economía y gestión para la inclusión. Amplia experiencia en organizaciones de la sociedad civil con énfasis en infancia, inclusión social, empleo y desarrollo.
                                  </p>
                               </div>
                               <!-- social icons -->

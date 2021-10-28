@@ -50,26 +50,17 @@
          <!-- /page-with-sidebar -->
          <!-- Sidebar -->
            <!-- blog sidebar starts -->
-           <div id="sidebar" class="h-50 col-lg-3 sticky-top order-lg-1">
-            <div class="widget-area notepad">
-      <h5 class="sidebar-header" id="search1">Buscar</h5>
-      <div class="input-group">
-         <input type="text" class="form-control" placeholder="Search for...">
-         <span class="input-group-btn">
-         <button class="btn btn-secondary btn-sm" type="button" id="go1">Ir</button>
-         </span>
-      </div>
-   </div>
    <!--/widget-area notepad -->
+   <div id="sidebar" class="h-50 col-lg-3 sticky-top order-lg-1">
    <div class="widget-area notepad">
-      <h5 class="sidebar-header" id="cate1">Categorias</h5>
+      <h5 class="sidebar-header" id="cate1">Programas</h5>
       <div class="list-group">
-         <a href="#" class="list-group-item list-group-item-action">
-         Daycare
+         <a href="hogar.php" class="list-group-item list-group-item-action">
+         Hogar
          </a>
-         <a href="#" class="list-group-item list-group-item-action">News</a>
-         <a href="#" class="list-group-item list-group-item-action">Parent Alerts</a>
-         <a href="#" class="list-group-item list-group-item-action">Our Events</a>
+         <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de Niños</a>
+         <a href="caif.php" class="list-group-item list-group-item-action">CAIF</a>
+         <a href="storta.php" class="list-group-item list-group-item-action">La Storta</a>
       </div>
    </div>
    <!--/widget-area notepad -->
@@ -80,16 +71,6 @@
       </div>
    </div>
    <!--/widget-area notepad -->
-   <div class="widget-area notepad">
-      <h5 class="sidebar-header" id="tags1">Etiquetas</h5>
-      <div class="tags-widget">
-         <a href="#" class="badge badge-pill badge-default">News</a>
-         <a href="#" class="badge badge-pill badge-default">Daycare</a>
-         <a href="#" class="badge badge-pill badge-default">Activities</a>
-         <a href="#" class="badge badge-pill badge-default">Lessons</a>
-         <a href="#" class="badge badge-pill badge-default">Teachers</a>
-      </div>
-   </div>
    <!--/widget-area notepad -->
    <div class="widget-area notepad">
       <h5 class="sidebar-header" id="follow1">Síguenos</h5>
