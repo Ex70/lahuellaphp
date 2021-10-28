@@ -16,7 +16,7 @@
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="services.html">Servicios</a></li>
+               <li class="breadcrumb-item"><a href="#">Programas</a></li>
                <li class="breadcrumb-item active" aria-current="page">Club de Niños</li>
             </ol>
          </nav>
@@ -86,7 +86,7 @@
          <div id="sidebar" class="col-lg-3 h-50 sticky-top">
             <!--widget area-->
             <div class="widget-area notepad">
-               <h5 class="sidebar-header" id="servicioicon">Servicios</h5>
+               <h5 class="sidebar-header" id="servicioicon">Programas</h5>
                <div class="list-group">
                <a href="hogar.php" class="list-group-item list-group-item-action">
                   Hogar La Huella

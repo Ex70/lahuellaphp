@@ -36,7 +36,7 @@
             <!-- Post info-->
             <hr>
             <!-- Preview Image -->
-            <img src="img/gallery/institucion.jpg" class="img-fluid" alt="">
+            <img src="img/blog/cumple45.jpg" class="img-fluid" alt="">
             <hr>
             <!-- Post Content -->
             <p class="lead"></p>

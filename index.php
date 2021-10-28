@@ -316,8 +316,8 @@
          <!-- blog-box -->
          <div class="blog-box">
             <!-- image -->
-            <a href="blog-single.html">
-               <div class="image"><img src="img/blog/blogstyle2-1.webp" alt=""/></div>
+            <a href="Lahuella45.php">
+               <div class="image"><img src="img/blog/cumple45.jpg" alt=""/></div>
             </a>
             <!-- blog-box-caption -->
             <div class="blog-box-caption">

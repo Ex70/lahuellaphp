@@ -38,7 +38,7 @@
                   <div class="blog-box">
                      <!-- image -->
                      <a href="Lahuella45.php">
-                        <div class="image"><img src="img/blog/blogstyle2-1.webp" alt=""/></div>
+                        <div class="image"><img src="img/blog/cumple45.jpg" alt=""/></div>
                      </a>
                      <!-- blog-box-caption -->
                      <div class="blog-box-caption">
