@@ -12,13 +12,15 @@
      <div class="jumbo-heading aos-init aos-animate" data-aos="fade-down">
         <h1>Alianzas</h1>
         <!-- Breadcrumbs -->
-        <nav aria-label="breadcrumb">
-           <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-              <li class="breadcrumb-item"><a href="index.php">Colaborar</a></li>
-              <li class="breadcrumb-item active" aria-current="page">Alianzas</li>
-           </ol>
-        </nav>
+        <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="#">Colaborar</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">Alianzas</li>
+                  </ol>
+               </nav>
+            </div>
         <!-- /breadcrumb -->
      </div>
      <!-- /jumbo-heading -->

@@ -12,13 +12,15 @@
       <div class="jumbo-heading" data-aos="fade-down">
          <h1>Experiencia la Storta</h1>
          <!-- Breadcrumbs -->
-         <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="voluntarios.php">Voluntarios</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Experiencia de la comunidad de la storta</li>
-            </ol>
-         </nav>
+         <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="#">Colaborar</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">Experiencia la Storta</li>
+                  </ol>
+               </nav>
+            </div>
          <!-- /breadcrumb -->
       </div>
       <!-- /jumbo-heading -->
