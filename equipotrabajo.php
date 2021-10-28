@@ -144,7 +144,7 @@
                         <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
                         <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
                         <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
-                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="#"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest"  href="#"><i class="fab fa-pinterest"></i></a></li>
                      </ul>
                   </div>
                   <!--/contact-icon-info -->

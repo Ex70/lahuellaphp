@@ -12,13 +12,15 @@
       <div class="jumbo-heading" data-aos="fade-down">
          <h1>Apoyo Economico</h1>
          <!-- Breadcrumbs -->
-         <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="index.php">Colaborar</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Apoyo Economico</li>
-            </ol>
-         </nav>
+         <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="#">Colaborar</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">Apoyo economico</li>
+                  </ol>
+               </nav>
+            </div>
          <!-- /breadcrumb -->
       </div>
       <!-- /jumbo-heading -->
@@ -52,7 +54,7 @@
                Cuenta Colecta en dólares: 10275<br>
                caja de ahorro
                </p>
-               <a href="donaronline.org" class="btn btn-quaternary mt-2">Contacte para Donar</a>
+               <a href="donaronline" class="btn btn-quaternary mt-2">Contacte para Donar</a>
                <!-- Button -->    
             </div>
             <div class="col-lg-5 res-margin"><br><br>

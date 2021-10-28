@@ -115,6 +115,7 @@
                               <div class="contact-icon-info">
                                  <h5>Teléfono</h5>
                                  <p><a href="tel:+59823650827">2365 0827</a></p>
+                                 <i class="fab fa-whatsapp margin-icon "><a href="https://api.whatsapp.com/send?phone=59892250746&text=Quiero%20solicitar%20informaci%C3%B3n">598 92 250 746</i></li>
                               </div>
                            </div>
                            <!-- /contact-icon-->

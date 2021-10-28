@@ -47,6 +47,7 @@
                     <h5>Contacta con nosotros</h5>
                     <ul class="list-unstyled mt-3">
                         <li class="mb-1"><i class="fas fa-phone margin-icon "></i>Oficina: <a href="tel:+59823650827">2365 0827</a></li>
+                        <li class="mb-1"><i class="fab fa-whatsapp margin-icon "></i>WhatsApp: <a href="https://api.whatsapp.com/send?phone=59892250746&text=Quiero%20solicitar%20informaci%C3%B3n">598 92 250 746</i></a></li>
                         <li class="mb-1"><i class="fas fa-envelope margin-icon"></i>Correo: <a href="mailto:lahuella1975@gmail.com">lahuella1975@gmail.com</a></li>
                         <li><i class="fas fa-map-marker margin-icon"></i>Ruta 48, Pbro. Luis Pérez Aguirre SJ
                         <br>Km.19,500 CP 90200</li>
@@ -57,7 +58,7 @@
                         <li class="list-inline-item"><a title="Facebook" target="_blank"  href="https://www.facebook.com/Hogar.La.Huella/"><i class="fab fa-facebook-f"></i></a></li>
                         <li class="list-inline-item"><a  title="Instagram" target="_blank"  href="https://www.instagram.com/hogarlahuella/"><i class="fab fa-instagram"></i></a></li>
                         <li class="list-inline-item"><a title="YouTube" target="_blank"  href="https://www.youtube.com/channel/UCjqTR8EUH4xD-zGGgsIidvg"><i class="fab fa-youtube"></i></a></li>
-                        <li class="list-inline-item"><a  title="Pinterest" target="_blank"  href="#"><i class="fab fa-pinterest"></i></a></li>
+                        <li class="list-inline-item"><a  title="Pinterest"  href="#"><i class="fab fa-pinterest"></i></a></li>
                     </ul>
                     <!-- /End Social Links -->
                 </div>

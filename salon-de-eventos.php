@@ -12,14 +12,15 @@
       <div class="jumbo-heading" data-aos="fade-down">
          <h1>Salón de Eventos</h1>
          <!-- Breadcrumbs -->
-         <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="saloneventos.php">Galería</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Salón de Eventos</li>
-            </ol>
-         </nav>
-         <!-- /breadcrumb -->
+         <div class="row" style="display: flex;justify-content:center;">
+               <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                     <li class="breadcrumb-item"><a href="#">Colaborar</a></li>
+                     <li class="breadcrumb-item active" aria-current="page">Galeria-Salón de Eventos</li>
+                  </ol>
+               </nav>
+            </div>         <!-- /breadcrumb -->
       </div>
       <!-- /jumbo-heading -->
    </div>
