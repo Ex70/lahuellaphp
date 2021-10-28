@@ -109,9 +109,7 @@
 <script src="<?php echo $path; ?>switcher/js/dmss.js"></script>
 <script src="<?php echo $path; ?>switcher/js/extrastyles.js"></script>
  <script src="<?php echo $path; ?>../../../cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js"></script>
-<script>
-     lazyload();
-</script>
+ <script src="<?php echo $path; ?>js/lazysizes.min.js" async=""></script>
 
 <!-- Google Tag Manager (noscript) -->
 <!-- End Google Tag Manager (noscript) -->
