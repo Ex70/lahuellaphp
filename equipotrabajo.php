@@ -60,7 +60,7 @@
                         </div>
                         <div class="col-md-12 team-style1 notepad">
                            <div class="team_img">
-                              <img src="img/Ariel_Sotelo.jpg" class="img-fluid" alt="">
+                              <img src="img/team3.jpg" class="img-fluid" alt="">
                               <!-- social icons -->
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
