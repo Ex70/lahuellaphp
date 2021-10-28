@@ -99,8 +99,8 @@
 <script src="<?php echo $path; ?>vendor/bootstrap/js/bootstrap.min.js"></script>
 
 <!-- Custom Js -->
-<script src="<?php echo $path; ?>js/custom.js"></script>
-<script src="<?php echo $path; ?>js/plugins.js"></script>
+<script defer src="<?php echo $path; ?>js/custom.js"></script>
+<script defer src="<?php echo $path; ?>js/plugins.js"></script>
 <!-- Prefix free -->
 <script src="<?php echo $path; ?>js/prefixfree.min.js"></script>
 <!-- Bootstrap Select Tool (For Module #4) -->
