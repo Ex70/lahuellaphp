@@ -35,7 +35,7 @@
                </div>
                <!-- /p-5 -->
                <!-- image -->
-               <img class="card-img" src="img/intro1.webp" alt="">
+               <img class="lazyload card-img" src="img/intro1.webp" alt="">
             </div>
             <!-- /card -->
             <!-- back of card -->  			
@@ -74,7 +74,7 @@
                </div>
                <!-- /p-5 -->
                <!-- image -->
-               <img class="card-img" src="img/intro2.jpg" alt="">
+               <img class="lazyload card-img" src="img/intro2.jpg" alt="">
             </div>
             <!-- /card -->
             <!-- back of card -->  			
@@ -111,7 +111,7 @@
                </div>
                <!-- /p-5 -->
                <!-- image -->
-               <img class="card-img" src="img/intro3.webp" alt="">
+               <img class="lazyload card-img" src="img/intro3.webp" alt="">
             </div>
             <!-- /card -->
             <!-- back of card -->  			
@@ -139,7 +139,7 @@
 <!-- /container --> 
    <!-- whale in water scene -->
    <!-- whale -->
-   <img src="img/ornaments/whale.png" class="floating-whale" alt="">
+   <img src="img/ornaments/whale.png" class="lazyload floating-whale" alt="">
    <!-- waves -->
    <div class="waveHorizontals">
       <div id="waveHorizontal1" class="waveHorizontal"></div>
@@ -167,7 +167,7 @@
                <!-- service icon -->
                <div class="service-icon">
                   <a href="actividades.php">
-                  <img src="img/servicio1.jpg" alt="" class="blob img-fluid">
+                  <img src="img/servicio1.jpg" alt="" class="lazyload blob img-fluid">
                   </a>
                </div>
                <!-- service content -->
@@ -187,7 +187,7 @@
                <!-- service icon -->
                <div class="service-icon">
                   <a href="saloneventos.php">
-                  <img src="img/services/service2.webp" alt="" class="blob2 img-fluid">
+                  <img src="img/services/service2.webp" alt="" class="lazyload blob2 img-fluid">
                   </a>
                </div>
                <!-- service content -->
@@ -210,7 +210,7 @@
                <!-- service icon -->
                <div class="service-icon">
                   <a href="storta.php">
-                  <img src="img/comunidadstorta.JPG" alt="" class="blob2 img-fluid">
+                  <img src="img/comunidadstorta.JPG" alt="" class="lazyload blob2 img-fluid">
                   </a>
                </div>
                <!-- service content -->
@@ -230,7 +230,7 @@
                <!-- service icon -->
                <div class="service-icon">
                   <a href="actividades.php">
-                  <img src="img/paseos.jpg" alt="" class="blob img-fluid">
+                  <img src="img/paseos.jpg" alt="" class="lazyload blob img-fluid">
                   </a>
                </div>
                <!-- service content -->
@@ -317,7 +317,7 @@
          <div class="blog-box">
             <!-- image -->
             <a href="Lahuella45.php">
-               <div class="image"><img src="img/blog/cumple45.jpg" alt=""/></div>
+               <div class="image"><img src="img/blog/cumple45.jpg" alt="" class="lazyload"/></div>
             </a>
             <!-- blog-box-caption -->
             <div class="blog-box-caption">
@@ -340,7 +340,7 @@
          <div class="blog-box">
             <!-- image -->
             <a href="blog-single.html">
-               <div class="image"><img src="img/blog/blogstyle2-3-3.png" alt=""/></div>
+               <div class="image"><img class="lazyload" src="img/blog/blogstyle2-3-3.png" alt=""/></div>
             </a>
             <!-- blog-box-caption -->
             <div class="blog-box-caption">
@@ -363,7 +363,7 @@
          <div class="blog-box">
             <!-- image -->
             <a href="blog-single.html">
-               <div class="image"><img src="img/blog/blogstyle2-3.png" alt=""/></div>
+               <div class="image"><img class="lazyload" src="img/blog/blogstyle2-3.png" alt=""/></div>
             </a>
             <!-- blog-box-caption -->
             <div class="blog-box-caption">
@@ -398,7 +398,7 @@
          <div class="col-lg-6 p-0" data-start="right: 50%;" 
             data-center="right:-5%;">
             <!-- image  -->
-            <img src="img/call-to-action/calltoactionbg.webp" class="img-fluid img-rounded" alt="">
+            <img src="img/call-to-action/calltoactionbg.webp" class="lazyload img-fluid img-rounded" alt="">
          </div>
          <!-- text box  -->
          <div class="col-lg-6 bg-secondary p-5 justify-content-center align-self-center"  data-start="left: 50%;" 
