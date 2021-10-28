@@ -340,7 +340,7 @@
          <div class="blog-box">
             <!-- image -->
             <a href="blog-single.html">
-               <div class="image"><img class="lazyload" src="img/blog/blogstyle2-3-3.png" alt=""/></div>
+               <div class="image"><img class="lazyload" data-src="img/blog/blogstyle2-3-3.png" alt=""/></div>
             </a>
             <!-- blog-box-caption -->
             <div class="blog-box-caption">
