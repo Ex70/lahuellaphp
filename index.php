@@ -74,7 +74,7 @@
                </div>
                <!-- /p-5 -->
                <!-- image -->
-               <img class="card-img" src="img/intro2.webp" alt="">
+               <img class="card-img" src="img/intro2.jpg" alt="">
             </div>
             <!-- /card -->
             <!-- back of card -->  			
