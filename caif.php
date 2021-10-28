@@ -107,6 +107,7 @@
                   <a href="clubdeniños.php" class="list-group-item list-group-item-action">Club de niños</a>
                   <a href="caif.php" class="list-group-item list-group-item-action active">CAIF</a>
                   <a href="storta.php" class="list-group-item list-group-item-action">La Storta</a>
+                  <a href="espacioadolescente.php" class="list-group-item list-group-item-action">Espacio Adolescente</a>
                </div>
                <!-- /list-group -->
             </div>
