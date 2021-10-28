@@ -69,9 +69,9 @@
                   </div>
                   <div class="col-md-5">
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
-                        <img src="img/services/horne4.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/horne5.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/horne6.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/horne4.JPG" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/horne5.JPG" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/horne6.JPG" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>
