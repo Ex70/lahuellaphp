@@ -38,7 +38,7 @@
                <picture>
                 <source srcset="img/intro1.webp" type="image/webp">
                 <source srcset="img/intro1.jpg" type="image/jpeg"> 
-                <img src="img/intro1.webp">
+                <img class="lazyload card-img" src="img/intro1.webp">
                 </picture>
                <!-- <picture>
                 <source type="image/webp" srcset="img/intro1.webp">
