@@ -78,7 +78,7 @@
                </div>
                <!-- /p-5 -->
                <!-- image -->
-               <img class="lazyload card-img" data-src="img/intro2.jpg" alt="">
+               <img class="lazyload card-img" data-src="img/intro2.webp" alt="">
             </div>
             <!-- /card -->
             <!-- back of card -->  			
