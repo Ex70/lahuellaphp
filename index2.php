@@ -284,16 +284,16 @@
                </div>
                <!-- /p-5 -->
                <!-- image -->
-               <picture>
+               <!-- <picture>
                     <source srcset="img/intro1.webp" type="image/webp">
                     <source srcset="img/intro1.jpg" type="image/jpeg"> 
                     <img class="lazyload card-img" src="img/intro1.webp">
-                </picture>
+                </picture> -->
                <!-- <picture>
                 <source type="image/webp" srcset="img/intro1.webp">
                 <img data-src="img/intro1.jpg" class="lazyload card-img">
             </picture> -->
-               <!-- <img class="lazyload card-img" data-src="img/intro1.webp.jpg" alt=""> -->
+               <img class="lazyload card-img" data-src="img/intro1.jpg" alt="">
             </div>
             <!-- /card -->
             <!-- back of card -->  			
