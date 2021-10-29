@@ -47,7 +47,7 @@
                      <div class="col-md-12 carousel-1item owl-carousel owl-theme "  data-aos="fade-in" >
                         <img src="img/services/horne1.jpg" class="img-fluid rounded-circle" alt="">
                         <img src="img/services/horne2.jpg" class="img-fluid rounded-circle" alt="">
-                        <img src="img/services/horne3.jpg" class="img-fluid rounded-circle" alt="">
+                        <img src="img/services/horne3.JPG" class="img-fluid rounded-circle" alt="">
                      </div>
                      <!-- /col-md- -->
                   </div>
