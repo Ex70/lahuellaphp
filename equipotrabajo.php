@@ -48,13 +48,30 @@
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
                                  <li><a href="https://www.linkedin.com/in/alvaro-vignola-a0a159123/"><i class="fab fa-linkedin"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-phone"></i></a></li>
+                                 <li><a href="tel:+59892250746"><i class="fa fa-phone"></i></a></li>
                               </ul>
                            </div>
                            <!-- /team_img -->
                            <div class="team-content">
                                  <h5 class="title">Álvaro Vignola</h5>
                               <p><b>Coordinador General proyecto casa Hogar la Huella</b></p>
+                           </div>
+                           <!-- /team-content -->
+                        </div>
+                        <div class="col-md-12 team-style1 notepad">
+                           <div class="team_img">
+                              <img src="img/Alvaro_Vignola.jpeg" class="img-fluid" alt="">
+                              <!-- social icons -->
+                              <ul class="social">
+                                 <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                                 <li><a href="https://www.linkedin.com/in/alvaro-vignola-a0a159123/"><i class="fab fa-linkedin"></i></a></li>
+                                 <li><a href="tel:+59893 768 337"><i class="fa fa-phone"></i></a></li>
+                              </ul>
+                           </div>
+                           <!-- /team_img -->
+                           <div class="team-content">
+                                 <h5 class="title">Juan</h5>
+                              <p><b>Coordinador de Salón</b></p>
                            </div>
                            <!-- /team-content -->
                         </div>
