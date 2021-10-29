@@ -63,12 +63,12 @@
 </IfModule>
 <IfModule mod_expires.c>
     ExpiresActive On
-    ExpiresByType text/css A2592000
-    ExpiresByType text/x-component A2592000
-    ExpiresByType application/x-javascript A2592000
-    ExpiresByType application/javascript A2592000
-    ExpiresByType text/javascript A2592000
-    ExpiresByType text/x-js A2592000
+    ExpiresByType text/css A7884000
+    ExpiresByType text/x-component A7884000
+    ExpiresByType application/x-javascript A7884000
+    ExpiresByType application/javascript A7884000
+    ExpiresByType text/javascript A7884000
+    ExpiresByType text/x-js A7884000
     ExpiresByType text/html A3600
     ExpiresByType text/richtext A3600
     ExpiresByType image/svg+xml A3600
@@ -76,54 +76,54 @@
     ExpiresByType text/xsd A3600
     ExpiresByType text/xsl A3600
     ExpiresByType text/xml A3600
-    ExpiresByType video/asf A2592000
-    ExpiresByType video/avi A2592000
-    ExpiresByType image/bmp A2592000
-    ExpiresByType application/java A2592000
-    ExpiresByType video/divx A2592000
-    ExpiresByType application/msword A2592000
-    ExpiresByType application/vnd.ms-fontobject A2592000
-    ExpiresByType application/x-msdownload A2592000
-    ExpiresByType image/gif A2592000
-    ExpiresByType application/x-gzip A2592000
-    ExpiresByType image/x-icon A2592000
-    ExpiresByType image/jpeg A2592000
-    ExpiresByType image/webp A2592000
-    ExpiresByType application/json A2592000
-    ExpiresByType application/vnd.ms-access A2592000
-    ExpiresByType audio/midi A2592000
-    ExpiresByType video/quicktime A2592000
-    ExpiresByType audio/mpeg A2592000
-    ExpiresByType video/mp4 A2592000
-    ExpiresByType video/mpeg A2592000
-    ExpiresByType application/vnd.ms-project A2592000
-    ExpiresByType application/x-font-otf A2592000
-    ExpiresByType application/vnd.ms-opentype A2592000
-    ExpiresByType application/vnd.oasis.opendocument.database A2592000
-    ExpiresByType application/vnd.oasis.opendocument.chart A2592000
-    ExpiresByType application/vnd.oasis.opendocument.formula A2592000
-    ExpiresByType application/vnd.oasis.opendocument.graphics A2592000
-    ExpiresByType application/vnd.oasis.opendocument.presentation A2592000
-    ExpiresByType application/vnd.oasis.opendocument.spreadsheet A2592000
-    ExpiresByType application/vnd.oasis.opendocument.text A2592000
-    ExpiresByType audio/ogg A2592000
-    ExpiresByType application/pdf A2592000
-    ExpiresByType image/png A2592000
-    ExpiresByType application/vnd.ms-powerpoint A2592000
-    ExpiresByType audio/x-realaudio A2592000
-    ExpiresByType image/svg+xml A2592000
-    ExpiresByType application/x-shockwave-flash A2592000
-    ExpiresByType application/x-tar A2592000
-    ExpiresByType image/tiff A2592000
-    ExpiresByType application/x-font-ttf A2592000
-    ExpiresByType application/vnd.ms-opentype A2592000
-    ExpiresByType audio/wav A2592000
-    ExpiresByType audio/wma A2592000
-    ExpiresByType application/vnd.ms-write A2592000
-    ExpiresByType application/font-woff A2592000
-    ExpiresByType application/font-woff2 A2592000
-    ExpiresByType application/vnd.ms-excel A2592000
-    ExpiresByType application/zip A2592000
+    ExpiresByType video/asf A7884000
+    ExpiresByType video/avi A7884000
+    ExpiresByType image/bmp A7884000
+    ExpiresByType application/java A7884000
+    ExpiresByType video/divx A7884000
+    ExpiresByType application/msword A7884000
+    ExpiresByType application/vnd.ms-fontobject A7884000
+    ExpiresByType application/x-msdownload A7884000
+    ExpiresByType image/gif A7884000
+    ExpiresByType application/x-gzip A7884000
+    ExpiresByType image/x-icon A7884000
+    ExpiresByType image/jpeg A7884000
+    ExpiresByType image/webp A7884000
+    ExpiresByType application/json A7884000
+    ExpiresByType application/vnd.ms-access A7884000
+    ExpiresByType audio/midi A7884000
+    ExpiresByType video/quicktime A7884000
+    ExpiresByType audio/mpeg A7884000
+    ExpiresByType video/mp4 A7884000
+    ExpiresByType video/mpeg A7884000
+    ExpiresByType application/vnd.ms-project A7884000
+    ExpiresByType application/x-font-otf A7884000
+    ExpiresByType application/vnd.ms-opentype A7884000
+    ExpiresByType application/vnd.oasis.opendocument.database A7884000
+    ExpiresByType application/vnd.oasis.opendocument.chart A7884000
+    ExpiresByType application/vnd.oasis.opendocument.formula A7884000
+    ExpiresByType application/vnd.oasis.opendocument.graphics A7884000
+    ExpiresByType application/vnd.oasis.opendocument.presentation A7884000
+    ExpiresByType application/vnd.oasis.opendocument.spreadsheet A7884000
+    ExpiresByType application/vnd.oasis.opendocument.text A7884000
+    ExpiresByType audio/ogg A7884000
+    ExpiresByType application/pdf A7884000
+    ExpiresByType image/png A7884000
+    ExpiresByType application/vnd.ms-powerpoint A7884000
+    ExpiresByType audio/x-realaudio A7884000
+    ExpiresByType image/svg+xml A7884000
+    ExpiresByType application/x-shockwave-flash A7884000
+    ExpiresByType application/x-tar A7884000
+    ExpiresByType image/tiff A7884000
+    ExpiresByType application/x-font-ttf A7884000
+    ExpiresByType application/vnd.ms-opentype A7884000
+    ExpiresByType audio/wav A7884000
+    ExpiresByType audio/wma A7884000
+    ExpiresByType application/vnd.ms-write A7884000
+    ExpiresByType application/font-woff A7884000
+    ExpiresByType application/font-woff2 A7884000
+    ExpiresByType application/vnd.ms-excel A7884000
+    ExpiresByType application/zip A7884000
 </IfModule>
 <IfModule mod_deflate.c>
         AddOutputFilterByType DEFLATE text/css text/x-component application/x-javascript application/javascript text/javascript text/x-js text/html text/richtext image/svg+xml text/plain text/xsd text/xsl text/xml image/bmp application/java application/msword application/vnd.ms-fontobject application/x-msdownload image/x-icon image/webp application/json application/vnd.ms-access application/vnd.ms-project application/x-font-otf application/vnd.ms-opentype application/vnd.oasis.opendocument.database application/vnd.oasis.opendocument.chart application/vnd.oasis.opendocument.formula application/vnd.oasis.opendocument.graphics application/vnd.oasis.opendocument.presentation application/vnd.oasis.opendocument.spreadsheet application/vnd.oasis.opendocument.text audio/ogg application/pdf application/vnd.ms-powerpoint image/svg+xml application/x-shockwave-flash image/tiff application/x-font-ttf application/vnd.ms-opentype audio/wav application/vnd.ms-write application/font-woff application/font-woff2 application/vnd.ms-excel
