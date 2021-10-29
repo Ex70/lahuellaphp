@@ -29,10 +29,10 @@
     <!-- Switcher Only -->
     <link rel="stylesheet" id="switcher-css" type="text/css" href="<?php echo $path; ?>switcher/css/switcher.css" media="all" />
     <!-- END Switcher Styles -->
-    <link rel="alternate stylesheet" type="text/css" href="<?php echo $path; ?>styles/maincolors.css" title="maincolors" media="all" />
+    <!-- <link rel="alternate stylesheet" type="text/css" href="<?php echo $path; ?>styles/maincolors.css" title="maincolors" media="all" />
     <link rel="alternate stylesheet" type="text/css" href="<?php echo $path; ?>styles/kindergarten.css" title="kindergarten" media="all" />
     <link rel="alternate stylesheet" type="text/css" href="<?php echo $path; ?>styles/playtime.css" title="playtime" media="all" />
-    <link rel="alternate stylesheet" type="text/css" href="<?php echo $path; ?>styles/preschool.css" title="preschool" media="all" />
+    <link rel="alternate stylesheet" type="text/css" href="<?php echo $path; ?>styles/preschool.css" title="preschool" media="all" /> -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-76370337-3"></script>
     <script>

@@ -77,7 +77,7 @@
                         </div>
                         <div class="col-md-12 team-style1 notepad">
                            <div class="team_img">
-                              <img src="img/fatima_hernandez.jpg" class="img-fluid" alt="">
+                              <img src="img/Fatima_Hernandez.jpg" class="img-fluid" alt="">
                               <!-- social icons -->
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
