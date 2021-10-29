@@ -12,7 +12,7 @@
 <section id="about-home" class="container-fluid pb-0">
    <div class="container">
       <!-- section heading -->  
-      <div class="section-heading text-center" data-aos="fade-down">
+      <div class="section-heading text-center">
          <h2>Programas Principales</h2>
          <p class="subtitle">Conócenos</p>
       </div>
@@ -21,7 +21,7 @@
    <!-- section -->  
    <section id="intro-cards"  class="row cards-no-margin">
       <!-- card 1 -->  
-      <div class="col-lg-4" data-aos="zoom-out">
+      <div class="col-lg-4">
          <div class="card card-flip">
             <!-- front of card  -->  
             <div class="card bg-secondary text-light ">
@@ -60,7 +60,7 @@
       </div>
       <!--/card 1 -->  
       <!-- card 2-->  
-      <div class="col-lg-4" data-aos="zoom-out" data-aos-delay="300">
+      <div class="col-lg-4">
          <div class="card card-flip ">
             <!-- front of card  -->  
             <div class="card bg-primary text-light">
@@ -97,7 +97,7 @@
       </div>
       <!--/col-lg -->
       <!-- card 3-->  
-      <div class="col-lg-4" data-aos="zoom-out" data-aos-delay="600">
+      <div class="col-lg-4">
          <div class="card card-flip ">
             <!-- front of card  -->  
             <div class="card bg-tertiary text-light" id="colorAmarillo">
@@ -156,7 +156,7 @@
 <section id="services-home" class="bg-secondary ">
    <div class="container pb-5">
       <!-- section heading -->  
-      <div class="section-heading text-center text-light" data-aos="fade-down">
+      <div class="section-heading text-center text-light">
          <h2>Otros Servicios y Programas</h2>
          <p class="subtitle">Únicos de La Huella</p>
       </div>
@@ -272,8 +272,7 @@
 </section>
 <!-- /section ends -->
 <!-- Section  -->
-<section id="counter-section" class="container-fluid counter-calltoaction bg-fixed overlay"  data-100-bottom="background-position: 50% 100px;"
-   data-top-bottom="background-position: 50% -100px;" >
+<section id="counter-section" class="container-fluid counter-calltoaction bg-fixed overlay">
    <div id="counter" class="container">
       <div  class="row col-lg-10 offset-lg-1">
          <!-- Counter -->
@@ -326,7 +325,7 @@
    data-top-bottom="background-position: 0% 100%;">
    <div class="container">
       <!-- section heading -->  
-      <div class="section-heading text-center" data-aos="fade-down">
+      <div class="section-heading text-center">
          <h2>Últimas Novedades</h2>
          <p class="subtitle">Nuestras actualizaciones</p>
       </div>
@@ -441,7 +440,7 @@
 <section id="contact-home" class="container">
           
             <!-- section heading -->  
-            <div class="section-heading text-center" data-aos="fade-down">
+            <div class="section-heading text-center">
                <h2>Contacto</h2>
                <p class="subtitle">Ponete en contacto</p>
             </div>

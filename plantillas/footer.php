@@ -102,13 +102,13 @@
 <script defer src="<?php echo $path; ?>js/custom.js"></script>
 <script defer src="<?php echo $path; ?>js/plugins.js"></script>
 <!-- Prefix free -->
-<script src="<?php echo $path; ?>js/prefixfree.min.js"></script>
+<!-- <script src="<?php echo $path; ?>js/prefixfree.min.js"></script> -->
 <!-- Bootstrap Select Tool (For Module #4) -->
 <script src="<?php echo $path; ?>switcher/js/bootstrap-select.js"></script>
 <!-- All Scripts & Plugins -->
-<script src="<?php echo $path; ?>switcher/js/dmss.js"></script>
+<!-- <script src="<?php echo $path; ?>switcher/js/dmss.js"></script>
 <script src="<?php echo $path; ?>switcher/js/extrastyles.js"></script>
- <script src="<?php echo $path; ?>../../../cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js"></script>
+ <script src="<?php echo $path; ?>../../../cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js"></script> -->
  <script src="<?php echo $path; ?>js/lazysizes.min.js" async=""></script>
 
 <!-- Google Tag Manager (noscript) -->
