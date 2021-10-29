@@ -18,7 +18,7 @@
                <ol class="breadcrumb">
                   <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
                   <li class="breadcrumb-item"><a href="#">Programas</a></li>
-                  <li class="breadcrumb-item active" aria-current="page">Programa Adolescente</li>
+                  <li class="breadcrumb-item active" aria-current="page">Espacio Adolescente</li>
                </ol>
             </nav>
          </div>
