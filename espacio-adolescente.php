@@ -11,15 +11,17 @@
    <div class="container" >
       <!-- jumbo-heading -->
       <div class="jumbo-heading" data-aos="fade-down">
-         <h1>Espacio Adolecente</h1>
+         <h1>Espacio Adolescente</h1>
          <!-- Breadcrumbs -->
-         <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-               <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-               <li class="breadcrumb-item"><a href="#">Programas</a></li>
-               <li class="breadcrumb-item active" aria-current="page">Espacio Adolescente</li>
-            </ol>
-         </nav>
+         <div class="row" style="display: flex;justify-content:center;">
+            <nav aria-label="breadcrumb">
+               <ol class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                  <li class="breadcrumb-item"><a href="#">Programas</a></li>
+                  <li class="breadcrumb-item active" aria-current="page">Programa Adolescente</li>
+               </ol>
+            </nav>
+         </div>
          <!-- /breadcrumb -->
       </div>
       <!-- /jumbo-heading -->
