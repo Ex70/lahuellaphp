@@ -8,7 +8,7 @@
     <!-- page title -->
     <title>LA HUELLA | <?php echo $Titulo; ?></title>
     <link href="https://fonts.googleapis.com/css?family=Nunito:400,700,900&display=swap" rel="stylesheet">
-    <link href="fonts/flaticon/flaticon.css" rel="stylesheet" type="text/css">
+    <link href="fonts/flaticon/flaticon.css" rel="preload" as="font" type="text/css">
     <link href="fonts/fontawesome/fontawesome-all.min.css" rel="stylesheet" type="text/css">
     <!-- Fav icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
