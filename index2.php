@@ -35,7 +35,11 @@
                </div>
                <!-- /p-5 -->
                <!-- image -->
-               <img class="lazyload card-img" data-src="img/intro1.webp.jpg" alt="">
+               <picture>
+                <source type="image/webp" class="lazyload" srcset="img/intro1.webp">
+                <img data-src="images/intro1.jpg" alt="Mac"  class="lazyload">
+            </picture>
+               <!-- <img class="lazyload card-img" data-src="img/intro1.webp.jpg" alt=""> -->
             </div>
             <!-- /card -->
             <!-- back of card -->  			
