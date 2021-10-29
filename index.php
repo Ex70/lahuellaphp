@@ -139,15 +139,14 @@
 <!-- /container --> 
    <!-- whale in water scene -->
    <!-- whale -->
-   <img data-src="img/ornaments/whale.png" class="lazyload floating-whale" alt="">
+   <!-- <img data-src="img/ornaments/whale.png" class="lazyload floating-whale" alt=""> -->
    <!-- waves -->
-   <div class="waveHorizontals">
+   <!-- <div class="waveHorizontals">
       <div id="waveHorizontal1" class="waveHorizontal"></div>
       <div id="waveHorizontal2" class="waveHorizontal"></div>
       <div id="waveHorizontal3" class="waveHorizontal"></div>
    </div>
-   <!-- sea -->
-   <div class="sea"></div>
+   <div class="sea"></div> -->
    <!--/ whale in water scene ends -->
 </section>
 <!-- /section ends -->
