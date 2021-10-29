@@ -249,7 +249,7 @@
             <div class="serviceBox2">
                <!-- service icon -->
                <div class="service-icon">
-                  <a href="espacioadolecente.php">
+                  <a href="espacioadolescente.php">
                   <img data-src="img/jovenes.jpg" alt="" class="lazyload blob img-fluid">
                   </a>
                </div>
@@ -262,7 +262,7 @@
                   Plantear el concepto de las "adolescencias" busca captar al sujeto adolescente desde su singularidad con las diferentes formas de aprender el mundo, de acuerdo a sus contextos, su historia familiar y personal.
                   </p>
                   <!-- Button -->	 
-                  <a href="espacioadolecente.php" class="btn btn-quaternary  btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
+                  <a href="espacioadolescente.php" class="btn btn-quaternary  btn-sm mt-2 ml-1" id="colorAmarillo">Leer más</a>
                </div>
             </div>
          </div>
