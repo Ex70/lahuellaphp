@@ -60,7 +60,7 @@
                         </div>
                         <div class="col-md-12 team-style1 notepad">
                            <div class="team_img">
-                              <img src="img/Alvaro_Vignola.jpeg" class="img-fluid" alt="">
+                              <img src="img/team5.jpg" class="img-fluid" alt="">
                               <!-- social icons -->
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
@@ -71,13 +71,13 @@
                            <!-- /team_img -->
                            <div class="team-content">
                                  <h5 class="title">Juan</h5>
-                              <p><b>Coordinador de Salón</b></p>
+                              <p><b>Coordinador de Salón de Eventos</b></p>
                            </div>
                            <!-- /team-content -->
                         </div>
                         <div class="col-md-12 team-style1 notepad">
                            <div class="team_img">
-                              <img src="img/team3.jpg" class="img-fluid" alt="">
+                              <img src="img/fatima_hernandez.jpg" class="img-fluid" alt="">
                               <!-- social icons -->
                               <ul class="social">
                                  <li><a href="#"><i class="fa fa-envelope"></i></a></li>
