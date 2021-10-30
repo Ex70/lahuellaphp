@@ -1,3 +1,6 @@
+Redirect 301 /donar-online https://donaronline.org/asociacion-civil-hogar-la-huella/campana-colaboradores-2021
+Redirect 301 /donaronline https://donaronline.org/asociacion-civil-hogar-la-huella/campana-colaboradores-2021
+
 <IfModule mod_mime.c>
     AddType text/css .css
     AddType text/x-component .htc
