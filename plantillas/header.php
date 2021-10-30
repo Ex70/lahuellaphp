@@ -34,6 +34,14 @@
     <link rel="alternate stylesheet" type="text/css" href="<?php echo $path; ?>styles/playtime.css" title="playtime" media="all" />
     <link rel="alternate stylesheet" type="text/css" href="<?php echo $path; ?>styles/preschool.css" title="preschool" media="all" /> -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NSNH13JW5E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NSNH13JW5E');
+</script>
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-76370337-3"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
